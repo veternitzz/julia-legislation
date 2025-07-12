@@ -1,0 +1,51 @@
+﻿BACKUP SERVER LAWS
+
+
+Bill 1.43 – Server Crisis Backup Act (SCBA)        1
+Bill 4.16 – Revised Backup Succession Act (RBSA)        2
+Bill 1.43 – Server Crisis Backup Act (SCBA)
+Added to this document on 5/15/2025
+1. Establishment of the backup server.
+   1. A secondary server, hereby referred to as the “Backup Server”, will be created and maintained for use exclusively in an emergent case.
+   2. The backup server will replicate the main server’s categories and channels, roles, permissions, rules, policies, guidelines, and bots. 
+2. Conditions for activation.
+   1. The backup server will only be activated under the following circumstances:
+      1. Complete or partial deletion of the main server.
+      2. A crisis rendering the main server unusable/inaccessible.
+   2. Senate approval.
+      1. Activation of the backup server must be approved by the Senate with a majority vote, except in cases of extreme emergency. 
+         1. In situations where a proper senate vote cannot be conducted, the designated Emergency Activation Admin (EAA) may temporarily activate the backup server.
+            1. This action must be reviewed and retroactively approved by the senate and admin team within 24 hours.
+3. Maintenance
+   1. A new role must be created, the “Backup Maintainance” role.
+      1. This role will be responsible for the regular update of the backup server to reflect changes in the main server.
+      2. The role will be compensated with 1,000 credits.
+4. Restrictions on activation.
+   1. The backup server will remain inactive and inaccessible to users unless activated.
+   2. The backup server is not to be used for day-to-day operations, testing, or events unrelated to activation.
+   3. Any unauthorized activation or use of the backup server will result in an investigation and potential disciplinary action by the judicial.
+Bill 4.16 – Revised Backup Succession Act (RBSA)
+Whereas, the previous law, 2.8, the BSA, referred to the no longer existing position, the Minister of Infrastructure.
+1. SHORT TITLE:
+   1. This act may be cited as the Revised Backup Succession Act or the RBSA.
+2. REVOCATION
+   1. Bill 2.8, the Backup Succession Act, shall be revoked.
+1. DEFINITIONS
+   1. A “backup” shall be defined as a server constructed in the image of the main server of the Democratic Republic of Julia for any event which would cause said main server to become unusable or insufficient for carrying out the processes of Julian state and society.
+2. BACKUP SYSTEM
+   1. Two backups, as defined earlier, must be available at any given time in case of emergency. Should such emergency beset Julia:
+      1. The official server will shift to the first backup, owned by the incumbent Minister of Internal Affairs, if the original server is compromised.
+         1. If the incumbent Minister of Internal Affairs is also the long term owner of the official server, this backup will instead be owned by the incumbent Vice President.
+      2. The official server will shift to the second backup, owned by the incumbent Chancellor of the Senate, if the original server and the first aforementioned backup are compromised.
+         1. If the incumbent Chancellor is also the long term owner of the official server, this backup will instead be owned by the incumbent Vice Chancellor.
+      3. The senate must ratify the redesignation of the official server with a majority vote over 50% and elect a Julian from either the executive or the senate to become the server’s long-term owner with a majority vote over 50%. This person can not be the temporary owner who created the backup.
+      4. The shift is finalized at 12:00 AM CET the day after ratification by the senate, at which point the new long-term owner is given ownership by the temporary owner and the Minister of Internal Affairs and Chancellor of the Senate create two new backups.
+   2. If the original server and both pre-existing backups are compromised:
+      1. The incumbent Vice President shall create a backup.
+      2. Should the Vice President be unable or unwilling to create a backup, the incumbent Vice Chancellor of the Senate shall create a backup.
+      3. Should none of the aforementioned people be able and willing to create a backup, the senate will elect a member of the executive or the senate to create a backup.
+      4. Should the backup creator elected by the senate be unable or unwilling to create a backup, the process outlined in 2.2.3 will repeat.
+      5. Once a backup server is properly established, the process outlined from 2.1.3 and 2.1.4 must proceed, with the sole difference that if the backup server is created by a creator elected by the senate, they are the long-term owner by default and do not need to be reconfirmed.
+   3. Following the redesignation of the official server as per article 2, the backup will become the official server and shall be treated as such, allowing the articles of this bill to repeat if it becomes compromised in the future.
+   4. Incumbent Ministers of Internal Affairs and Chancellors of the Senate must transfer ownership of their backups to whoever assumes their office after them.
+   5. Deletion of a backup shall be considered a crime, with the recommended consequence being an impeachment of the owner from their relevant government position.

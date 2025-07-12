@@ -1,0 +1,419 @@
+﻿FINANCE, ECONOMY, AND BUSINESS REGULATION
+Ethical Business Operations Laudification Act (Bill 1.9)        1
+Inter-Personal and Standardization Contract Law (IPSC) (Bill 1.25)        4
+(Bill 1.34)        9
+Economic Reform and Stimulation Act (ERSA) (Bill 3.1)        9
+State Lottery Act (Bill 3.5)        10
+Bureau of Consumer Rights Creation Act (BCRCA) (Bill 3.8)        11
+False Advertising Act (Bill 3.18)        11
+Forms of Business Act (Bill 3.22)        12
+Trade War Provisions Act (Bill 4.21)        13
+Paygrade Act (Bill 4.23)        15
+Fines Rework Act (Bill 4.28)        16
+Channel Stonks Act (Bill 4.31)        18
+Grants Act (Bill L5.12)        18
+Treasury Act (Bill L6.06)        20
+Estates Act (Bill L6.07)        20
+Repeal of Protection against Loan Predation (Bill L6.08)        25
+
+
+Ethical Business Operations Laudification Act (Bill 1.9)
+SHORT TITLE
+1. This act is called the Ethical Business Operations Laudification Act, to be abbreviated as the E.B.O.L.A.
+
+
+KEY DEFINITIONS
+2. In this Act, unless the context otherwise requires —
+“Ministry of Registrar” is defined to be the Ministry of Registrar established under the Ministry of Registrar Act;
+The ministry of finance and its subsidiary regulatory bodies are to be defined as the ministry of finance and any governing body placed under the jurisdiction of the ministry of finance and its minister;
+Capital is to be defined as “the physical or financial resources used to produce value”;
+“Critical companies” is to be defined as capital whose ownership is critically important to national security, with “critically important” to be defined by the supreme court on a case to case basis.
+“Monopoly” is to be defined as an organization with no competition in a specific sector of the internal economy.
+
+
+MARKET REGULATIONS
+3. The ministry of finance and any subsidiary regulatory body created by it has the power to implement and repeal regulations on capital operating within the Republic.
+4. The Senate and the Supreme court reserve the right to strike down any and all regulations imposed within the jurisdiction of article 3, the senate being able to do so on political and ideological grounds and the supreme court being able to do so on the basis of unconstitutionality
+5. In the case of a violation of the regulations in article 3 the ministry of finance may impose fines on any companies or organizations, including the government, in violation. These fines may be challenged in court.
+
+
+THE CREATION OF NEW COMPANIES
+6. With the implementation of this act the Ministry of Finance and the Ministry of Registrar are given the duty to maintain an up to date register of all companies and their employees, including government employees, within the republic and their earnings, for tax purposes. All individuals wanting to start a company must register with the Ministry of Finance and the Ministry must set up a suitable and convenient registering system. Companies and the government also bear the responsibility of registering their own employees.
+
+
+THE STOCK MARKET
+7. The Ministry of Finance acts as the de facto “owner” of the stock market. Because of this the Minister of Finance has the final say on if a company can enter the stock market or on if the market is allowed to operate. 
+8. The Senate reserves the right to overrule any decisions made by the Ministry of Finance outlined in article 7 through a motion and simple majority vote.
+
+
+THE NATIONALIZATION OF CRITICAL COMPANIES
+9. The Ministry of Finance has the power to issue a decree of nationalisation concerning a critical company, this decree will require the consent of a majority of the owners of said company to go into effect.
+10. Any capital that is nationalised must be fairly compensated by the government, fair compensation being the market value of the nationalised capital. 
+11. Failure to compensate such as outlined in article 10 allows the former owner(s) of nationalised capital to sue the government, should the supreme court side with these former owner(s) then the government is forced to repay the value of the capital when it was nationalised and 5% simple interest for each day between nationalisation and the court order.
+
+
+ANTITRUST LITIGATION
+12. The creation of any monopoly is illegal, regardless of how it is created.
+13. In the situation where the government has identified and successfully proven in a court of law the existence of a monopoly it may split assets from this monopoly and auction them off to create equal competition within the sector of this monopoly.
+14. A company may not acquire capital equivalent to, nor above, 50% of its own market value within a single transaction. A company may only make a large transaction of more than 20% of its own market value once a week.
+Inter-Personal and Standardization Contract Law (IPSC) (Bill 1.25)
+1. Contracts are to be written agreements of a formal standard that have two or more parties that follow the specifications of this document.
+2. Contracts may be formed between parties that may consist of
+   1. Individuals representing themselves
+   2. Businesses 
+   3. Organizations
+   4. The Government itself
+3. Contracts must be made in such a way that they;
+   1. Must have clear and precise parameters that both parties can reasonably uphold and must be based on things that a person should be able to do and not simply things they may be able to do.
+   2. Must have some way to be filed and preserved that can prevent edits later, Such as a screenshot or PDF. 
+      1. Someone acting as a third party outside of the contract may also be allowed to hold on to the contract if specified inside of the contract.
+      2. If there is a dispute as to the validity or existence of a contract, the burden of proof lies squarely on the person wishing to enforce the contract. 
+   3. Must not be made or signed under threat or duress.
+   4. Must have a tangible good or service from both sides with clear parameters as to things such as the timeframe, amount, and specifications of that service. 
+      1. Any interpretation that a reasonable person would have over the specifications is to be upheld. Anything that is not stated or would be left up to interpretation is not valid within a contract.
+         1. The standard of interpretation that a reasonable person would have is to be that of a logical conclusion that someone could draw given factors such as common sense, industry standard, and the specific wording of the contract.
+4. Contracts will be invalid if the form of the contract does not fit within the forms contracts can take listed below;
+   1. Fixed-price contract;
+      1. A contract in which one person shall offer a payment of credits or other goods to pay for goods or services. Contracts of this form offer a fixed price for the goods or services that can not change unless a further contract is created to amend the price.
+   2. Cost-reimbursement contract;
+      1. A contract in which one person shall offer a payment of credits or other goods to pay for goods or services. Contracts of this form offer a variable price for the goods or services that can be changed based on the cost of acquisition, creation, and time spent on the good or service. The variation of cost and the guidelines for change must be clear. 
+   3. Unit price contract;
+      1. A contract in which one person shall offer a payment of credits or other goods to pay a variable amount for a single type of good or service. Contracts of this form offer a fixed price for the goods or services that can not change but the overall cost to be paid out shall change based on the number of the goods or services provided.
+   4. Will and Testament;
+      1. Is a contract between an individual and the state. The contract is to list the items, possessions, credits, and wishes of the person after they leave the server, are inactive over a specified amount of time, or are banned for any reason. The state will then distribute them as per the contract. The contract must not request anything of the state other than to do these direct actions. These contracts need to be sent to the ministry of the registrar by the individual who signed them before it would need to be enacted. 
+   5. Non-Disclosure Agreement:
+      1. A contract where one person agrees to not disclose or give information on a specified topic. The contract is considered invalid if the contract is to cover up illegal activity. The length of this contract must be less than a month unless it is contingent on membership in a group.
+   6. Mixed contracts;
+      1. Contracts may have more than one of the forms of contract above within them, with the exception of 4.4 Will and Testaments, which must be their own stand-alone contracts. 
+5. Contracts will be invalid if they include any of the following;
+   1. Anything that would require one member to do something illegal. 
+   2. Anything that requires payment of political favors.
+   3. Payment for contracts must not be in the form of government action
+      1. 5.3 is void for the government itself, the government may use government action as a pay for a contract. This, however, does not apply to members of the government, only the government as a whole.
+      2. Government action is to be defined as any use of the government, such as the passing of laws, 
+   4. Any changes past the time both parties have signed the contract.
+   5. Contracts without an exit clause to leave the contract prematurely. The exit clause may only contain one or more of the following if they;
+      1. Direct damages related to the premature exit from a contract. These payments must be no more than the total cost of all damages that may be accrued by foreseeable or unavoidable events of the contract not being upheld.
+      2. Additionally, a small fine of no more than 10% is proportional to the damages.
+      3. Nondirect damages such as but are not limited to; lost revenue for a business, time loss, disruption of operations, lost future opportunities, etc.
+      4. Abstract payments only for contracts that would not have Title 5.5.1 and Title 5.5.3 applied to them may attach a fee of up to 20,000 credits.
+         1. An exception is to be made for contracts specified in 4.6 if one of the contract types would fall under 5.5.4.
+   6. Any form of improper use of an exit clause within 5.5
+   7. Exclusions of legal action that prevent civil or criminal lawsuits from happening.
+   8. A lack of signature from all parties to be done in the form of a discord username followed by a space, a forward-facing slash (/), another space and the person's discord ID.
+6. In the event of a contract being invalid for any reason, the contract will be exited by both parties with no exit clause damages or fines being paid.
+7. In the event that the actions of a contract are not upheld and the actions of the exit clause are not paid any member may bring the contract into a civil lawsuit on the grounds of; 
+   1. The exit clause not being paid.
+   2. The contract not being upheld as per specified in the contract.
+      1. Actions that specify as actions not being upheld include but are not limited to a lack of payment, delivered goods, or non-compliance with deadlines.
+   3. The contract itself is invalid.
+   4.  Information perennate to the contract was omitted or misrepresented due to negligence. 
+   5. Unreasonable Penalties as per the exit clause of the contract. 
+8. For the court to find a defendant guilty in a civil suit in regards to title 7 of this law there must be; 
+   1. Evidence the contract is not invalid.
+   2. Proof the contract was signed.
+      1. This should be provided by the contract itself and upheld unless the question of the contract being invalid due to lack of signature or if the party did not sign it is part of the case.
+   3. Proof that a breach of the contract occurred.
+   4. Proof that the breach from 8.3 had a harm or damage. 
+   5. The reason from a breach of 8.3 was within the control of the person who had breached the contract.
+   6. The proof for 8.1 to 8.5 is more reasonable than not.
+9. If someone creates a contract in a way that it is invalid by its design to exploit other parties(s) a civil suit or criminal suit may be filed for fraud. They must prove;
+   1. The contract is invalid.
+   2. The contract is invalid in a way that it is meant to be deceptive such as but not limited to an invalid discord id to invalidate the contract.
+   3. The party who manufactured the invalid section of the contract gained something outside of the contract.
+   4. In a civil suit, The proof for 9.1 to 8.3 is more reasonable than not.
+10. If the court finds one party is guilty of a violation of the contract in a civil suit as per Title 8 and Title 9 the Judge(s) shall as they see fit;
+   1. The defendant shall pay up to the total amount of damages suffered.
+   2. The defendant shall pay up to 20% of the total amount of damages suffered. 
+11. If the court finds one party is guilty of a violation of the contract in a civil suit as per Title 8 and Title 9 the plaintiff is entitled to petition the court for compensation of legal fees acquired from the trial.
+12. If the court finds the defendant guilty in a criminal case of Title 9 the Judge(s) shall as they see fit;
+   1. Give a fine of 5,000-100,000 credits.
+   2. A mute sentence of 0-3 days.
+
+
+
+
+(Bill 1.34)
+1. Definitions
+   1. Balance
+      1. Balance is defined as the total balance that is displayed when a user uses the /balance command with unbelivabot. This includes both money in cash and money in the bank.
+2. Tax Exceptions
+   1. Anyone with a total balance that is equal or less than $0 is not subject to any form of taxation.
+   2. If a user is literally incapable of paying a tax they will be excused.
+      1. Purposely making yourself incapable of paying a tax to avoid paying it is considered a crime.
+
+
+Economic Reform and Stimulation Act (ERSA) (Bill 3.1)
+1. Worker and general Protection
+   1. Hiring or firing someone based off of their political allegiance, position in         government, or position in other companies is illegal.
+   2. Loans may not be more than 200% Interest
+   3. You may not be legally obligated to a position in a company that is not paid.
+   4. Forced or indentured labor is illegal.
+   5. Gambling commands are banned, and user made casinos shall be promoted.
+   6. No company or organization may force someone to join or stay in a political party.
+2. Economic Reform
+   1. Businesses are able to apply for subsidies from the gov.
+      1. Nonprofits are not eligible for subsidies as they do not stimulate the economy.
+      2. If a Business is accepted into subsidies. A new ping, the subsidy ping, will be pinged with a link to the businesses server
+State Lottery Act (Bill 3.5)
+This bill mandates that the Ministry of Finance & Business create a state-run lottery as is stated in this bill.
+
+
+1. An Act
+   1. Once this bill is passed, the Ministry of Finance & Business must create a state-run lottery which meets the requirements outlined from §1.4 - §1.8.
+   2. Once this bill is passed, a channel called #lottery will be created in the ‘Executive Branch’ category.
+   3. Once this bill is passed, an Unbelievaboat shop item called ‘Lottery Ticket’ must be created.
+   4. Every monday a state lottery is to be run which ends exactly 6 days after beginning. Lottery tickets may only be purchased once the lottery begins and may no longer be purchased once it ends.
+   5. The price per ticket is to be $10 in Julia’s currency.
+   6. An individual may purchase as many tickets as they wish.
+   7. The winner is to be decided after the lottery ends, but before the next lottery begins in a fair and public manner. 
+   8. 50% of the earnings from this lottery should be given to the winner and the rest of the earnings should be given to the government.
+   9. Once this bill is passed, Bill 1.62 which is known as the ‘ITWR’ is to be repealed.
+Bureau of Consumer Rights Creation Act (BCRCA) (Bill 3.8)
+1. Preamble
+   1. An act to create a Bureau of Consumer Rights to safeguard consumers & stand against false and harmful advertising.
+2. Nature of the Bureau
+   1. The Bureau of Consumer Rights will be created as a cabinet position and office. 
+   2. The Bureau of Consumer Rights will be led by a Spokesperson. 
+   3. Said Spokesperson shall be appointed by the President and confirmed by a vote of the Senate. 
+   4. Should the Senate reject the proposal of the President, then the Senate itself will propose a candidate, due to be confirmed by the President. 
+   5. If this does not reap a result, then the Spokesperson will be elected via a general election of the public.  
+   6. The Spokesperson should not hold any other political office in government. They should be non-partisan. 
+   7. The Spokesperson will serve for a period of 2 months. This may be longer if the search for a new spokesperson is convoluted. 
+3. Duties of the Bureau
+   1. To protect against false, inaccurate and misleading advertising. 
+   2. To ensure the rights of consumers are upheld in all facets.
+   3. To investigate and punish cases where consumers are penalised by advertisers.
+False Advertising Act (Bill 3.18)
+Whereas, false advertising is not criminalized in Julia. False advertising is deceiving the consumer and thus should be a crime.
+
+
+1. Key Definitions
+   1. False Advertising — is the act of objectively lying or deceiving the consumer through advertising or using objectively false metrics to encourage consumers to use your service.
+2. An Act
+   1. False advertising as defined in this bill shall be deemed illegal.
+   2. The criminal charge for false advertising shall be named “False Advertising”.
+3. Implementation
+   1. This bill, once passed by the Senate of Julia, shall take effect immediately.
+
+
+
+
+
+
+Progressive Income Taxation Act Replacement Act (PITARA) (Bill 3.19) – REPEALED BY 5.07 – Repeal PITARA
+Forms of Business Act (Bill 3.22)
+1. Low Liability Company
+   1. The legal abbreviation for a Low Liability Company is ‘LLC’.
+   2. An alternate name for an LLC is ‘Limited Liability Company’.
+   3. When a business or subsidiary is registered as an LLC, it must publicly post a list of ‘members’ which act as owners of the company.
+   4. The members of an LLC are not liable for any debts or damages and only the LLC’s assets may be awarded.
+   5. The LLC must publicly post the fact that it is an LLC and will not be liable for damages caused.
+   6. The members of an LLC are not protected from criminal charges.
+   7. An LLC may not issue shares of its business.
+   8. An LLC may not have any subsidiaries.
+2. Corporation
+   1. The legal abbreviation for a Corporation is ‘Inc.’, ‘Corp.’ or ‘Co.’.
+   2. The owners of a corporation and the corporation itself are directly liable for any debts or damages.
+   3. When a business or subsidiary is registered as a corporation, it must publicly post how many shares have been issued as well as the share price and all owners of the company with how many shares they own.
+      1. EXCEPT—a corporation which is registered as a non-profit does not have to meet the obligation in 2.3 nor may a non-profit corporation issue stock.
+   4. A corporation may have subsidiaries.
+3. Implementation
+   1. In an effort to allow companies to restructure and reorganize, companies have 7 days following the passing of this bill to comply and re-register any businesses.
+Trade War Provisions Act (Bill 4.21)
+1. SHORT TITLE
+This Bill may be cited as the “Trade War Provisions Act” or “TWPA”.
+
+
+2. KEY DEFINITIONS
+   1. Defines “Trump” as a Right Wing Authoritarian Head of State and/or an orange corrupt billionaire.
+   2. Defines “Tariff(s)” as a type of tax or fine on foreign products being sold within our state.
+
+
+3. DECLARATION OF ECONOMIC WAR OR EMERGENCY
+   1. The Senate shall be given the ability to declare a state of economic war.
+   2. The Senate may declare a state of economic war through a motion by a simple majority.
+   3. The Senate may declare a state of economic war to be over through a motion by a simple majority.
+   4. Once the Senate has declared a state of economic war the President of Julia may be granted subsequent emergency powers that shall be outlined in Article 4 or this bill.
+
+
+4. EMERGENCY POWERS DELEGATED TO THE PRESIDENT OF JULIA
+   1. In the event that the Senate of Julia declares a state economic war as outlined in Article 3 the President of Julia shall be granted the following subsequent emergency powers.
+   2. The President of Julia shall be granted the authority to lower or raise tariffs on any goods, services, currency or product from a foreign nation through an executive order alone.
+   3. The President of Julia shall be granted the authority to disregard any free trade agreement signed with a foreign state, in the event that the nation who is a party to the free trade agreement has already violated the agreement in question, through an executive order alone.
+   4. The President of Julia shall be granted the authority to seize funds from a public or private business based in or working with a foreign state through an executive order alone.
+   5. The President of Julia shall be granted the authority to delegate subsequent emergency powers to Ministers and Members of Cabinet with approval from the Senate.
+   6. The powers that the President of Julia is allowed to delegate to Ministers and Members of Cabinet shall be listed in the following:
+The power to raise or lower tariffs through an executive order.
+The power to grant funds to struggling Julian businesses in need of financial assistance.
+The power to seize funds from a public or private business based in or working with a foreign state.
+   7. The Senate holds the authority to revoke any action taken by the President of Julia or subsequent Ministers and/or Members of Cabinet in regards to the economic war.
+
+
+ARTICLE 4. IMPLEMENTATION 
+Upon the passage of this legislation by the Senate this bill shall immediately go into effect.
+Paygrade Act (Bill 4.23)
+Summary
+Changes the system in which government workers are paid.
+
+
+Whereas, the amount certain government workers should be paid is undefined.
+Whereas, current government pay grades are not specific enough.
+
+
+The following will be enacted by the Senate:
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Paygrade Act’.
+2. AN ACT
+   1. The roles titled ‘Internal Governance’ and ‘Lesser Internal Governance’ shall remain for the sake of permissions but shall lose all income with Unbelievaboat.
+   2. The following roles should be created, which should be assigned to the specified roles and make the specified daily income:
+      1. “Pay grade 1”, which should be assigned to Ministerial Clerks and make $400 per day.
+      2. “Pay grade 2”, which should be assigned to Ministerial Secretaries, Directors, Commissioners, Admins and Lower Court Judges and make $800 per day.
+      3. “Pay grade 3” which should be assigned to Deputy Ministers and make $1,200 per day.
+      4. “Pay grade 4” which should be assigned to Senators, Ministers, Supreme Court Justices and make $1,600 per day.
+      5. “Pay grade 5” which should be assigned to the President and Vice-President and make $2,000 per day.
+   3. A role titled “Double Duty” should be created which makes $600 per day and assigned to individuals who hold multiple roles and therefore expect multiple pay grades. In that event, they will be assigned Double Duty and the highest pay grade they expect.
+3. IMPLEMENTATION
+   1. This bill once passed by the Senate shall go immediately into effect.
+Fines Rework Act (Bill 4.28)
+Whereas, not having money can result in one being found guilty of contempt of court or obstruction of justice due to being unable to pay a fine, this bill is to set a new procedure for such a scenario.
+
+
+The following will be enacted into law by the senate:
+
+
+1. SHORT TITLE
+   1. This Act may be cited as the Fines Rework Act (FRA)
+2. AN ACT
+   1. Not paying a fine due to not having money will not be counted as any crime related to evasion of fines as long as the following conditions are met regarding the individual unable to pay their fine(s):
+      1. The individual does not have any money stored in a bank, in cash, or entrusted to any other person.
+      2. The individual did not move their money to another account to feign not having any money.
+      3. The individual has no more assets that could be sold or surrendered to the state to pay off the fine partially or in entirety.
+      4. The individual did not spend all their money after finding out the sentence or during the trial to avoid having the money go to the government.
+      5. The individual has demonstrably made every effort reasonable and practicable for them to repay their fines, and is simply unable to with the assets they own or will gain through collecting income within the deadline.
+   2. In the event an individual cannot pay a fine or multiple fines and the conditions described in 2.1.-2.1.5. are met, the following options are available to the court:
+      1. Money will continuously be drawn from the individual, anything they make must go towards the fine(s) until they are paid off.
+      2. Alternatively, with the individual’s expressed agreement, a deal can be made to perform community service in exchange for the fine being waived. Including but not limited to updating the Julia wiki, providing free administrative aid to a Ministerial office, contributing work to a non-profit organization within Julia, or by performing some reparative task to the individual they had illegally wronged, if applicable.
+   3. Evading fines, as included as a form of obstruction of justice in the Julia Criminal Code - Section 2.7.1, will be defined as the following:
+      1. The act of deliberately avoiding paying a fine, either by stalling, refusing, paying the wrong account intentionally, or manipulating money, despite having the ability to pay the fine correctly and in full within the time frame established by the court.
+      2. The minimum time period to either agree to pay the fine or agree to an alternative deal with the state is 5 days after sentencing. The Attorney General or a Judge may extend the time if they deem it necessary to finish discussions. 
+3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+Channel Stonks Act (Bill 4.31)
+Summary
+Adds the Channel Stonks bot as well as defines various settings.
+
+
+Whereas, we want an economy.
+
+
+The following will be enacted by the Senate:
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Channel Stonks Act’ or as the ‘CSA’.
+2. AN ACT
+   1. The Channel Stonks bot is to be added to the server.
+      1. The bot’s Unbelieavaboat Integration setting is to be enabled.
+      2. The bot’s Starting Amount setting is to be set to 0.
+3. IMPLEMENTATION
+   1. This bill once passed by the Senate shall go immediately into effect.
+Grants Act (Bill L5.12)
+Amended by L5.16/L5.12.1 - First Amendment to the Grants Act
+1. SHORT TITLE
+   1. This Act may be cited as the Grants Act
+2. AN ACT
+   1. Companies and non-government agencies may apply for a government-funded grant to pay for business expenses.
+      1. Business expenses include wages for laborers and procurement of materials.
+      2. Business expenses shall not include payment of fines, any personal expenses, stock payouts to owners, purchasing of own stock, or the investment or purchase of other companies.
+      3. Grants funding may only be used for the wages of top-level leadership with approval from the President, or from the Vice President if the President is absent for more than 24 hours.
+   2. A grant may be applied for through a request to the Minister of Finance.
+      1. The Minister of Finance may determine what criteria must be met for a grant to be approved; and the process of applying for it. If it is not specified by the Minister of Finance, the default method of applying is to send them a direct message that explains in specific detail how much they are asking for and how the money will be used.
+      2. The funding for the grant will come from the State of Julia, not from the Minister of Finance’s personal wealth.
+      3. One request may be made to the Minister of Finance per person per week. A person in the same company or organization as another who has already applied for one may not receive a grant until a week has passed since the last request.
+      4. A grant may be up to 40,000 JUD in total, but grants totaling 10,000 JUD or higher will also need Presidential approval, or approval from the Vice President if the president is absent for longer than 24 hours.
+   3. The Minister of Finance shall keep track of all grants sent out and how much money was delivered.
+   4. Companies and organizations utilizing grants must keep track of how much grant money they have spent, what it was spent on, and how much they have left.
+   5. Any educational or press-related materials created through the use of grant funding must be factual, secular, and non-partisan.
+   6. Parties and religious organizations may not apply for grant funding.
+   7. The President, the Vice-President, and the Minister of Finance & Business may not apply for grant funding.
+   8. It is illegal for anyone to use their position of power as leverage against the Minister of Finance to receive funds or to retaliate for not granting them funds.
+   9. Exchanging grant money under any guise or through any workaround to bypass rules for grant funding shall be illegal.
+   10. If a person is found guilty of violating the Grants Act, they are to be permanently barred from receiving any grants in the future and are subject to a fine of no less than 3,000 JUD and no more than 15,000 JUD in addition to the sum of all grants they had received prior.
+      1. Unless their crime includes blackmailing the Minister of Finance through their position of power, in which case, one week of being timed out shall be added to the sentence.
+   11. There shall be a 200,000 budget limit on grants per month in total.
+3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+
+
+Treasury Act (Bill L6.06)
+Summary 
+Defines a national treasury where all fines, fees or taxes are to be payable to.
+
+
+Whereas, we have no legally defined national treasury.
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Treasury Act’.
+2. AN ACT
+   1. The Minister of Finance must create a Discord account called ‘drjtreasury’.
+      1. The recovery email of this account is to be the Julia Legislation email.
+      2. The password of this account must be passed down to all Ministers of Finance.
+      3. This account is to be the legally defined national treasury in all bills passed within Julia.
+3. IMPLEMENTATION
+   1. This bill, upon passage, is to take immediately into effect.
+
+
+Estates Act (Bill L6.07)
+Summary 
+This bill creates ‘Estates’ which serve as personal channels ideally for news organizations or political parties.
+
+
+Whereas, Estates would be cool :3
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Estates Act’.
+2. AN ACT
+   1. A category called ‘Estates’ must be created.
+   2. A system of ‘Estates’ should be created.
+      1. An ‘Estate’ is to be a personal channel within the main Julia server.
+      2. An ‘Estate’ is to cost 3000JUD per week payable to the National Treasury account.
+      3. An ‘Estate’ must follow Julian law, any regulations in this bill and must be paid in full as per 2.2.2
+         1. In the event they do not, they may be suspended immediately.
+            1. In the event they are suspended a trial must start in the Lower Courts to determine whether or not the suspension of the channel was valid.
+               1. In this case a court may also bar somebody from owning an Estate for up to 21 days.
+      4. An Estate may only exist within the ‘Estates’ category created in 2.1
+      5. An Estate may have special requests such as:
+         1. a change of permissions,
+            1. however the admin team and the president must maintain access to the channel.
+         2. the following of announcements channels from other servers.
+      6. An Estate may not be owned by a company.
+      7. A person may only own two Estates at a time.
+      8. Ownership of an Estate may only be transferred once every 30 days.
+      9. A person must be a full citizen of Julia to own or purchase an Estate.
+      10. Two Estates may not have the same name.
+      11. The State may not infringe on a person’s right to purchase or own an Estate unless permitted by this bill.
+   3. The Ministry of Finance & Business must develop a convenient application process in order to create an ‘Estate’.
+      1. The Ministry of Finance & Business may deny an application or void certain parts of it if the application or part violates any regulations outlined in this bill
+      2. The application must include the following sections:
+         1. a required section where the applicant can input their username and userID,
+         2. a required section where the applicant can input the desired name of their Estate,
+         3. an optional section where the applicant may input any special requests as outlined in 2.2.5
+      3. This application must include a link to this bill.
+   4. The Ministry of the Registrar must work with the Ministry of Finance & Business to keep an up-to-date register of Estates and their owner.
+      1. This register must be shared with the Ministry of Finance & Business.
+3. IMPLEMENTATION
+   1. This bill, upon passage, is to take immediately into effect.
+
+
+Repeal of Protection against Loan Predation (Bill L6.08)
+1. Definitions.
+1.1. This bill may be referred to as “Repeal of Protection Against Loan Predation Bill”, “RPALD”, “RPALDB” or “RPALD Bill.”
+2. Repeal.
+2.1. This bill repeals the Bill L2.07 Protection Against Loan Predation.
+3.1. Implementation.
+3.1. This bill, upon passage, is to take into effect.

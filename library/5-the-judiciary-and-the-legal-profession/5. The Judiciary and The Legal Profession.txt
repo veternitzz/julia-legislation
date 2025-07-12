@@ -1,0 +1,102 @@
+﻿THE JUDICIARY AND THE LEGAL PROFESSION
+
+
+Bill 1.29 – Sentencing Guidelines Improvement Act (SGIA)        1
+Bill 1.30 – External Court Settlements Act (ECSA)        3
+Bill 1.52 — Protection of Rights of the Accused (Double Jeopardy)        5
+Bill L6.10 —Public Defender Payment Act        5
+
+
+Bill 1.29 – Sentencing Guidelines Improvement Act (SGIA)
+This bill will not act as a bill but instead contain a series of amendments to previous bills that do not have sentencing guidelines within them. This is for the express purpose of giving the court guidelines to sentence people under. Titles in this bill henceforth will be done in the format of the title itself being the name of the bill that will be amended and then the subsection being the reformed Sentencing Guideline added. This bill will also reformat the original rules in their entirety via the use of Title 2 with the 1st subsection being the rule and the subsection of that being the sentencing guideline.
+#rules will be amended into the form of a title of the rule to be broadly used by the court and a subsection below with the sentencing guidelines.Title 1 of the revised rules will state, “The following is a baseline simple ruleset for the server, any violation of such will be charged as a violation of the rule itself”
+1. Follow Discord TOS. 
+   1. If the court finds the defendant guilty in a criminal case of Title 1 the Judge(s) shall as they see fit;
+      1. May issue a perma ban
+      2. A mute of 7-30 days
+2. Be respectful of all members, regardless of views.
+   1. If the court finds the defendant guilty in a criminal case of Title 2 the Judge(s) shall as they see fit;
+      1. May issue a perma ban
+      2. A mute of 1-7 days
+      3. A fine of 100-1000 credits
+3. No slurs, be it racial or otherwise
+   1. If the court finds the defendant guilty in a criminal case of Title 3 the Judge(s) shall as they see fit;
+      1. May issue a perma ban
+      2. A mute of 2-15 days
+      3. A fine of 3000-10000 credits
+4. No alt accounts, this will result in the alt and the main(s) being banned. 
+   1. If the court finds the defendant guilty in a criminal case of Title 4 the Judge(s) shall as they see fit;
+      1. Issue a perma ban to all accounts in relation.
+5. Spamming and flooding are strictly prohibited.
+   1. If the court finds the defendant guilty in a criminal case of Title 5 the Judge(s) shall as they see fit;
+      1. Issue a mute of 1-7 days
+      2. A fine of 10,000-50,000 credits
+6. Doxxing is strictly prohibited.
+   1. If the court finds the defendant guilty in a criminal case of Title 6 the Judge(s) shall as they see fit;
+      1. Issue a perma ban
+Rules 11 and 12 will remain as is. 
+7. Government Bias Act
+   1. If the court finds the defendant guilty of this statute in a criminal case they will be convicted of failure to disclose bias, the Judge(s) shall as they see fit;
+      1. Issue a fine of 1,000-5,000 credits 
+8. Artificial Disclosure Act (ADA)
+   1. If the court finds the defendant guilty of this statute in a criminal case they will be convicted of use of ai, the Judge(s) shall as they see fit;
+      1. A fine of 5,000-30,000 credits
+      2. A mute of 0-10 days
+      3. May issue a perma ban
+9. Freedom from Hateful Speech Act
+   1. If the court finds the defendant guilty of this statute in a criminal case they will be convicted of hate speech, the Judge(s) shall as they see fit;
+      1. A fine of 5,000-30,000 credits
+      2. A mute of 5-10 days
+      3. May issue a perma ban
+10. Anti-Terrorism Act.
+   1. If the court finds the defendant guilty of this statute in a criminal case they will be convicted of hate terrorism, the Judge(s) shall as they see fit;
+      1. A perma ban
+11. Anti Election Fraud Act (AEFA)
+   1. If the court finds the defendant guilty of this statute in a criminal case they will be convicted of party packing, the Judge(s) shall as they see fit;
+      1. A perma ban
+
+
+Bill 1.30 – External Court Settlements Act (ECSA)
+1. Any matter that would pertain to a civil trial, Or dispute that 2 or more bodies wish to dispute disagreement and have an out-of-court settlement may do so by coming to a clear agreement of what each side must do in the form of an External Court Settlement. 
+2. Any External Court Settlement must be upheld by someone who has passed the bar exam, is part of the legal profession, and abides by the following. 
+   1. The member of the legal profession must sign off on it on the grounds of the agreement breaking no current laws.
+   2. The member of the legal profession must be a non biased individual who has no motive in the outcome of this proceeding.
+      1. They must obtain the signatures of all parties involved including themself on the agreement itself.  
+      2. They must keep a copy of the signed document on them for up to 7 days or any time allotment within the settlement plus 7 days.
+   3. If the External Court Settlement is disregarded by one or more of the parties involved, any of the involved parties may file a lawsuit with the court. 
+      1. The court must then uphold the External Court Settlement if proof that the Court Settlement was not upheld and that the External Court Settlement is within the bounds of the law.
+         1. Challenges to if the  External Court Settlement is within the bounds of the law may be filed within the case itself.
+      2. The court is not permitted to add any extra fines or stipulations other than the cost of lawyer fees directly related to External Court Settlement not being followed. 
+   4. If an External Court Settlement is made and signed off by a member of the legal profession that violates any part of Title 2 they will be convicted of legal malpractice.  If found guilty the Judge(s) shall as they see fit;
+      1. Being stripped of their title in the legal profession and may not re-apply for 7 days.
+      2. A fine of 5,000-30,000 credits. 
+      3. A mute of 0-5 days.
+   5. The government may also give an External Court Settlement separate from the regulations of the first 4 titles in the form of someone who is suspected of a crime and is being charged with said crime. These are to be plea deals and;
+      1. May not be outside of the sentencing guidelines of the law itself. 
+      2. May be discussed further between the defendant and their lawyers with the state. 
+      3. Must still reflect on the criminal record of the defendant as a guilty charge by a plea deal. 
+
+Bill 1.52 — Protection of Rights of the Accused (Double Jeopardy)
+   1. Any person charged with an offence has the right:
+   1. To be informed without unreasonable delay of the specific offence;
+   2. To be tried within a reasonable time;
+   3. Not to be compelled to be a witness in proceedings against that person in respect of the offence;
+   4. To be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal;
+   5. Not to be denied reasonable bail without just cause;
+   6. Except in the case of an offence under military law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is a ban of no more than fourteen days, or a more severe punishment;
+   7. If finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again.
+
+
+Bill L6.10 — Public Defender Payment Act
+   2. SHORT TITLE
+1.1 This bill is to be cited as the ‘Public Defender Payment Act’
+
+
+   3. AN ACT
+2.1 Upon the completion of a case, a public defender is to be paid an amount within the range of 1000 JUD - 10000 JUD, with the exact payment to be decided by the Judicial Power. 
+2.1.1 This money is to be received from the National Budget. 
+2.2 In the event of government overspending or other unforeseen circumstances related to the budget the contents of this bill are to be paused upon approval from the President and Finance Minister until they believe the problem has been solved.
+
+
+3. IMPLEMENTATION 
+3.1 Upon passage, this bill is to immediately go into effect

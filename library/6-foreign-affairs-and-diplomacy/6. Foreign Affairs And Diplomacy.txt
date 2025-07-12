@@ -1,0 +1,72 @@
+﻿FOREIGN AFFAIRS AND DIPLOMACY
+Bill 3.34 – Delegate Act        1
+Bill 3.35 – Watchlist Act        2
+Bill 3.36 – Embassy Act        3
+
+
+Bill 3.34 – Delegate Act
+Summary
+This bill defines the legal process for choosing delegates for the League of Servers.
+
+
+Whereas, delegates were chosen at random when we originally joined the League of Servers.
+
+
+The following will be enacted by the senate.
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Delegate Act’.
+2. AN ACT
+   1. Effective immediately, all LOS Delegates for Julia are to be removed unless they already meet the criteria.
+   2. All of Julia’s available delegate spots in the League of Servers are to be filled as such:
+      1. The President is to be the Lead Delegate.
+      2. The Secretary of State is to be a delegate.
+      3. The Vice-President is to be a delegate.
+      4. Additional seats are to be nominated by the president and confirmed by the senate.
+   3. In the event a new person takes any of the roles outlined in §2.2, they are to have delegacy transferred to them.
+3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+Bill 3.35 – Watchlist Act
+Summary
+This bill mandates that all users put on the LOS Watchlist be banned.
+
+
+Whereas, users on the LOS Watchlist should not be in Julia as they could be dangerous.
+
+
+The following will be enacted by the senate.
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Watchlist Act’.
+2. AN ACT
+   1. This bill mandates that all users placed on the League of Servers Watchlist and/or The Red Tier/Yellow Tier of The Interserver Union Watchlist be detained via timeout for up to 48 hours and subsequently put on trial for their actions to determine if they are a danger to the People of Julia. Being found guilty of this crime is punishable by a ban from Julia. The temporary timeout period may be extended by court order.
+   2. This ban is to be lifted if they are no longer on either list.
+   3. Users who believe they were falsely placed on the list may appeal in a Julian court of law and prove that they were falsely accused by the League of Servers and/or The Interserver Union of the actions which placed them on the watchlist.
+3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+Bill 3.36 – Embassy Act
+Summary
+This bill defines the legal process for establishing an embassy.
+
+
+Whereas, there is no legal process for establishing an embassy within Julia.
+
+
+The following will be enacted by the senate.
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Embassy Act’.
+2. AN ACT
+   1. A new category called “Embassies” will be created.
+   2. If another demsim would like an embassy within Julia, either the Senate must motion to establish the embassy or the president is to issue an executive order establishing the embassy.
+      1. Upon the passing of this motion or issuing of an executive order, a channel is to be created within the “Embassies” category.
+      2. The name of the channel is to be the formal name of the demsim.
+      3. All other aspects of the channel which include but are not limited to: channel permissions, channel topic, channel purpose is up to the nation itself.
+      4. All requests to update the channel are to be made with the Ministry of Infrastructure.
+      5. The Senate may motion to close this embassy at any time and for any reason.
+         1. In the event the embassy is closed, the channel is to be deleted.
+3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.

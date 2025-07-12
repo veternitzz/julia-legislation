@@ -1,0 +1,108 @@
+﻿LIBRARY OF THE SENATE
+  
+
+LINK TO THE CONSTITUTION OF JULIA
+LINK TO PASSED REFERENDUMS
+
+
+The purpose of this document will be to serve as an up-to-date and accurate registry of every single legislation passed by the Senate, and thus may be used as a master document to refer to accurate versions of Laws.
+
+
+All the laws will be divided into different categories and each category will have a separate document to aid in the ease of access and maintenance of these very docs. These categories have no legal meaning and are only meant to aid navigation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. General Provisions
+Bill 1.6 - Freedom of Information Act (FOIA)        1
+Bill 2.3 – Julia Day Act        2
+Bill 3.30 – User Warrants for the Unaware Act (UWU Act)        3
+Bill 5.01 – Naming Guidelines & Conventions Act        3
+Bill 5.03 – Creator Protection Act        5
+Bill 5.04 – Public Broadcasting Framework Act        6
+Bill 5.05 – Server Branding Act        7
+Bill L5.14 – Channel Cleanup and Consolidation Act        8
+Bill L5.18 – Server Channels Organization & Library Integration Act (SCOLIA)        13
+Bill L6.02 – Automatic Archive Act (AAA)        15
+Bill L6.04 – Transparency in Government Act        16
+Bill L6.09 – Miraheze Act        17
+Bill L6.12 – National Symbols Act        18
+2. Criminal Law and Sentencing
+Bill 1.3 – Government Bias Act        1
+Bill 1.27 – Alternate Account Regulation Act        1
+Bill 1.37 – Conviction Disclosure Act        3
+Bill 4.22 – Julia Criminal Code        3
+Bill 4.26 – Generative Ai Yielding (GAY) Act        
+3. The Executive Branch and Administration
+Bill 4.04 – Act to Separate the MIA and SoS        1
+Bill 4.20 - Environmentalism & Volunteerism Act        3
+Bill L5.15 — Government Readiness And Preparation Level Act        6
+Bill L6.03 — Secretary of the Executive Act        7
+Bill L6.04 — Department of Advertising Creation Act        8
+Bill L6.11 — Ministry Server Consolidation Act        9
+
+
+4. The Legislative Branch and Procedures
+Bill CL6.13 - Senatorial Procedures Act        1
+Bill L6.14 - Second Referendum Reform Act        2
+Bill L6.15 - Senate Infrastructure Act        2
+
+
+5. The Judiciary and The Legal Profession
+Bill 1.29 – Sentencing Guidelines Improvement Act (SGIA)        1
+Bill 1.30 – External Court Settlements Act (ECSA)        3
+Bill 1.52 — Protection of Rights of the Accused (Double Jeopardy)        5
+Bill L6.10 — Public Defender Payment Act        5
+6. Foreign Affairs and Diplomacy
+Bill 3.34 – Delegate Act        1
+Bill 3.35 – Watchlist Act        2
+Bill 3.36 – Embassy Act        3
+7. Elections and Political Participation
+Bill CL5.17 – Election Law        1
+Bill L6.01 – Registration For Voting & Candidacy Act        8
+8. Finance, Economy, and Business Regulation
+Ethical Business Operations Laudification Act (Bill 1.9)        1
+Inter-Personal and Standardization Contract Law (IPSC) (Bill 1.25)        4
+(Bill 1.34)        9
+Economic Reform and Stimulation Act (ERSA) (Bill 3.1)        9
+State Lottery Act (Bill 3.5)        10
+Bureau of Consumer Rights Creation Act (BCRCA) (Bill 3.8)        11
+False Advertising Act (Bill 3.18)        11
+Forms of Business Act (Bill 3.22)        12
+Trade War Provisions Act (Bill 4.21)        13
+Paygrade Act (Bill 4.23)        15
+Fines Rework Act (Bill 4.28)        16
+Channel Stonks Act (Bill 4.31)        18
+Grants Act (Bill L5.12)        18
+Bill L6.06 – Treasury Act        20
+Bill L6.07 – Estates Act        20
+Bill L6.08 – Repeal of Protection against Loan Predation        25
+9. Citizenship, Residency, and Federal Affairs
+Alternate Account Regulation Act (Bill 1.27)        1
+Multi-Citizenship and Government Position Act (MCGPA) (Bill 1.39)        3
+Verification Reform Act (VRA) (Bill 1.42)        6
+Visa Act (Bill 3.16)        7
+Municipality Act (Bill 3.21)        9
+Shallots City Special Administrative Region Act (Bill 1.24)        9
+Charter of Aldenridge (Bill 3.25)        10
+Charter for the People's State of Precipice Mountain        10
+Charter of the Kingdom of Barkattia (Bill 5.10)        10
+City Resident Registration Act (Bill 4.17)        10
+
+
+10. Minecraft and Server Administration
+Bill 2.6 - Minecraft Creation Act (MCA)        1
+Bill 5.02 - Minecraft Civil Act (MCA)        4
+11. Miscellaneous Laws
+Bill 1.43 – Server Crisis Backup Act (SCBA)        1
+Bill 4.16 – Revised Backup Succession Act (RBSA)        2

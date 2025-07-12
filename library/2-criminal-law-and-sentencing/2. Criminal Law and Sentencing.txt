@@ -1,0 +1,115 @@
+﻿CRIMINAL LAW AND SENTENCING
+
+
+Bill 1.3 – Government Bias Act        1
+Bill 1.27 – Alternate Account Regulation Act        1
+Bill 1.37 – Conviction Disclosure Act        3
+Bill 4.22 – Julia Criminal Code        3
+Bill 4.26 – Generative Ai Yielding (GAY) Act        6
+
+
+
+
+Bill 1.3 – Government Bias Act
+1. Any piece of news, media, or propaganda that is directly written by a member of the current executive or legislative branch must state the person that wrote it and their party affiliation (if applicable).
+
+2. Using a government member as a source (e.g. a direct quote from them) does not count as being directly written by that member. If multiple members in the current government wrote the piece, they must ALL be stated.
+
+3. If the court finds the defendant guilty of this statute in a criminal case they will be convicted of failure to disclose bias, the Judge(s) shall, as they see fit, issue a fine of 1,000-5,000 credits.         (Last paragraph added by Bill 1.29)
+Bill 1.27 – Alternate Account Regulation Act 
+   1. Key Definitions
+   1. Primary Account
+   1. The first account that a user joins the server with.
+   2. Alternate Account
+   1. A non-primary account owned by a user already in the server.
+   3. Investigative Alternate Account
+   1. An alternate account used to investigate illegal activity.
+   2. Restrictions
+   1. Alternate accounts cannot vote in elections or polls. Additionally, alternate accounts cannot react to messages.
+   2. Alternate accounts cannot engage in discussion as a primary account would.
+   3. Alternate accounts cannot be used to bypass laws only applicable to a primary account.
+
+
+(Further parts removed under Bill 3.17)
+
+
+3. Investigation/Anonymity
+   1. Alternate accounts can be used to investigate illegal activity as long as they are only used for the investigation and leave the server after the investigation is complete. These are known as investigative alternate accounts.
+   1. These undercover alternate accounts have exceptions to sections 2.e and 3.b, however they are still applicable to all other rules.
+   2. The Ministry of Registrar cannot announce that these special accounts are alternate accounts to anyone outside the ministry.
+   2. In order to officially become an investigative alternate account, the account must not only register with the ministry of registrar, but also be approved by the president.
+   1. In the case the account is being used for an investigation against the president, it must be approved by ⅔ of the senate that is not in the same political party as the current president. This approval will be done in DMs.
+
+
+(Registration section removed under Bill 3.17)
+Bill 1.37 – Conviction Disclosure Act
+Short title
+   1. This act is the Conviction Disclosure Act
+Interpretation
+   2. In this act, unless context otherwise requires —
+A "Conviction" is any guilty conviction of any crime committed in any server related to Julia.
+"Disclosure" is the act of making previously unknown information known.
+Disclosure
+      3. Everyone must fully disclose any previous convictions in and/or from any Julia related servers to any party leader, government official, employer, or head of an organization before joining or being hired of any sort.
+      4. All people in whom the information is disclosed must be told the whole truth and may ask for more details at any time.
+
+
+Bill 4.22 – Julia Criminal Code
+Added on the 14 of May 2025
+
+
+      1. SHORT TITLE
+      1. This Act may be cited as the Julia Criminal Code (JCC)
+      2. AN ACT
+      1. Theft shall be illegal, as defined in 2.1.1.
+      1. A person is guilty of theft if they unlawfully take, destroy, or exercise unlawful control over the property of another with purpose to deprive them thereof.
+      2. Theft may be punished by a fine of no less than 1,000 JUD, but not exceeding 30,000 JUD; in addition to the return of whatever goods were stolen.
+      2. Property damage shall be illegal, as defined in 2.2.1.
+      1. A person is guilty of property damage if they unlawfully take, destroy, or exercise unlawful control over the property of another with purpose to deprive them thereof.
+      2. Property damage may be punished by a fine of no less than 1,000 JUD, but not exceeding 30,000 JUD.
+      3. Bribery shall be illegal, as defined through 2.3.1.-2.3.3.
+      1. A person is guilty of bribery if they offer, promise, give, receive, or accept money, property, services, or any other advantage to, from, or as a public official with the intent to influence an official act as defined in 2.3.3.
+      2. An official act shall be defined as any action/inaction that pertains to an individual’s position as a public official. Including any action that could be considered part of the duties of their position; or any action/inaction that is only possible or legal for them to do because of the position they hold.
+      3. Any acts described and permitted in the description of an individual’s job duties that may apply as bribery under the definition in 2.3.1., including but not limited to: otherwise legal financial transactions, facilitating city residency growth, giving out due rewards, and acts of diplomacy appropriate for one’s position; are to be excluded from the definition of bribery so long as the position itself is otherwise legal and the acts done could be reasonably considered normal parts of it.
+      4. Bribery may be punished with a fine of 1,500 JUD minimum to 10,000 JUD maximum.
+      4. Treason shall be illegal, as defined in 2.4.1.
+      1. Treason includes any of the following: An attempt to destroy the server in which the Democratic Republic of Julia is hosted; Undermining the democratic process via forced takeover of the government through undemocratic means; Assisting in an attempted takeover of the Democratic Republic of Julia by another state.
+      2. Treason may be punished with a minimum of being timed out for 120 hours to a permanent ban at maximum.
+      5. Fraud shall be illegal, as defined in 2.5.1.
+      1. To deceive another for the purpose of receiving money or favors.
+      2. Fraud may be punished with a fine of no less than 10,000 JUD, but not exceeding 30,000 JUD; in addition to the return of any fraudulently obtained goods or positions.
+      3. Fraud that did or would result in real-life loss of money or harm to an individual must be punished with a permanent ban without chance for reduced sentencing or pardoning in accordance with the Constitution.
+      6. Perjury shall be illegal, as defined in 2.6.1.
+      1. The act of lying while under oath, or under a legally binding obligation not to lie, or on a government form, or on a government document.
+      2. Perjury may be punished by a fine no less than 1,500 JUD, but not exceeding 10,000 JUD. Violators of this law are to be held liable for damages which happened as a result of the perjury.
+      7. Obstruction of Justice shall be illegal, as defined in 2.7.1.
+      1. The act of interfering with or impeding the lawful process of the justice system. Including but not limited to evading fines, blackmailing/threatening justices to influence their ruling, and deliberately stalling court proceedings.
+      2. Obstruction of Justice may be punished with a minimum of a 24 hours timeout and not exceeding a 120 hours timeout.
+      8. Aiding and Abetting shall be illegal, as defined in 2.8.1
+      1. The act of assisting someone else in committing a crime.
+      2. Aiding and Abetting may be punished with a minimum of a fine no less than $1,500, but not exceeding $15,000 to the minimum punishment for the crime(s) the offender assisted in at maximum.
+      9. Admins are to be granted the capacity to remove money via command in order to enforce payment of fines in the event that an individual issued a fine refuses to pay it.
+      10. Fines are to be paid to the Bank of Julia/julialottery account in #bot-commands.
+      11. Repeat offenses of any one crime listed in this Act may result in a maximum sentence of a permanent ban at the discretion of the court.
+      3. IMPLEMENTATION
+      1. Upon passage, this bill is to go immediately into effect.
+
+
+Bill 4.26 – Generative Ai Yielding (GAY) Act
+Added on the 14 of May 2025
+      1. SHORT TITLE
+      1. This Act may be cited as the “Generative Ai Yielding Act” or as the “GAY Act”.
+      1. DEFINITIONS
+      1. Generative Ai (or Generative Artificial Intelligence), for the purposes of this act, shall refer to any AI system that produces new content by learning the patterns of an underlying dataset. Content here may include, but is not limited to, text, image, video, and/or audio.
+      2. Guava fruit, for the purposes of this Act, may refer to an edible, pale orange tropical fruit with pink juicy flesh and a strong sweet aroma, found growing off guava trees.
+      2. BARRING THE USE IN ELECTIONS
+      1. The use of Generative Ai, or materials produced by Generative Ai, shall be banned in all forms by candidates for campaign purposes.
+      1. Should a candidate in any election be found using Ai or Ai Generated material by a court, they may be:
+      1. Upon first offence, be giving a warning and made to delete or retract the Generative Ai material;
+      2. Upon a second offence, be fined no-less than 1000 JUD;
+      3. Upon a third offence, have their candidacy revoked for that election and their name stricken from the ballot.
+      3. BARRING THE USE IN OFFICIAL CAPACITIES
+      1. No government official in the Democratic Republic of Julia may use Generative Ai, or material produced by Generative Ai, in any official capacity. This shall include, but may not be limited to, use for official announcements, for the writing or drafting of bills, amendments, and executive orders, in promotional material, for official logos and designs.
+      1. The use of Generative Ai, or materials produced by Generative Ai, by government officials in any official capacity shall be grounds for impeachment and disavowment.
+      4. IMPLEMENTATION
+      1. Upon passage, this bill is to go immediately into effect.

@@ -1,0 +1,108 @@
+﻿MINECRAFT SERVER ADMINISTRATION
+
+
+Bill 2.6 - Minecraft Creation Act (MCA)        1
+Bill 5.02 - Minecraft Civil Act (MCA)        4
+Bill 2.6 - Minecraft Creation Act (MCA)
+Added to this document on 5/15/2025
+Amended by Bill 4.35 — First Amendment to the MCA
+1. This Act defines the creation of a Minecraft Server for The Democratic Republic of Julia.
+2. The ownership of the Minecraft server, hereby defined as “server” will be an independent position within the current government structure
+   1. The server owner’s position will be known as “Minecraft Operator (MCO)”
+   2. The MCO cannot be:
+      1. The Discord Server Owner
+      2. The Discord Supervisor
+         1. If ever re-implemented
+   3. Additional Positions added to 2.b. can be approved with any of the following methods:
+      1. Majority Senate Approval (50%+1)
+      2. Presidential Approval + Minority Senate Approval (33%+1)
+      3. Supermajority Public Approval (66%+1)
+   4. Removing Positions from 2.b. or altering any method of 2.c. requires the same steps as a constitutional amendment.
+   5. The First MCO will be Discord user “veternitzz”, “406888924464676894” also known as “Anthony”
+   6. The MCO may be removed through any of the following methods:
+      1. Supermajority Senate Approval (66%+1)
+      2. Ultramajority Public Approval (85%+1)
+3. The MCO must take an oath to swear to uphold Julia’s constitution and laws in the implementation and behind-the-scenes work of the server.
+   1. However, the MCO’s specific role is not responsible for upholding and enforcing the constitution while playing on the server, as that is the responsibility of the executive branch.
+   2. This stipulation, however, does not allow the MCO to be exempt from any fair trail afforded to any ordinary Julia citizen.
+4. The MCO must appoint a Deputy Minecraft Operator (DMCO)
+   1. The DMCO must be approved with a Senate Majority (50%+1)
+   2. The DMCO will assist the MCO with any tasks presented to them by the MCO
+   3. The DMCO is not bounded by 2.b.
+   4. The DMCO is the suggested replacement to the MCO if the MCO ever is removed or resigns their position.
+      1. The DMCO will need to be approved to become MCO with any of the following methods:
+         1. Majority Senate Approval (50%+1)
+         2. Supermajority Public Approval (66%+1)
+   5. The DMCO can be removed by only the MCO’s approval.
+5. The MCO may appoint Server Admins (MCA) at their discretion
+6. The server will be legally viewed as an extension of the Discord Server, which means:
+   1. Julia’s Constitution and Laws are valid and upheld within any part of the server.
+   2. Any reference to physical actions or buildings in Julia’s Constitution and Laws must be upheld within the server.
+   3. Participation is optional.
+   4. “Death” is legally inconsequential.
+   5. The creation of an alternative country within the server will be seen as a direct attack of Julian soil, and is grounds for war.
+7. The following changes to the Discord Server:
+   1. Creation of the category “Minecraft”. Which contains:
+      1. #mc-info, which contains:
+         1. Server IP
+         2. Data Pack (if needed)
+      2. #mc-announcements
+      3. #mc-general
+      4. “mc-vc” Voice Channel
+   2. Creation of the following roles, with respective privileges:
+      1. MCO
+         1. Speaking perms in #mc-info, #mc-announcements
+      2. DMCO
+         1. Speaking perms in #mc-announcements
+      3. MCA
+         1. Speaking perms in #mc-announcements
+      4. Citizen
+         1. Speaking perms in #mc-general, “mc-vc”
+   3. All specifics outlined in 7.a. And 7.b. are exempt from the Minister of Infrastructure’s jurisdiction of organizational approval
+
+
+
+
+Bill 4.07 - Minecraft Civil Act
+(removed by 5.02 - Mincecraft Civil Act)
+Bill 5.02 - Minecraft Civil Act (MCA)
+SHORT TITLE
+* This Act may be cited as the ‘Minecraft Civil Act’ or ‘MCA’.
+
+
+1. ARTICLE 1: Griefing
+   1. This shall implement a grief protection status for all government buildings. 
+   2. Destruction, obstruction, or theft of another’s property shall be illegal.
+      1. Municipalities may enforce local building regulations within their jurisdiction through deconstruction and it shall not be counted as griefing.
+
+
+2. ARTICLE 2: Cheating/Hacking
+   1. Any form of hacking or cheating shall be illegal.
+   2. Creating lag machines shall be illegal.
+   3. Regulations on the design or capacity of item/mob farms utilizing potentially unintended mechanics may be done on a case-by-case basis across the server through Referendum/Petition Law; or within the jurisdiction of a municipality through their local governing processes. 
+      1. Exception being those that cause excessive strain on the server’s real-life infrastructure/resources, which shall be illegal.
+
+
+3. ARTICLE 3: PVP
+   1. Killing or harming any other player shall be illegal, unless both parties consent to a PVP match for the purpose of a duel or for sport; or if being done in defense of yourself, others, or your/others property.
+   2. Municipalities may use lethal force in order to enforce local laws within their jurisdiction or to defend their people or territory from an invasion or raid.
+      1. The jurisdiction shall be defined as being that municipality’s territory and citizens.
+      2. Municipalities may not use force against players in any circumstance that does not involve their citizens or their territory.
+      3. Municipalities may not use local law, orders, or their charter to forcefully annex, occupy, or attack the buildings or territories of other players/municipalities.
+      4. Territorial disputes may be settled in a national court if no internal conclusion can be reached.
+
+
+4. ARTICLE 4: Speech
+   1. All national laws regarding speech in the Discord servers shall also apply to the Minecraft server’s in-game chat, signs, books, and any other means of having text in the game.
+
+
+5. ARTICLE 5: Enforcement
+   1. For all of the above offenses, the penalty will be no less than a one-day ban and up to a permanent ban from the Minecraft server.
+   2. If an individual is caught actively committing a crime, the Minecraft server’s admins may ban them for up to 24 hours before trial to prevent further criminal activity. The temporary ban may be extended at the discretion of a Judge.
+   3. Any abuse of admin power must result in a revocation of admin powers within the Minecraft server and a permanent ban from it.
+   4. If a crime occurred in and only pertains to a municipality, the local authorities may handle it internally. If the sentencing is believed to be in contradiction with Julian Law, the case may be appealed to a higher court.
+
+
+6. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+   2. This bill will repeal and replace SL4.06/2025 - Minecraft Civil Act

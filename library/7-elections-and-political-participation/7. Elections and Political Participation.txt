@@ -1,0 +1,151 @@
+﻿ELECTIONS AND POLITICAL PARTICIPATION
+Bill CL5.17 – Election Law        1
+Bill L6.01 – Registration For Voting & Candidacy Act        8
+
+
+Bill 1.10 – Electoral Registration and Vote Counting Act - REPEALED
+
+
+Bill 1.50 – Election Registration Reform Act (ERRA) - REPEALED
+Amended by 4.27 – Amendments to the Election Registration Reform Act 
+
+
+Bill 1.19 – Anti Election Fraud Act (AEFA)  - REPEALED
+
+
+Bill 1.55 – Protection of Voter Registration, and Regulations Thereof - REPEALED
+
+
+Bill 4.29 – Act to Improve Election Security - REPEALED
+Bill CL5.17 – Election Law
+Added on the 18 of June 2025
+1. SHORT TITLE
+   1. This Act may be cited as the Election Law.
+
+
+2. KEY DATES IN GENERAL ELECTIONS
+   1. The time limit to register for the executive election defined in Article C7.2 shall be 3 days (72 hours) before the election starts.
+   2. The time limit to register for the legislative election defined in Article C7.2 shall be 3 days (72 hours) before the election starts.
+   3. The candidates elected as President and Vice-President on the election in Article C7.2 will take their roles on the last day of the month at 00:00 CET.
+   4. The candidates elected to the Senate on the election in Article C7.2 will take their roles 5 days (120 hours) after the election ends at 00:00 CET.
+
+
+3. ELECTION SYSTEMS
+   1. The process to elect a President on the ballot set up by the executive election in C7.2 must be done in the following steps; 
+      1. The ballot must have each Presidential candidate listed with ranks from 1st to the total number of people running for President. The order will be established by the ministry or organization handling the election.
+      2. The voter will be told to rank their choices for President with the 1st rank being their 1st choice for President and each lower rank will be a lower choice. 
+      3. Once the ballot is over, each of the 1st choice ranks are to be counted by the ministry or organization handling the election.
+      4. Additionally, each ranking for a candidate is to be counted with the ranking they were given. This number is then to be divided by the total number of people who ranked them on their ballot. 
+      5. Once 3.1.3 and 3.1.4 are done, if one candidate has over half the first choice votes, they will be elected the new President.
+      6. In case no candidate fulfills 3.1.5, the candidate with the lowest number of votes is to be eliminated from the race.
+         1. If two or more candidates have the same amount of votes, the candidate with the higher number from the process in 3.1.4 is to be eliminated. 
+         2. In case two or more candidates have the same number from the process in 3.1.4, the one with the least first choice votes shall be eliminated.
+         3. In case two or more candidates have the same first choice votes, then the one with the least second choice votes shall be eliminated, and so on.
+         4. In case two or more candidates are still tied after 3.1.6.3, the one that registered last is to be eliminated.
+      7. Once a candidate is eliminated via the method in 3.1.6 each vote that is currently given to the eliminated candidate is to have the next highest applicable candidate receive their vote. 
+      8. Once 3.1.7 is done, the process outlined in 3.1.6 and 3.1.7 is to be repeated until; 
+         1. One candidate has over half the total votes. 
+         2. Only one candidate has not been eliminated. 
+      9. Once either of 3.1.8.1 and/or 3.1.8.2 have been fulfilled that candidate will be the new President.
+
+
+   2. The process to elect Senators on the ballot set up by the election in C7.2 must be done in the following steps; 
+      1. The ballot must have each Senate candidate listed with ranks from 1st to the total number of people running for Senate. The order will be established by the ministry or organization handling the election.
+      2. The voter will be told to rank their choices for Senate with the 1st rank being their 1st choice for Senator, and that each lower rank will be a lower choice. 
+      3. Once the ballot is over, each of the 1st choice ranks are to be counted by the ministry or organization handling the election.
+      4. Additionally, the following must also happen;
+         1. Each ranking for a candidate is to be counted with the ranking they were given. This number is then to be divided by the total number of people who ranked them on their ballot. 
+         2. The total number of ballots are to be counted and divided by the number of seats being given in the election. 
+      5. Once 3.2.3 and 3.2.4 are done, see if any candidate(s) have more then the number specified in 3.2.4.2, if any candidate(s) have more than the number specified in 3.2.4.2 the following will happen for each candidate; 
+         1. The candidate will be given a seat on the Senate. 
+         2. Count all the next highest choices from each ballot that the candidate had. 
+         3. Take the total number of votes the candidate has and subtract the number from 3.2.5.2. 
+         4. The number of votes over the number in 3.2.4.2 will be spread out proportionally by keeping the ratio of next choice votes as close as possible. This is to be done by giving the candidate with the highest number of votes from 3.2.5.2 that does not have a higher proportion of votes to that in 3.2.5.2. 
+         5. The process in 3.2.5.4 is to continue until the total number of votes in 3.2.5.3 are given out. 
+      6. The candidate with the lowest number of votes is to be eliminated from the race.
+         1. If two or more candidates have the same amount of votes the candidate with the higher number from the process in 3.2.4 is to be eliminated.
+         2. In case two or more candidates have the same number from the process in 3.2.4, the one with the least first choice votes shall be eliminated.
+         3. In case two or more candidates have the same first choice votes, then the one with the least second choice votes shall be eliminated, and so on.
+         4. In case two or more candidates are still tied after 3.2.6.3, the one that registered last is to be eliminated.
+      7. Once a candidate is eliminated via the method in 3.2.6, each vote that is currently given to the eliminated candidate is to have the next highest applicable candidate receive their vote. 
+      8. Once 3.2.7 is done, the process outlined in 3.2.5, 3.2.6 and 3.2.7 is to be repeated until only the number of candidates that are not eliminated matches the number of seats being given in the election. 
+      9. Once either of 3.2.8 has been fulfilled those candidates will be the new Senators.
+
+
+4. SPECIAL SENATE ELECTIONS
+   1. After every Senatorial Election, the announcement of the winners must also list, numerically, the candidates who did not win a seat. The rankings on the list are decided by removing the candidates who successfully won, and calculating an Instant Run Off election, as defined in Article 3.1. The winner of the calculated run off will top this ‘on deck’ list, and this process will repeat until each candidate has been ranked.
+      1. Should a seat in the Senate become vacant, the ‘on deck’ candidate at the top of the most recent ranked list shall be asked to temporarily fill the position. If the ‘on deck’ candidate were to decline or not respond within 24 hours, this process must repeat numerically down the ranked list.
+         1. In the event that all ‘on deck’ candidates have failed the process in Article 4.1.1., a Senate Special Election shall be held to fill any vacant spots.
+      2. If an ‘on deck’ candidate were to accept in the process laid out in Article 2.7.1., they must take an oath through legal means, in which they will become a Deputy Senator.
+         1. The Deputy Senator is afforded all privileges privy to a Senator, with the exception of the ability to sponsor any Bill, or vote for the Senatorial Chancellor.
+      3. A Senate Special Election shall be held to replace all Deputy Senators with proper Senators.
+         1. All Deputy Senators will be automatically entered into candidacy for the Senate Special Election in which the seat they are occupying is being voted upon. 
+         2. In case only one seat is vacant, an election will take place in the manner of how the President is elected. In case there are two or more seats in play in the election, the election will take place in the manner of how the Senate is elected. 
+            1. The winners of this election will replace the vacancies and any Deputy Senator seats.
+
+
+   2. In case there’s one or more vacancies in the Senate but all of them are covered by Deputy Senators, the ministry or organization handling elections shall hold a Special Senate Election with the process described on 4.1.3. This election shall be held in the next 3 to 7 days after the vacancies occurred, with at least 3 days (72 hours) for candidates to submit a bid.
+
+
+   3. In the event that the situation described on 4.1.1.1 happens and no special senate election has been called yet, the ministry or organization handling elections shall hold a Special Senate Election with the process described on 4.1.3. This election shall be held in the next 3 days after the vacancies occurred, with at least 2 days (48 hours) for candidates to submit a bid.
+
+
+   4. In the event that any of the situations outlined in 4.2 or 4.3 happens but the Senator-elects from the election defined on Article C7.2 are about to take their roles in the next 5 days, the special elections mentioned in 4.2 and 4.3 will not happen.
+
+
+5. EMERGENCY DEADLINES
+   1. The ministry or organization handling elections shall impose emergency deadlines in an election in these cases:
+      1. Any of the elections defined on Article C7.2 hasn't been called yet and the time for registration has ended.
+      2. The time to hold a special election has run out and the election hasn't been called yet.
+      3. An election hasn't been called yet and the deadline for registration is now impossible to follow.
+
+
+   2. To adhere to these emergency deadlines, the ministry or organisation handling elections must make an announcement explaining the reason they are adopting these deadlines and the elections these deadlines will apply to.
+
+
+   3. If these emergency deadlines are adopted:
+      1. For any of the elections defined on Article C7.2, the minimum to submit a bid shall be 24 hours and the minimum for the election to take place shall be 2 days (48 hours).
+      2. For a special election, the minimum to submit a bid shall be 24 hours, and the minimum for the election to take place shall be 36 hours.
+      3. In case it's an executive election defined on C7.2, the President and Vice-President will take their roles on the last day of the month or 5 days after the election ends, whichever comes first.
+      4. In case it's a legislative election defined on C7.2, the senator-elects will take their roles 3 days after the election ends.
+
+
+6. AUTHORITY ON ELECTIONS
+   1. The ministry or organisation handling elections is the Ministry of Registrar.
+
+
+7. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect and apply for every election that is called after its approval.
+Bill L6.01 – Registration For Voting & Candidacy Act
+Added on the 18 of June 2025
+Summary
+This bill will completely reform the entire process of gaining new voter IDs and repeal old laws which are confusing and outdated.
+
+
+Whereas, the current system is confusing and outdated.
+
+
+1. SHORT TITLE
+   1. This bill may be called the “Registration For Voting & Candidacy Act” or the “RFVCA”, for short.
+2. REPEALMENT
+   1. Bill 1.10 – Electoral Registration and Vote Counting Act shall be repealed in its entirety.
+   2. Bill 1.50 – Election Registration Reform Act (ERRA) shall be repealed in its entirety.
+   3. Bill 1.19 – Anti Election Fraud Act (AEFA) shall be repealed in its entirety.
+   4. Bill 1.55 – Protection of Voter Registration, and Regulations Thereof shall be repealed in its entirety.
+   5. Bill 4.29 – Act to Improve Election Security shall be repealed in its entirety.
+3. VOTER ID
+   1. Every Citizen of Julia will receive a unique 3 character voter ID by the Ministry of Internal Affairs in the following format:
+                                [A-Z][0-9][0-9]
+   2. The Ministry of Internal Affairs will store the unique voter ID along with the user ID of the user.
+   3. These voter IDs may not be handed out to members who have joined Julia for the first time and 24 hours have not elapsed.
+   4. Each voter, when voting, must use the unique 3 character combination for casting and validating their ballot.
+   5. The Ministry of Internal Affairs will hand over the list of all voter IDs without the user IDs to the competent authority handling elections. 
+   6. If the President declares a GRAPL level of 4 or lower and it is confirmed by the Senate, as laid out in L5.15 – Government Readiness And Preparation Level Act, the Minister of Internal Affairs may, at their discretion, order a suspension of voter registrations to New Members, but must reinstate voter registration after GRAPL is reduced to level 5.
+   7. Disclosure of another voter’s combination to any other voter or organization by any individual may be charged with treason.
+   8. The Ministry of Internal Affairs shall retire all Voter IDs which have been publicly or privately released, either purposefully or accidentally.
+   4. REGISTRATION FOR CANDIDACY
+   1. Any citizen who wishes to register for elections may do so by contacting the relevant authority (the Commissioner of Elections).
+   2. The CoE may not prohibit any citizen from registering themselves as a candidate, unless another disqualifying factor rules them ineligible for candidacy.
+   3. Citizens registering for elections may do so under the banner of a political party. The ballot will mention the candidate’s username along with their party affiliation. If a candidate does not register with a party, their party affiliation will be “Independant”.
+   5. IMPLEMENTATION
+   1. Upon passage, this bill is to go into effect immediately.

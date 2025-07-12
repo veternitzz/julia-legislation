@@ -1,0 +1,380 @@
+﻿GENERAL PROVISIONS
+
+
+Bill 1.6 - Freedom of Information Act (FOIA)        1
+Bill 2.3 – Julia Day Act        2
+Bill 3.30 – User Warrants for the Unaware Act (UWU Act)        3
+Bill 5.01 – Naming Guidelines & Conventions Act        3
+Bill 5.03 – Creator Protection Act        5
+Bill 5.04 – Public Broadcasting Framework Act        6
+Bill 5.05 – Server Branding Act        7
+Bill L5.14 – Channel Cleanup and Consolidation Act        8
+Bill L5.18 – Server Channels Organization & Library Integration Act (SCOLIA)        13
+Bill L6.02 – Automatic Archive Act (AAA)        15
+Bill L6.04 – Transparency in Government Act        16
+Bill L6.09 – Miraheze Act        17
+Bill L6.12 – National Symbols Act        18
+
+
+Bill 1.6 - Freedom of Information Act (FOIA)
+Added to this document on 5/15/2025
+1. All citizens, unless explicitly exempted under this Act, have the right to access public records (hereby defined as records within this server and any affiliated servers) and information held by the government. This includes:
+   1. Records of Congress, the executive body, judicial decisions (except criminal records sealed on the suspect's own volition)
+   2. Public projects, organizations, and initiative.
+2. Exemptions to this Act include information held by the government or the individuals/organizations in question where, if the information were to be disclosed, it would:
+   1. infringe individual privacy (e.x. DMs)
+   2. infringe corporate/organizational privacy (e.x. trade/business secrets)
+   3. harm law enforcement or public safety (e.x. an ongoing felon investigation).
+3. Government bodies are required to publish public governmental records - being governmental records that are not exempted under this Act - proactively, and in an easily accessible format. This includes budgets, meeting minutes/transcripts, and legislative polls/drafts.
+4. A portal will be implemented to host FOIA appeals, where agencies are required to provide clear reasons for denial or redaction of materials, along with the proper appeal process to make said materials published.
+5. Officials or agencies that fail to comply with FOIA requirements will face fines, disciplinary action, or both.
+Bill 1.46 – Naming Convention Act (NCA)
+Bill 1.48 – Naming Convention Repeal Act (NCRA)
+Bill 1.49 – Naming Recommendation Act (NRA)
+Bill 2.3 – Julia Day Act
+Added to this document on 5/15/2025
+Summary
+This bill recognizes the official celebration of “Julia Day” and how it should be celebrated.
+1. Julia Day
+   1. “Julia Day” shall be a government recognized holiday which shall be celebrated on the second of every month between 12 AM EST and 11:59 PM EST.
+   2. On Julia Day, the Senate of Julia will enter a partial-recess where no votes are to take place.
+      1. HOWEVER—approval votes of cabinet picks and senatorial chancellor elections are to take place.
+
+
+2. Celebration
+   1. The spamming of Discord emojis: :tada: and :partying_face: in the channel #general-2 (1333882270129586250) will be permitted without penalty.
+3. Overrides
+   1. This bill overrides Bill 1.18 and makes it invalid.
+Bill 3.30 – User Warrants for the Unaware Act (UWU Act)
+Added to this document on 5/15/2025
+
+
+1. Upon the permanent banning of any person in the main server of Julia, an admin must ping the “External Server Owner” role and inform them of/to:
+   1. The name and user id of who has been permanently banned,
+   2. The reason this user has been permanently banned,
+   3. Ban them from any and all servers which they operate in relation to the Democratic Republic of Julia.
+Bill 5.01 – Naming Guidelines & Conventions Act
+Added to this document on 5/18/2025
+
+
+Summary
+This bill serves to reconcile the three different naming laws into one and also updates the definition of impersonation.
+
+
+Whereas, there is a need to unify the various naming laws into one to avoid confusion.
+
+
+Whereas, there is a need to update the definition of impersonation and its punishments.
+
+
+1. SHORT TITLE
+   1. This bill may be called the “Naming Guidelines & Conventions Act” or the “NG&CA” or “NGACA”, for short.
+2. REPEALMENT
+   1. This bill shall repeal Bill 1.46 – Naming Convention Act (NCA), Bill 1.48 – Naming Convention Repeal Act (NCRA), and Bill 1.49 – Naming Recommendation Act (NRA).
+3. NAMING GUIDELINES
+   1. Server members who hold official positions in the Executive, the Judiciary, or the Legislature will be referred to in their official capacity in official documentation in the following format:
+                                [Title] [Name]
+   1. Religion or party affiliation is not to be mentioned in official documentation.
+   2. Any names not following this structure must be updated to comply with this act.
+   3. Failure to follow the naming convention may result in a request for correction.
+   4. Nicknames within the server may follow the above format and may add other titles, such as party affiliation or religion.
+   4. IMPERSONATION
+   1. “Impersonation” shall be defined as pretending to be a different person by copying their behaviour, their manner of speaking, or asserting that they are a different person when they are not, done with the intent to harm the nation or any of its citizens.
+   2. Impersonation of any official or governmental position shall be a fineable offence.
+   1. The fine shall be 1,000 JUD up to 15,000 JUD, along with a temporary mute of a maximum duration of 7 days, imposed at the discretion of the court.
+   2. Repeat offenders will be fined a minimum of 3,000 JUD, 6,000 JUD, and 9,000 JUD for subsequent offences, along with a longer period of mute with a maximum duration of 30 days, imposed at the discretion of the court.
+   3. Impersonation of any other member of the server is an offence, and admins are permitted to change the nickname of a member who is deemed to be impersonating someone else.
+   1. Repeat offenders may have their nickname permissions taken away for a defined period of time at the discretion of the admin team.
+   5. IMPLEMENTATION
+   1. Upon passage, this bill is to go into effect immediately.
+Bill 5.03 – Creator Protection Act
+Added to this document on 5/27/2025
+
+
+SHORT TITLE
+   * This Act may be cited as the ‘Creator Protection Act’ or ‘CPA’.
+
+
+   1. ARTICLE 1: Intellectual Property
+   1. Intellectual Property will be defined as the direct output of creative labour such as but not limited to writings, drawings, and graphics.
+   2. Intellectual Property does not include concepts, ideas, and characters used within creative works.
+   1. Concepts, ideas, and characters used within creative works must be accessible for reuse and reinterpretation by all artists as long as proper credit is provided and the creative outputs themselves are not being copied wholesale.
+
+
+   2. ARTICLE 2: Plagiarism
+   1. Plagiarism will be defined as the non-transformative copying of creative outputs.
+   2. Plagiarism does not include the fair reuse of concepts, ideas, and characters within creative works so long as credit is provided.
+
+
+   3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+Bill 5.04 – Public Broadcasting Framework Act
+Added to this document on 5/27/2025
+   1. Julian Public Broadcasting Corporation.
+   1. The Julian Broadcasting Corporation, will manage Julia Television and Julia Radio once founded
+   1. The Julia Television station shall start as JTV1 and Julia radio stations shall start as Radio Julia 1................... -and Radio Julia International once founded
+   2. Julian Public Broadcasting Corporation's official shorten shall be JPBC
+   3. PBC shall be able to franchise programming or handover programming to Privately owned companies.
+   2. Press Secretary
+   1. The Press Secretary shall have the right to found JPBC under this framework
+   1. o company can claim their name to be Julian Public Broadcasting Corporation
+   3. Implementation
+   1. This act shall be implemented immediately upon passage
+Bill 5.05 – Server Branding Act
+Added on the 28th of May 2025
+Summary 
+This bill will create a process for determining the Server Banner Background, Custom Role Icons and the Server Invite Background.
+
+
+Whereas, the server has unlocked Level 1 & Level 2 boost perks and should take advantage of them.
+
+
+   1. SHORT TITLE
+   1. This bill may be cited as the ‘Server Branding Act’.
+   2. AN ACT
+   1. Each party role is to have a Custom Role Icon.
+   1. This icon is to be the official logo of the party, as determined by the Party Leader.
+   2. This icon may be changed at the discretion of the Party Leader.
+   3. A party may choose to specify a Custom Role Icon in their party platform.
+   4. In the event the party is unverified, the previous role icon should be used if they are re-verified.
+   5. A party is not required to have a Custom Role Icon.
+   2. The Supreme Court Justice role is to have a Custom Role Icon.
+   1. The icon that is to be used is available for download in the link in 2.2.1.1
+   1. https://emoji.gg/emoji/9299-blurple-ban
+   3. The Server Invite Background is to be the official flag of Julia.
+   4. The Server Banner Background is to be determined via a contest.
+   1. This contest should be announced no later than 2 days after the passage of this bill.
+   1. The contest is to start once it is announced.
+   2. The contest is to conclude 7 days after it starts.
+   2. Contest submissions may be made through any text channel, thread or forum channel that is created and specified in the announcement.
+   1. All submissions must be in the size of 960x540 (as recommended by Discord) and in the aspect ratio of 16:9.
+   2. Submissions may no longer be made once the contest concludes.
+   3. The winner of the contest is to be decided via Google Form ran by the CoE using RCV. If there are less than 3 but at least 2 submissions, the contest is to use First Past the Post. If there is only 1 submission, that submission should win by default and no vote should be run.
+   4. The winner of the contest will be used as the Server Banner Background.
+   3. IMPLEMENTATION
+   1. This bill, upon passage, is to take immediately into effect.
+Bill L5.14 – Channel Cleanup and Consolidation Act
+Added on the 10th of June 2025
+Summary
+This bill removes redundant channels or categories and consolidates where possible.
+
+
+Whereas, the server is a mess.
+
+
+The following will be enacted by the Senate
+
+
+   1. SHORT TITLE
+   1. This bill may be cited as the ‘Channel Cleanup and Consolidation Act’ or the ‘CCCA’ or the ‘CCC Act’
+   2. AN ACT
+   1. The following channels are to be deleted outright without replacements:
+   1. Debate
+   2. #credit-transfer
+   3. #lower-court-1
+   4. #lower-court-2
+   5. #supreme-court
+   6. #voter-verification
+   7. #server-owner-pings
+   2. The following channels are to be archived:
+   1. #judicial-talk
+   3. The following categories are to be deleted outright without replacements:
+   1. Case Law
+   2. Lore
+   3. Constitutional stuff
+   4. A channel public to all users within the server titled #info is to be created.
+   1. This channel is to contain:
+   1. a link to the Library of the Senate document as well as a PDF file of the document,
+   1. The date of the last time the document was updated should be included.
+   2. a link to the Julian Government's website (if available),
+   3. guides produced which are endorsed by either one of the 3 branches of Government,
+   4. a link to the Constitution of Julia directly as well as a PDF file of the document.
+   1. The date of the last time the document was updated should be included.
+   2. This channel is to be placed into the “Meta” category.
+   3. The following channels are to be deleted and replaced by the channel outlined in 2.4:
+   1. #constitution
+   2. #legislation
+   3. #guide
+   5. Reaction roles are to be moved to the onboarding feature
+   1. The following reaction roles will be moved to the onboarding feature as pre-join questions:
+   1. Gov Pings
+   2. Presidential Pings
+   3. Bump Pings
+   4. Partnership Pings
+   2. The #reaction-roles channel is to be deleted.
+   3. Any reaction role not listed in 2.4.1 is to be deleted.
+   6. A forum channel named forum-discussion is to be created in the “Town Hall” category.
+   1. This channel is to have various topic based tags added or removed at the discretion of the Admin team, or by passing a petition, or by Senatorial Motion.
+   7. A forum channel named non-government-servers is to be created in the category “Ministry of the Registrar”
+   1. This channel is to have the following tags:
+   1. Party
+   2. Organization
+   3. Other
+   2. The following channels are to be deleted outright and replaced by the channel outlined in 2.7:
+   1. party-servers
+   2. non-government-organizations 
+   3. other-servers 
+   3. The “Require tag” setting is to be enabled.
+   8. A forum channel named government-servers is to be created in the category “Ministry of the Registrar”
+   1. This channel is to have the following tags:
+   1. Municipality
+   2. Ministry
+   3. Other
+   2. Only official government servers may be posted in this channel by government officials. 
+   3. In the event a non-government official posts anything within the channel or in the event a government official posts a non-government server, they may be charged and the post must be deleted.
+   1. The name of this charge is to be “Misuse of official government channels”
+   2. This may be punished by at minimum a fine of $3,500 and at maximum a 3-day timeout.
+   4. The following channels are to be deleted outright and officially replaced by the channel outlined in 2.7:
+   1. government-servers
+   2. cities 
+   9. A channel titled “rules” is to be created and placed in the Meta category.
+   1. This channel is to contain anything deemed as “Common Server Rules” but some rules which should always be listed are:
+   1. No spamming,
+   2. No NSFW Content,
+   3. No slurs,
+   4. No gambling commands,
+   5. No alt accounts,
+   6. Julian sub-servers must follow these rules and ban the same people
+   2. These rules should also be listed in Discord’s built-in rules feature.
+   3. Any rules added should cite where in Julian legal code it is outlawed.
+   10. The category “Constitution/Laws” is to be renamed to the “People’s Legislature”
+   1. This category is to be moved below Town Hall
+   3. IMPLEMENTATION
+   1. Upon passage, this bill is to take immediately into effect.
+
+
+
+
+
+
+Bill L5.18 – Server Channels Organization & Library Integration Act (SCOLIA)
+Added on the 18th of June 2025
+   1.  SHORT TITLE
+   1. This Act may be cited as the “Server Channels Organization & Library Integration Act” or “SCOLIA.”
+
+      2. PURPOSE
+      1.  This Act restructures specified Discord channels and codifies maintenance duties for the Ministry of the Registrar (MoR) and the Server Administration Team (SAT).
+
+         3. CHANNEL DELETIONS
+         1. Within seven days of this Act’s passage, the MoR and SAT shall delete the following forum channels:
+ a. #government-servers
+ b. #cities
+            4. NEW TEXT CHANNELS
+            1. Create text channel #government-servers in the category “Ministry of the Registrar.”
+            1. The channel shall list every active government-run or government-owned Discord server with a no-expiry invite generated via “Set this link to never expire.”
+            2. The list shall be alphabetized by server name and updated within forty-eight hours of any addition or delisting.
+            3. The list shall be separated by the branches of government and the backup servers shall be separated like the branches.
+            2. Create text channel #cities in the same category.
+            1. The channel shall list, in alphabetical order, every city or municipality formally created by the Senate, each with a no-expiry invite if the city maintains a separate server.
+
+               5. LINK PERMANENCE & MONITORING
+               1. The MoR shall audit both channels at least once per calendar month. Any expired or revoked invite must be replaced within twenty-four hours of discovery.
+               2. A citizen may flag a dead link by contacting the MoR, the MoR  must acknowledge the report within twenty-four hours.
+
+                  6. LIBRARY OF THE SENATE WEBSITE INTEGRATION
+                  1. In the category “Welcome” the SAT shall pin the Library of the Senate website link in #important-information.
+                  2. Prior to the action in Section 6.3, the Clerk of the Senate must file an Operational Library Certification in #senate-announcements containing:
+ a. the live URL and
+ b. a statement that the site includes the current Constitution, all active legislation, and search/navigation features equivalent to or better than the existing repository.
+                  3. Upon that certification, the SAT shall:
+ a. remove pinned or static messages in any channel that duplicate the full text of the Constitution, Laws, Referendums, or Executive/Ministerial Orders and
+ b. replace them with a single statement directing users to the Library website.
+                  4. Until Section 6.3 is executed, all existing resources shall remain in place to avoid loss of access.
+
+                     7. IMPLEMENTATION & EFFECTIVE DATE
+                     1. Articles 3 through 5 take effect immediately upon passage.
+                     2. Article 6 takes effect only after the Clerk’s certification defined in Section 6.2.
+Bill L6.02 – Automatic Archive Act (AAA)
+Added on the 18th of June 2025
+                     1. SHORT TITLE
+This Bill may be cited as the ‘Automatic Archive Act’, ‘AA Act’ or ‘AAA’
+
+
+                     2. DEFINITIONS:
+                     1. Text channel - A channel designated for discussion of a topic(s) not intended for use by the state through image, text, or GIF.
+                     2. Use - communication through any means over an extended period of time, or the consistent utilization of a discord bot(s)
+
+
+                     3. AN ACT:
+                     1. If a Text channel has not been used for 10 days, any citizen can motion to the president or vice-president for a vote of it's archival to be held.
+                     1. If the majority of votes are in      favour of it being archived, the channel will be moved to the Archive category and all message permissions will be disabled.
+                     2. If the channel fails to be archived, a cooldown period of 7 days must have passed before a vote is held again.
+
+
+                     4. IMPLEMENTATION 
+Upon passage, this bill is to immediately go into effect.
+Bill L6.04 – Transparency in Government Act
+Added on the 18th of June 2025
+                     1. SHORT TITLE
+                     1. This Act may be cited as the “Transparency in Government Act” or “TGA”.
+
+                        2. DEFINITIONS
+                        1. For purposes of this act, “Government Associate” refers to any individual currently holding the following positions:
+    
+            - (a) Justice of the Supreme Court of Julia;
+        
+            - (b) Judge of any Lower Court in Julia;
+        
+            - (c) Julia Senator;
+        
+            - (d) Cabinet Member or Deputy Cabinet Member of the Executive Branch.
+
+                        3. DISCLOSURE REQUIREMENTS
+                        1. All Government Associates, as defined in Section 2, must disclose the following information:
+                        * Full discord username, official titles, and date of appointments/election.
+                        * Membership in political, professional, or lobbying organizations that could influence judgment or policy.
+                        * A list naming all the owned stocks and their specifics like amount if there is any.
+                
+                        4. PUBLIC ACCESSIBILITY
+                        1. All disclosures under Section 3 shall be made available on a public discord channel for citizens to view.
+                        2. There shall be a discord channel for each government associate group mentioned in Section 2.
+                        3. Each discord channel shall be under its own government branch's category.
+                        4. The disclosures must be made public.
+                        5. The channel accessibility and information disclosure will be made and maintained by the head of each channel’s political branch or the server owner with the consent of the head of the political branch from the chosen channel’s political branch.
+
+
+                        5. IMPLEMENTATION
+                        1. This Act shall take effect immediately from the date of enactment.
+
+
+Bill L6.09 – Miraheze Act
+Added on the 6th of July 2025
+Summary
+This bill will move the Democratic Sim Wiki on fandom.com to a new wiki called the Julia Wiki on meta.miraheze.org 
+
+
+
+
+                        1. SHORT TITLE
+                        1. This bill may be called the “Miraheze Act” or  “MA” for short.
+                        2. MIRAHEZE
+                        1. There will be a new wiki on meta.miraheze.org called “Julia Wiki”.
+                        2. All wiki material from Democratic Sim on fandom.com will be moved to the Julia Wiki
+                        3. IMPLEMENTATION
+                        1. Upon passage, this bill is to go into effect immediately.
+
+
+Bill L6.12 – National Symbols Act
+Added on the 6th of July 2025
+Summary
+This bill shall legally define the national symbols of Julia and legally specify its national flag.
+
+
+                        1. SHORT TITLE
+                        1. This bill may be called the “National Symbols Act” or  “NSA” for short.
+                        2. NATIONAL SYMBOLS
+                        1. The national animal shall legally be declared the raccoon.
+                        2. The national bird shall legally be declared the raven.
+                        3. The national flower shall legally be declared the rose.
+                        4. The national colors shall legally be declared red and green.
+                        5. The national fruit shall legally be declared the strawberry.
+                        6. The national sport shall legally be declared “Wordle”.
+                        7. The national dish shall legally be declared Bloppa.
+                        8. The national language shall legally be English.
+                        3. NATIONAL FLAG
+3.1. The national flag shall consist of two red stripes, one on the left and one on the right sides, then another blue stripe on both sides as well with the red, then a dark blue background, and a white Julian rose in the middle of the flag.
+3.2. The flag shall have a ratio of 1:2.
+                        4. NATIONAL SEAL
+            4.1 The national seal of Julia shall have a circular red ring, a smaller light blue ring, and a dark blue background, and a white Julian rose on the seal.
+                        5. IMPLEMENTATION
+                        1. Upon passage, this bill is to go into effect immediately.

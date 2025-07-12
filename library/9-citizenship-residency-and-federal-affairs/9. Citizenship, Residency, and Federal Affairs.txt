@@ -1,0 +1,161 @@
+﻿CITIZENSHIP, RESIDENCY, AND FEDERAL AFFAIRS
+Alternate Account Regulation Act (Bill 1.27)        1
+Multi-Citizenship and Government Position Act (MCGPA) (Bill 1.39)        3
+Verification Reform Act (VRA) (Bill 1.42)        6
+Visa Act (Bill 3.16)        7
+Municipality Act (Bill 3.21)        9
+Shallots City Special Administrative Region Act (Bill 1.24)        9
+Charter of Aldenridge (Bill 3.25)        10
+Charter for the People's State of Precipice Mountain        10
+Charter of the Kingdom of Barkattia (Bill 5.10)        10
+City Resident Registration Act (Bill 4.17)        10
+Alternate Account Regulation Act (Bill 1.27)
+Amended by AARA Repealment Act (Bill 3.17) — does not actually repeal the original Act
+1. Key Definitions
+   1. Alternate Account
+      1. A non-primary account owned by a user already in the server.
+   2. Investigative Alternate Account
+      1. An alternate account used to investigate illegal activity.
+   3. Alternate accounts cannot vote in elections or polls. Additionally, alternate accounts cannot react to messages.
+   4. Alternate accounts cannot engage in discussion as a primary account would.
+   5. Alternate accounts cannot be used to bypass laws only applicable to a primary account.
+2. Registration
+   1. All alternate accounts must register themselves with the Ministry of Registrar.
+      1. The process of registration must be in a private channel only accessible to the alternate account, members of the ministry of registrar, and those with higher role access.
+3. Investigation/Anonymity
+   1. Alternate accounts can be used to investigate illegal activity as long as they are only used for the investigation and leave the server after the investigation is complete. These are known as investigative alternate accounts.
+      1. These undercover alternate accounts have exceptions to sections 2.5 and 3.1, however they are still applicable to all other rules.
+      2. The ministry of registrar cannot announce that these special accounts are alternate accounts to anyone outside the ministry.
+   2. In order to officially become an investigative alternate account, the account must not only register with the ministry of registrar, but also be approved by the president.
+      1. In the case the account is being used for an investigation against the president, it must be approved by ⅔ of the senate that is not in the same political party as the current president. This approval will be done in DMs.
+Multi-Citizenship and Government Position Act (MCGPA) (Bill 1.39)
+1. The words used in this law are defined as the following:
+   1. “Republic of Julia” refers to the jurisdiction of this act, including all legislative and democratic functions.
+   2. "DemSim" refers to any other simulation or server with its own form of democratic governance.
+   3. "Multi-Citizenship" refers to the holding of citizenship in the Republic of Julia and one or more additional DemSims.
+   4. "Government Position" refers to any elected or appointed position within the Republic of Julia or any DemSim, including but not limited to executive, legislative, and judicial roles.
+   5. "Conflict of Interest" refers to any circumstance in which an individual’s participation in government across multiple servers may compromise their impartiality or create competing obligations.
+2. Rights of citizens to hold multiple citizenship statuses. 
+   1. All individuals, regardless of citizenship status in other DemSims, are entitled to hold citizenship in the Republic of Julia.
+      1. Individuals may be denied citizenship for any valid reason, including but not limited to violations of laws or bans (with reason) in other DemSims.
+      2. Specific restrictions on citizenship apply to the DemSim Falcor.
+   2. No law, rule, or regulation shall restrict or deny an individual’s right to citizenship in the Republic of Julia solely based on their citizenship in any other DemSim.
+      1. When applying for citizenship to the Republic of Julia, an individual must disclose all DemSims in which they hold citizenship.
+   3. Individuals with multi-citizenship shall be afforded all rights and privileges of citizenship within the Republic of Julia, except as limited by this Act or future acts specifically state in relation of citizenship.
+3. Restrictions on Government Positions.
+   1. An individual may not simultaneously hold government positions in the Republic of Julia and in any other DemSim.
+   2. An individual must resign from any government position in other DemSims before accepting or running for a government position in the Republic of Julia.
+      1. Failure to resign from a government position in another DemSim shall render the individual ineligible for candidacy or appointment to any government position in the Republic of Julia.
+      2. If it is discovered that an individual holds a government position in another DemSim while holding a position in the Republic of Julia, they shall be removed from their position in the Republic of Julia.
+         1. An exception to Section 3.2.2 may be granted if the individual agrees to resign from their government position outside of Julia within a reasonable timeframe.
+   3. An individual holding a government position in the Republic of Julia shall not be eligible for candidacy in any government position in other DemSims until their term or appointment has concluded.
+   4. This restriction does not apply to non-governmental participation, such as voting, advocacy, or other non-elected or non-appointed roles in any DemSim.
+4. Enforcement & possible penalties.
+   1. Any individual found in violation of Title 3 shall be subject to the following penalties:
+      1. Immediate forfeiture of their government position in the Republic of Julia.
+      2. Disqualification from running for any government position in the Republic of Julia for a period of one (1) month.
+   2. Violations shall be investigated and adjudicated by the appropriate oversight body within the Republic of Julia. 
+5. Additional exceptions.
+   1. Any individual penalized under Title 4 may appeal their disqualification or forfeiture to the appropriate appellate body within the Republic of Julia.
+6. Other provisions.
+   1. This act shall take immediate effect.
+   2. Any laws, rules, or regulations in conflict with this act shall be either repealed or amended to conform to this act’s rulings.
+Verification Reform Act (VRA) (Bill 1.42)
+1. Decommissioning of “captcha.bot”
+   1. Effective immediately upon passing, the bot “captcha.bot” will no longer be used for verification purposes.
+   2. The bot “captcha.bot” is removed from the server.
+2. Verification is to be done through “applying for citizenship.”
+   1. The application form is to include their username, how the user found The Democratic Republic of Julia, any other DemSims they are part of, whether or not they hold a government position in any of these DemSims, and an agreement to the server rules.
+      1. Any applicant found to have provided inaccurate or falsified information will be immediately denied citizenship.
+   2. These applications will be approved or denied by members of the admin team. 
+      1. If an admin denies an application, the applicant has the right to submit an appeal.
+         1. This appeal will be submitted through a new channel, one only viewable by a new “Citizenship Denied” role. The channel shall be named “citizenship-appeals.” 
+         2. The appeal process will require a vote from the admin team.
+            1. This vote will take place in the #admin-chat channel.
+            2. The final decision (approval or rejection) will be communicated to the applicant, along with the results of the vote in the case of rejection.
+            3. All denial appeals and their respective votes will be documented and provided to the applicant upon request.
+      2. If an admin approves an application, they must react with the ✅ emoji on the application to indicate approval.
+         1. Once an application is approved, the user will gain the “Citizen” role.
+Visa Act (Bill 3.16)
+Summary
+This bill grants the President the power to grant visas under specific conditions and prohibits granting of visas for certain reasons.
+
+
+Whereas, the granting of citizenship is challenging to revoke. In some situations, citizenship for a certain individual may be put into question and this act serves as a way to grant a more temporary version of citizenship.
+
+
+1. Key definitions
+   1. Visa — a temporary, lesser form of citizenship granted for specific reasons with certain rights revoked.
+
+
+2. An act
+   1. This act, once passed by the Senate of Julia, mandates the creation of a role called “Visaed Citizen” which should have all the same role permissions as the Citizen role.
+3. Visaed Citizenship
+   1. Visaed citizenship may only be granted for the following reasons:
+      1. if an individual is a delegate from another nation on a diplomatic mission;
+      2. if an individual has been convicted of criminal charges in another democratic sim other than the Democratic Republic of Julia and they are applying for citizenship in the Democratic Republic of Julia;
+      3. if an individual was banned in the Democratic Republic of Julia and returns once their ban has ended.
+   2. If a citizenship application constitutes a visa for a reason listed in 3.1 of this act, the visa is not mandatory.
+   3. Individuals on a visaed citizenship have all the same rights as citizens except the following rights:
+      1. the right to receive a voter ID;
+      2. the right to sign petitions or vote in referendums;
+      3. the right to run in elections.
+   4. Visaed citizenship may be granted for any reason outlined in 3.1 of this bill only by the President of Julia as recommended by the Admin Team.
+   5. Visaed citizenship may be revoked at any time by the President of Julia in an Executive Order or by court order by a lower court or a supreme court.
+      1. The decision to revoke a visa may be appealed to a lower court.
+         1. If the decision to revoke a visa was issued by a lower court, then it must be appealed to the supreme court.
+   6. A visa may be issued for any amount of time or for an indefinite amount of time. In the event of the latter, it is valid until revoked.
+   7. The decision to grant a visa instead of full citizenship can be appealed at any time to a lower court or a supreme court.
+   8. The decision to grant a visaed citizen full citizenship is vested by the President via an Executive Order or by a court order from a lower court or a supreme court.
+4. Implementation
+   1. This bill, once passed by the Senate of Julia, is to take effect immediately.
+Municipality Act (Bill 3.21)
+Whereas, the process to create a municipality is not legally defined. This bill ideally fixes that issue.
+1. Key Definitions
+   1. Municipality—a primarily urban political unit with corporate status and usually powers of self-government
+2. An Act
+   1. This bill, if passed, shall override Bill 1.26 and make it invalid.
+3. Creation of a municipality
+   1. For a municipality to be created, a charter must be written and proposed to the Senate of Julia as a bill.
+   2. This charter must at minimum define the legal jurisdiction of the municipality government and the government structure.
+   3. Once this bill passes the senate, the municipality is to be created.
+4. Implementation
+   1. This bill, once passed by the Senate of Julia, shall take effect immediately.
+
+
+Shallots City Special Administrative Region Act (Bill 1.24) 
+Charter of Felinsbury (Bill 3.24) – repealed by 5.10 – Charter of Barkattia
+Charter of Aldenridge (Bill 3.25)
+Charter of Barkingburg (Bill 3.38) – repealed by 5.10 – Charter of Barkattia
+Charter for the People's State of Precipice Mountain
+Charter of the Kingdom of Barkattia (Bill 5.10)
+City Resident Registration Act (Bill 4.17)
+Whereas, an official registry list should be created to determine the residents of each city. The regulations for registration are established in this Act. It is also to add value for the Julian currency by adding something to buy.
+
+
+The following will be enacted into law by the senate:
+
+
+1. SHORT TITLE
+   1. This Act may be cited as the City Resident Registration Act (CRRA).
+2. AN ACT
+   1. A city will be defined as a municipality whose charter has been passed through the Senate.
+   2. A resident of a city will be defined as an individual who is registered for that city.
+   3. The population of the city will be defined as the total number of residents for any representation purposes.
+   4. Individuals who are not residents of a city but are in the city’s server will be defined as guests; who may participate in municipal internal politics.
+   5. The Ministry of the Registrar will establish a registry of the residents of each city through a text channel in the Ministry of the Registrar server.
+   6. Resident roles will be created for each city in the main Julian server. The roles will be formatted “Resident of [City Name]”. Cities must also create a resident role for their own residents within their city’s server.
+   7. Residents are entitled to a free plot of property measuring at least 50x50 blocks within their city on any official Julia Minecraft server in which the city is established.
+   8. A city with residents totaling at least 10 may apply to become the Capital of Julia, through any process in which the capital is chosen.
+   9. The procedure to register is as follows: 
+      1. They must inform their city government of their intention to register, and pay the Ministry of the Registrar 5,000 JUD. 
+      2. The Minister of the Registrar will then send half of the payment to that city’s government’s budget, and the other half to the national budget.
+      3. Once registration costs are paid for, Admins and city government will apply the resident role in both the main Julia server and the city the citizen registered to be a resident of. 
+      4. A citizen may also leave a city at any time, but will have to pay the registration fee again if they want to rejoin or join a new city.
+   10. A citizen cannot be registered in more than one city, though they may be a guest in as many as they wish.
+   11. Anyone who is not a resident of a city is considered to be a part of Julia Central. There will be no role for this; it is the default for citizens of Julia.
+   12. Anyone may pay for, or reimburse, a citizen’s registration fee with the consent of both parties.
+   13. In any event that voting in national elections on behalf of a city becomes established, and residence in the city becomes a prerequisite, the fee must be waived.
+3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+      1. The relevant persons have up to 5 days to create the roles and text channel necessary to keep track of city residency.

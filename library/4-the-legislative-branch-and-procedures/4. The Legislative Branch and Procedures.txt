@@ -1,0 +1,551 @@
+﻿THE LEGISLATIVE BRANCH AND PROCEDURES
+Bill 1.53 — Reforming of the Referendum Process        1
+Bill CL6.13 – Senatorial Procedures Act        27
+Bill L6.14 – Second Referendum Reform Act        47
+Bill L6.15 – Senate Infrastructure Act        50
+
+
+________________
+
+
+Bill 1.1 - Bill Naming Convention
+Removed under Bill 4.32. Date of removal: 14 May 2025
+Bill 1.2. Procedures for Bills in the Senate
+Removed under Bill 4.32. Date of removal: 14 May 2025
+Bill 1.53 — Reforming of the Referendum Process
+Removed under Bill 6.15. Date of removal: 5 June 2025
+Bill 3.4 - Law Readability and Guidelines Act
+Removed under Bill 4.32. Date of removal: 14 May 2025
+Bill 3.28 - Law Readability and Guidelines Act Amendment
+Removed under Bill 4.32. Date of removal: 14 May 2025
+Bill 3.33 - Senate Procedures Act
+Removed under Bill 4.32. Date of removal: 14 May 2025
+Bill 4.01 – Senate Bylaws Act
+Removed under Bill 4.33. Date of removal: 14 May 2025
+Bill 4.12 — Amendment to Senate Bylaws Act
+Removed under Bill 4.33. Date of removal: 14 May 2025
+Bill 4.14.1 - Senate Voting Fines Act (SVFA)
+Removed under Bill 6.15. Date of removal: 5 June 2025
+Bill 4.32 - Senate Procedures and Guidelines 
+Removed under Bill 6.15. Date of removal: 5 June 2025
+Bill 4.33 - Senate Bylaws Act
+Removed under Bill 6.15. Date of removal: 5 June 2025
+Bill 5.06 - Advisor Act
+Removed under Bill 6.15. Date of removal: 5 June 2025
+Bill 5.11 – Library of the Senate Act
+Removed under Bill 6.15. Date of removal: 5 June 2025
+Bill L5.13 – Clerk of the Senate & Library Reform Act
+Removed under Bill 6.15. Date of removal: 5 June 2025
+________________
+Bill CL6.13 – Senatorial Procedures Act
+Whereas, there is a need for Internal Senatorial Governance.
+Whereas, there is a need for a Senate Procedures Foundational Document.
+
+
+TABLE OF CONTENTS
+ARTICLE 1 – SHORT TITLE
+ARTICLE 2 – SPEAKER OF THE SENATE
+ARTICLE 3 – CLERK OF THE SENATE
+ARTICLE 4 – BILL TIMELINES
+ARTICLE 5 – TYPES OF LEGISLATION
+ARTICLE 6 – BILL PROPOSAL STANDARDS
+ARTICLE 7 – COMMITTEES
+ARTICLE 8 – ADVISORS
+ARTICLE 9 – SENATE RECESSES AND OUT OF SESSION
+ARTICLE 10 – SENATE SEATS
+ARTICLE 11 – CONTEMPT OF CONGRESS
+ARTICLE 12 – WAGES OF THE SENATE
+ARTICLE 13 – VOTING STANDARDS AND DEFINITIONS
+ARTICLE 14 – SEVERABILITY CLAUSE
+ARTICLE 15 – IMPLEMENTATION
+ARTICLE 1. SHORT TITLE
+1.1. This Act may be cited as the “Senatorial Procedures Act” or “SPA”
+________________
+ARTICLE 2. SPEAKER OF THE SENATE
+2.1. The Speaker of the Senate shall be elected through the means by C2.8.1.
+2.2. The Speaker of the Senate shall preside over and enforce the procedures of the Senate as established by law, including but not limited to those defined in the Senatorial Procedures Act and any standing rules passed by the Senate.
+2.3. The Speaker of the Senate will from this point on be known as “The Speaker” or “Speaker”.
+2.4. The Speaker may be removed by a motion of no-confidence, requiring 2/3rds of the Senate for removal, the Vice President must hold the vote.
+2.4.1. In the event of successful removal of the Speaker, the senate must enter a Short Recess outlined in § 9.2.1.1 while the next Speaker is elected in C2.8.1.
+2.5. At the time of assigning any bill governed by Article 4 to committee, the Speaker shall concurrently publish a public timetable specifying the start and end times of each legislative stage, as defined in §§ 4.1.1 through 4.1.6. While the duration of each stage must remain fixed as provided by Article 4, the Speaker may determine the commencement of each non-voting stage, provided that the sequence of stages is preserved. The Final Senate Vote under § 4.1.5 must begin immediately following the conclusion of the Senate Floor Hearing under § 4.1.4. All such timetables shall be made publicly available.
+2.6. The Speaker may, upon a written request citing exigent circumstances, extend any single deadline by up to 24 hours.
+2.6.1. Such an extension must be posted publicly.
+2.6.2. No more than one extension may be granted per bill.
+2.7. If the Speaker fails to complete the tasks outlined in this bill or C2.8, any Senator may motion no-confidence against the Speaker outlined in § 2.4.
+2.8. The Speaker may surrender their powers temporarily to the Vice President of Julia for up to 3 days.
+2.8.1. The Speaker may not be removed through § 2.4 for a reason of inactivity while the Vice President is the Presiding Officer of the Senate.
+2.8.2. If the Speaker does not perform the duties at the end of the 3 day limit, the Vice President must hold a vote of no-confidence against the Speaker of the Senate for removal.
+________________
+ARTICLE 3. CLERK OF THE SENATE
+3.1. The Office of the Clerk of the Senate shall be formed. The Clerk of the Senate shall lead this office.
+3.1.1. The Clerk of the Senate must be certified to practice law in Julia. If the Clerk ceases to be allowed to practice law, they shall be immediately removed from office.
+3.1.2. If at any point the Clerk of the Senate is vacated, the Speaker must temporarily appoint a new Clerk to run the duties of the office until the Senate nominates and elects a new Clerk of the Senate.
+3.2. Appointment and Tenure
+3.2.1. The Clerk of the Senate, if no officeholder, shall be elected through these means:
+3.2.1.1. Any Senator may place an eligible person’s name before the Senate through a motion. Once a Senator has put forth a nomination, they may not put another nomination up for consideration.
+3.2.1.2. All nominations for Clerk of the Senate shall be put to a vote using RCV of the final stage § 4.1.5.
+3.3. Duties of the Clerk of the Senate:
+3.3.1. Update each listed document no later than 72 hours after the legal instrument producing the change enters into force, these legal documents are the Constitution, Active Laws, Active Referendums, Active Executive Orders, and Active Ministerial Orders;
+3.3.2. Record every Act of the Senate within 15 days of its passage;
+3.3.3. Monitor enactment of laws; where non-compliance is suspected, issue a Notice of Non-Compliance to the responsible official and refer the matter to the Attorney General, who alone decides whether to litigate;
+3.3.4. The ability to hire anyone or fire anyone appropriately for the Office of the Clerk of the Senate. The Clerk may delegate any tasks to any employee under the Office of the Clerk of the Senate, but the Clerk shall be responsible for any delegated tasks.
+
+
+________________
+
+ARTICLE 4. BILL TIMELINES
+4.1. Upon the proposal of any Senator, a bill shall proceed sequentially through §§ 4.1.1 through 4.1.6.
+4.1.1. Proposal Stage
+4.1.1.1. A proposal is deemed submitted at the moment it is posted in the prescribed channel.
+4.1.1.2. Within 24 hours, the Speaker shall assign the bill to an appropriate committee.
+4.1.1.3. Within the same 24 hour window, the Clerk of the Senate shall complete an initial review for constitutional compliance.
+4.1.2. Committee Hearing Stage
+4.1.2.1. Upon committee assignment, the committee chairperson shall open a hearing lasting 24 hours.
+4.1.2.2. Committee members may question the proposing Senator, debate, and introduce amendments during this period.
+4.1.3. Committee Vote Stage
+4.1.3.1. If the committee adopts any amendment, the chair shall immediately open a vote on the amended bill.
+4.1.3.2. The committee voting window shall remain open for 8 hours.
+4.1.3.3. If no amendments are adopted, the bill skips directly to § 4.1.4.
+4.1.4. Senate Floor Hearing Stage
+4.1.4.1. Upon transmission from committee, the bill shall be placed on the Senate docket for a general hearing of 48 hours.
+4.1.4.2. During this window any Senator may propose floor amendments; each amendment shall be resolved by simple majority within the same 48 hour period.
+4.1.5. Final Senate Vote Stage
+4.1.5.1. Immediately after the close of the floor hearing, the Speaker shall open the final vote.
+4.1.5.2. The voting period shall remain open for 24 hours.
+4.1.6. Enactment or Failure
+4.1.6.1. The Speaker shall certify the result as soon as the voting window expires.
+4.1.6.2. A bill is enacted if it achieves every constitutionally required voting threshold; otherwise it fails and may be resubmitted only after 72 hours.
+4.2. Constitutional Amendments shall skip §§ 4.1.2 and 4.1.3.
+4.3. Resolutions and Motions shall skip §§ 4.1.2 and 4.1.3.
+4.4. Committees may skip §§ 4.1.2 and 4.1.3 if the Chairperson of the Committee proposes bills in the name of the committee.
+4.5. Cloture Motion
+4.5.1. During the debate period on the Senate floor as described in § 4.1.4, any Senator may motion the Speaker to invoke cloture and proceed immediately to § 4.1.5.
+4.5.2. If the Speaker accepts the motion, they shall initiate a cloture vote in the designated voting channel.
+4.5.3. If a total simple majority of the Senate votes in favor, the debate period shall be considered closed, and the proposal shall proceed directly to a final vote as per § 4.1.5.
+4.5.4. The Senate shall not proceed to a final vote on a bill until all proposed amendments have been voted upon or formally withdrawn.
+4.5.5. This procedure shall be referred to as “cloture.”
+4.6. Staggered Consideration of Bills
+4.6.1. No more than one bill may be in the Senate Floor Hearing stage at any given time.
+4.6.2. The Speaker shall not initiate a new Floor Hearing until the previous bill has either completed its hearing period or been withdrawn.
+4.6.3. The Speaker may prioritize the order of bills entering the Floor Hearing stage based on urgency, constitutional relevance, or committee recommendation.
+4.6.4. If the Speaker issues an Official Announcement declaring a legislative crisis, the Speaker may place up to 3 bills on the Senate floor concurrently; all applicable debate and voting timelines for those bills run simultaneously.
+4.7. At any moment in §§ 4.1.1 through 4.1.5, the Proposing Senator may withdraw their bill. They must wait 72 hours before resubmitting the same bill.
+
+
+________________
+
+ARTICLE 5. TYPES OF LEGISLATION
+5.1. Constitutional Amendment (Amendment)
+5.1.1. A Constitutional Amendment is any proposal that directly modifies, repeals, or adds to the Constitution.
+5.1.2. Amendments are the highest form of legal authority and supersede all other forms of law.
+5.2. Constitutional Law (CL Bill)
+5.2.1. A Constitutional Law interprets, implements, or structures constitutional provisions without altering the Constitution itself.
+5.2.2. Constitutional Laws have greater legal authority than Legislative Laws, Resolutions, or Motions but are subordinate to the Constitution and its Amendments.
+5.2.3. Constitutional Laws may only be passed or amended with the vote threshold prescribed by the Constitution.
+5.2.4. Standalone Bill
+5.2.4.1. A Standalone CL Bill creates new Constitutional Law.
+5.2.5. Amending Bill
+5.2.5.1. An Amending CL Bill modifies or repeals an existing Constitutional Law.
+5.2.5.2. Amending CL Bills must clearly cite the law they are modifying.
+5.3. Legislative Law (Bill)
+5.3.1. A Legislative Law governs matters of public policy, administration, or regulation under the ordinary powers of the Senate.
+5.3.2. Legislative Laws are subordinate to Constitutional Laws and the Constitution.
+5.3.3. Legislative Bills may be passed by a simple majority unless otherwise specified.
+5.3.4. Standalone Bill
+5.3.4.1. A Standalone Bill creates a new legislative law that is not dependent on modifying an existing one.
+5.3.5. Amending Bill
+5.3.5.1. An Amending Bill revises, repeals, or expands upon an existing Legislative Law.
+5.3.5.2. Amending Bills must clearly cite the law they are modifying.
+5.4. Resolution
+5.4.1. A Resolution is a formal expression of the Senate’s opinion, intent, or recognition on a matter of public or internal concern.
+5.4.2. Resolutions may not create binding legal obligations or alter law.
+5.5. Motion
+5.5.1. A Motion is an action proposed by a Senator to carry out a procedural, administrative, or statutory function.
+5.5.2. All Motions must cite the authority under which they are brought, including reference to constitutional, statutory, or procedural grounds.
+5.5.3. The Speaker shall rule on the admissibility of a Motion unless otherwise provided by law.
+
+________________
+
+
+ARTICLE 6. BILL PROPOSAL STANDARDS
+6.1. Constitutional Amendment
+6.1.1. Every proposal shall begin with a heading reading, “Amendment (number) — Short Title.”
+6.1.2. The text shall reproduce the full constitutional passage as it will read after adoption, deleting words with strikethrough and inserting new words with underline.
+6.1.3. Optional findings, transition provisions, or an implementation clause may follow the text.
+6.1.4. The Clerk shall assign the identifier “A (Senate Session).XX”
+6.2. Standalone Bills
+6.2.1. A Standalone Bill may be classified as either a Constitutional Law Bill (CL) or a Legislative Bill (L) in accordance with Article 5.
+6.2.2. Each bill shall contain, in the order listed:
+6.2.2.1. A Short Title;
+6.2.2.2. Articles arranged in decimal hierarchy describing the substance of the bill;
+6.2.2.3. Definitions, when new technical terms are introduced;
+6.2.2.4. Enforcement, penalty, or funding provisions when applicable; and
+6.2.2.5. An effective-date clause.
+6.2.3. The Clerk shall number Constitutional-Law bills “Bill CL (Senate Session).XX” and Legislative bills “Bill L (Senate Session).XX”.
+6.3. Amending Bills
+6.3.1. An Amending Bill shall quote every section of existing law it modifies and show each change by strikethrough and underline or by a side-by-side presentation of current text and proposed text.
+6.3.2. Except as expressly varied in this section, an Amending Bill shall meet all requirements of § 6.2.
+6.3.3. The Clerk shall number Amending Bills “Bill CL-Amd (Senate Session).(Number).(Amendment)” or “Bill L-Amd (Senate Session).(Number).(Amendment)” as appropriate.
+6.4. Resolution and Motion
+6.4.1. A Resolution shall contain a caption “Senate Resolution (Number)”, any desired whereas-clauses, and one or more resolved-clauses stating the position or recognition of the Senate.
+6.4.2. A Motion shall cite its legal authority and state the action requested in plain language.
+6.4.3. The Clerk shall number Resolutions “SR (Senate Session)-(Number)” and Motions “M (Senate Session)-(Number)”.
+6.5. General Drafting Rules
+6.5.1. All proposals shall be submitted in Google Doc or Proton Doc and must be followed by a PDF file, if these standards are not met, the proposal shall be deemed invalid. It must be followed by a PDF file to ensure that all amendments made during the process of this bill have been properly added.
+6.5.2. Internal citations shall use the “§ Article.Section.Clause” format, and no page or line numbers shall appear in the text.
+6.5.3. If the Clerk finds a defect under this Article, the Clerk shall notify the sponsor and the Speaker. The Speaker shall rule the proposal in order or out of order before committee assignment.
+6.5.4. For purely grammar errors that do not alter substance, the Speaker may permit the sponsor to file a corrected copy within 6 hours without restarting any timeline in Article 4.
+
+
+________________
+
+ARTICLE 7. COMMITTEES
+7.1. Cabinet Committees
+7.1.1. Each Cabinet Ministry established under Title 3 of the Constitution shall have a corresponding Cabinet Committee of the Senate.
+7.1.2. The Minister in charge of the Ministry shall serve ex-officio as Chairperson of that Committee.
+7.1.3. Committee Membership
+7.1.3.1. A Senator may join any Cabinet Committee at will.
+7.1.3.2. A Senator must sit on at least one Cabinet Committee.
+7.1.4. Each Cabinet Committee shall exercise primary scrutiny over bills and motions relating to matters within its Ministry’s portfolio unless reassigned by the Speaker under § 4.1.1.2.
+7.1.5. Cabinet Committees shall have the power to:
+7.1.5.1. Summon witnesses, including civil servants, for written or live questioning;
+7.1.5.2. Request documents from any Ministry, all personal information of a citizen must be redacted;
+7.1.5.3. Propose amendments to bills in its custody;
+7.1.5.4. By simple majority, refer matters of suspected illegality to the Ministry of Justice.
+7.1.6. A Cabinet Committee must report any bill or motion back to the Senate within the timeline set in § 4.1.2; failure to report constitutes an automatic negative recommendation.
+7.2. Standing Senatorial Committees
+7.2.1. The Senate may, by Legislation, establish Standing Senatorial Committees with defined subject-matter jurisdiction.
+7.2.2. The Speaker shall nominate the Chairperson of each Standing Committee; appointment requires a Total Majority vote.
+7.1.3. Committee Membership
+7.1.3.1. A Senator may join any Standing Senatorial Committee at will.
+7.1.3.2. A Senator must sit on at least one Standing Senatorial Committee.
+7.1.4. Each Standing Senatorial Committee shall exercise primary scrutiny over bills and motions relating to matters within its Committee’s jurisdiction unless reassigned by the Speaker under § 4.1.1.2.
+7.1.5. Standing Senatorial Committees shall have the power to:
+7.1.5.1. Summon witnesses, including civil servants, for written or live questioning;
+7.1.5.2. Request documents from any Ministry, all personal information of a citizen must be redacted;
+7.1.5.3. Propose amendments to bills in its custody;
+7.1.5.4. By simple majority, refer matters of suspected illegality to the Ministry of Justice.
+7.1.6. A Standing Senatorial Committee must report any bill or motion back to the Senate within the timeline set in § 4.1.2; failure to report constitutes an automatic negative recommendation.
+7.3. Universal Committee Rules
+7.3.1. Voting inside Committees is by simple majority of members present and voting; ties defeat the question.
+7.3.2. All Committee hearings are open to Citizens unless closed by a two-thirds vote of the Committee for reasons of national security or personal privacy.
+7.3.3. A Committee member who engages in disorderly conduct may be removed from that Committee by a Total Super-Majority vote of the Senate.
+
+
+________________
+
+
+ARTICLE 8. ADVISORS
+8.1. Advisers are to be appointed and let go by the Speaker.
+8.1.2. Any Senator may propose a motion to overturn the Speaker’s decision.
+8.2. Advisors will have no legal power to influence the law, and will only advise Senators.
+
+
+________________
+
+
+ARTICLE 9. SENATE RECESSES AND OUT OF SESSION
+9.1. Definitions
+9.1.1. “Daily Adjournment” is a routine break of fewer than 24 consecutive hours.
+9.1.2. “Short Recess” is a break of at least 24 but not more than 72 consecutive hours.
+9.1.3. “Long Recess” is a break of more than 72 hours but not exceeding 14 consecutive days.
+9.1.4. “Out of Session” is the period that begins when the Senate adjourns sine die at the close of its constitutional term and ends when the next Senate is sworn in, or when reconvened under § 9.5.
+9.2. Authority to Declare a Recess
+9.2.1. The Speaker may, by Official Announcement, declare a Daily Adjournment or Short Recess and must state the start-time and intended end-time.
+9.2.1.1. Upon a vacancy in the Speakership (§ 2.4.1), a mandatory Short Recess of 24 hours is automatically declared to allow nomination of a new Speaker.
+9.2.2. A Total Majority vote of the Senate is required to declare or extend a Long Recess.
+9.2.3. A Total Super-Majority vote is required to extend any Long Recess beyond 14 days.
+9.3. Effect on Legislative Timelines
+9.3.1. All running clocks and deadlines in Article 4 pause during any Short or Long Recess and resume upon reconvening.
+9.3.2. Committee hearings may continue at the discretion of the respective Chair unless the recess declaration expressly suspends them.
+9.3.3. No new legislation may be formally introduced during a Short or Long Recess, except by unanimous consent of the full Senate.
+9.3.4. During Out-of-Session, all pending bills lapse unless otherwise provided by Constitutional Law.
+9.4. Recall from Recess
+9.4.1. The Speaker may end any recess earlier than scheduled by Official Announcement.
+9.4.2. One-third of all Senators may petition in writing to the Speaker for an early recall; if the Speaker fails to act within 6 hours, the Vice President may issue the recall.
+9.4.3. A Total Majority vote may override any recess schedule and reconvene the Senate at once.
+9.5. Emergency Session During Out-of-Session
+9.5.1. The Speaker, or in their absence the Vice President, may convene an Emergency Session during Out-of-Session to consider a single specified matter of urgent public importance.
+9.5.2. The Emergency Session shall adjourn automatically upon final disposition of the specified matter unless the Senate by Total Super-Majority vote extends it.
+9.6. Publication and Record-Keeping
+9.6.1. All recess declarations, recalls, and Emergency Session notices must be posted in the Official Announcements channel, stating precise start and end times in CET.
+9.6.2. The Clerk of the Senate shall archive all such notices in the public records.
+
+
+________________
+
+
+ARTICLE 10. SENATE SEATS
+10.1. The size of the Senate shall be determined by this Act, in accordance with Article 2.2.1 of the Constitution.
+10.1.1. The Senate shall be composed of 12 Senators.
+10.2. Any Senator may propose to set or amend the number of Senate seats in this Act, provided that:
+10.2.1. The proposed size is no fewer than 10 and no greater than 20;
+10.2.2. The amendment receives the affirmative vote of at least a total supermajority of the Senate;
+10.2.3. The amendment is passed prior to the official commencement of the next Senatorial election, including the opening of candidate registration.
+
+
+________________
+
+
+ARTICLE 11. CONTEMPT OF CONGRESS
+11.1. Definition
+11.1.1. “Contempt of Congress” is any intentional act that obstructs, disrupts, or disobeys the lawful proceedings, orders, or authority of the Senate.
+11.1.2. Without limiting § 11.1.1, contempt includes:
+11.1.2.1. Disorderly conduct that repeatedly interrupts debate or voting;
+11.1.2.2. Refusal to comply with a summons, subpoena, or lawful order issued by the Speaker, a Senate Committee, or the Senate itself;
+11.1.2.3. Tampering with, falsifying, or destroying Senate records or vote tallies;
+11.1.2.4. Casting a vote on the Senate floor or in any Senate poll while not a sitting Senator;
+11.1.2.5. Knowingly aiding or abetting any act listed in §§ 11.1.2.1 - 11.1.2.4.
+11.2. Initiation of Proceedings
+11.2.1. Any Senator or the Speaker may introduce a Motion to Cite for Contempt, identifying the alleged act(s) and the person(s) involved.
+11.2.2. A total simple majority vote of the Senate places the motion on the docket for formal consideration under §§ 11.3–11.5.
+11.3. Notice and Response
+11.3.1. Within 6 hours of § 11.2.2 adoption, the Speaker shall serve written notice of the charge(s) on the accused and post the notice in the Official Announcements channel.
+11.3.2. The accused has 24 hours to submit a written defense or statement of mitigation.
+11.3.3. The Senate may, by simple majority, assign an Investigating Committee to gather evidence; such a committee shall report within 48 hours.
+11.4. Hearing and Vote
+11.4.1. After the notice or committee report (whichever is later), the Senate shall hold a debate of up to 24 hours.
+11.4.2. Immediately thereafter, the Speaker shall open a vote on whether the accused is in Contempt.
+11.4.3. A finding of Contempt requires a total super-majority vote as defined in § 13.1.1.
+11.5. Penalties
+11.5.1. Upon a finding of Contempt, the Senate may impose one or more of the following penalties, specified in the same vote or in a subsequent motion decided by simple majority:
+11.5.1.1. Formal reprimand entered into the Senate record;
+11.5.1.2. Removal from any committee chairmanship or membership for up to 30 days;
+11.5.1.3. Suspension of speaking rights in Senate debate for up to 14 days;
+11.5.1.4. Nullification of any unauthorized vote cast and deletion of the offending poll message;
+11.5.1.5. Referral to the Judicial Power for prosecution under law;
+11.5.1.6. For non-Senators, removal of access to Senate channels for a period determined by the Speaker, not to exceed 30 days.
+11.6. Summary Powers of the Speaker
+11.6.1. To prevent immediate disruption, the Speaker may, without prior vote, remove or mute any individual in Senate channels for up to 2 hours if the Speaker reasonably believes a contemptuous act is occurring.
+11.6.2. Any such summary action must be reported in Official Announcements and followed by a § 11.2 Motion within 6 hours or the sanction lapses.
+11.7. Record-Keeping
+11.7.1. All contempt motions, evidence, rulings, and penalties shall be archived by the Clerk of the Senate and remain publicly accessible.
+
+
+________________
+
+
+ARTICLE 12. WAGES OF THE SENATE
+12.1. The Speaker of the Senate shall receive $2,000 a day for their duties.
+12.1.1. The Speaker of the Senate shall not receive pay from being a Senator on top of their pay of being the Speaker.
+12.2. All Senators shall receive $1,600 a day for their duties.
+12.3. The Clerk of the Senate shall receive $1,600 a day for their duties.
+12.4. All staff under the Senate shall receive $1,200 a day for their duties.
+12.5. This may be done, if applicable, by the Paygrade Act.
+
+
+________________
+
+
+ARTICLE 13. VOTING STANDARDS AND DEFINITIONS
+13.1. Total Membership Voting Definitions:
+13.1.1. “Total Supermajority vote” means the affirmative votes of at least two-thirds of the whole Senate; any fractional result is rounded up to the next whole Senator.
+13.1.2. “Total Simple majority vote” or “Total Majority vote” means the affirmative votes of more than one-half of the whole Senate; any fractional result is rounded up to the next whole Senator.
+13.2. Present Membership Voting Definitions:
+13.2.1. “Supermajority vote” means the affirmative votes of at least two-thirds of the Senate; any fractional result is rounded up to the next whole Senator.
+13.2.2. “Simple majority vote” or “Majority vote” means the affirmative votes of more than one-half of the Senate; any fractional result is rounded up to the next whole Senator.
+13.3. Legislation Voting Thresholds
+13.3.1. An Amendment shall require a total supermajority vote, as per C2.7.4.
+13.3.2. A Constitutional Law shall require a total supermajority vote.
+13.3.3. A Legislative Law or Senate Bill shall require a simple majority vote.
+13.3.4. A Resolution shall require a simple majority vote.
+13.3.5. A Motion shall require a simple majority vote.
+13.4. Active Process of Voting
+13.4.1. Only Senators may vote on any given legislation up for a vote as per § 4.
+13.4.2. All votes of the Senate shall be presided in a channel only visible to all sitting Senators.
+13.4.3. All votes shall be done using a poll, the options shall be “Yea”, “Nay”, “Abstain”.
+13.4.4. If anyone but a Senator votes on a bill, they will be charged with a Contempt of Congress, outlined in § 11.
+13.5. Poll Voting Definitions:
+13.5.1. “Yea” is an affirmative vote of a Senator.
+13.5.2. “Nay” is a negative vote of a Senator.
+13.5.3. “Abstain” is a present vote of a Senator and a declaration of the Senator refusing to vote.
+13.6. Voting Fines
+13.6.1. Senators shall be fined for every instance they do not give a vote of any kind in a Senate vote. The fine shall equal 1000 JUD for every instance of failing to vote, provided they miss at minimum 2 votes in a 7 day period.
+13.6.2. Senators who had announced temporary leaves of absence shall not be fined for any vote which they fail to vote on should that failure to vote occur within their designated or estimated leave of absence period.
+13.6.3. A Senator may provide an explanation for not providing any vote and, if that explanation is deemed to fall within proper reason by the Speaker, or whomever may be issuing the fine at time, that incident shall not contribute to any fines by the end of the week.
+13.6.4. The Minister of Justice shall administer the fines under the direction of the Speaker.
+
+
+________________
+
+
+ARTICLE 14. SEVERABILITY CLAUSE
+14.1. If any provision, clause, sub-clause, or application of this Act is declared unconstitutional, void, or otherwise invalid by a court of competent jurisdiction, that ruling shall not affect, impair, or invalidate the remaining portions of the Act, all of which shall continue in full force and effect as though the offending portion had never been included.
+
+ARTICLE 15. IMPLEMENTATION
+15.1. Upon passage by the Senate, all Articles take effect on the implementation of Amendment 26.
+
+
+Bill L6.14 – Second Referendum Reform Act
+Summary
+                                This shall heavily reform the referendum system.
+1. SHORT TITLE
+   1. This bill may be called the “Second Referendum Reform Act” or  “SRRA” for short.
+2. REFERENDUM REFORM
+2.1. If a referendum is more than one paragraph long, then they are made to write a digital paper document of their referendum.
+2.2. The referendum introduction channel shall be replaced by a forum channel with the same name.
+2.3. How a person shall format a referendum shall be the exact same as the Senate way for formatting their bills.
+2.4. There shall be a channel created under #referendum-introduction called #referendum-discussion meant for debating about referendums.
+3. IMPLEMENTATION
+3.1. This bill shall, when passed by the Senate, be put up as a referendum. If passed, it shall be implemented immediately.
+________________
+Bill L6.15 – Senate Infrastructure Act
+
+
+Written by Vice-Chancellor Chance / 780151934228234272
+Whereas, there is the need for the Infrastructure to accommodate Amendment 26 and the Senatorial Procedures Act.
+ARTICLE 1. SHORT TITLE
+1.1. This Act may be cited as the “Senate Infrastructure Act” or “SIA”
+ARTICLE 2. CATEGORY OF THE SENATE
+2.1. The Creation of the Category of “Legislative Branch” shall be completed by the Server Administration.
+2.2. The following roles shall have the permissions listed below in the Category of “Legislative Branch”.
+2.2.1. The Role of the Speaker of the Senate shall have the category permissions listed below:
+2.2.1.1. Send Messages;
+2.2.1.2. Mention @everyone, @here, and All Roles;
+2.2.1.3. Manage Messages;
+2.2.1.4. Manage Threads;
+2.2.1.5. Speak;
+2.2.1.6. Priority Speaker;
+2.2.1.7. Mute Members;
+2.2.1.8. Set Voice Channel Status;
+2.2.1.9. Create Events;
+2.2.1.10. Manage Events.
+2.2.2. The Role of the Vice President shall have the category permissions listed below:
+2.2.2.1. Send Messages;
+2.2.2.2. Mention @everyone, @here, and All Roles;
+2.2.2.3. Manage Messages;
+2.2.2.4. Manage Threads;
+2.2.2.5. Speak;
+2.2.2.6. Priority Speaker;
+2.2.2.7. Mute Members;
+2.2.2.8. Set Voice Channel Status;
+2.2.2.9. Create Events;
+2.2.2.10. Manage Events.
+2.3. The following channels shall be created under the Category of “Legislative Branch” in this order:
+2.3.1. “#senate-announcements”;
+2.3.2. “#legislative-schedule”;
+2.3.3. “#final-votes”;
+2.3.4. “#floor-voting”;
+2.3.5. “#proposed-legislation”;
+2.3.6. “#floor-debate”;
+2.3.7. “#senate-floor”;
+2.3.8. “#law-discussion”, this channel shall not be created but the #law-discussion shall be in its place;
+2.3.9. “#Senate Stage”.
+2.4. Channel Permissions and Modifications
+2.4.1. “#senate-announcements”
+2.4.1.1. This channel shall be an announcement text channel.
+2.4.1.2. No one shall have the ability to send messages except for the Speaker of the Senate, Vice President, and Clerk of the Senate.
+2.4.2. “#legislative-schedule”
+2.4.2.1. This shall be a text channel.
+2.4.2.2. No one shall have the ability to send messages except for the Speaker of the Senate, and Vice President.
+2.4.3. “#final-votes”
+2.4.3.1. This shall be a text channel.
+2.4.3.2. Reactions shall be turned off and prohibited, for the sake of a clean view of all passed legislation.
+2.4.3.3. No one shall have the ability to send messages except for the Speaker of the Senate, and Vice President.
+2.4.4. “#floor-voting”
+2.4.4.1. This shall be a text channel.
+2.4.4.2. This channel shall not be visible to anyone except for the Speaker of the Senate, Vice President, and Senators.
+2.4.4.3. Reactions shall be turned off and prohibited, for the sake of a clean view of all voting legislation.
+2.4.4.4. No one shall have the ability to send messages except for the Speaker of the Senate, and Vice President.
+2.4.5. “#proposed-legislation”
+2.4.5.1. This shall be a forum channel.
+2.4.5.2. Only Senators shall have the ability to make posts.
+2.4.5.3. No one shall have the ability to send messages except for the Speaker of the Senate, Vice President, and Clerk of the Senate.
+2.4.5.4. Only the Speaker of the Senate, Vice President, and Clerk of the Senate shall be able to set forum posts tags.
+2.4.5.5. The Forum shall only have the tags listed below:
+2.4.5.5.1. “C. Amendment”;
+2.4.5.5.2. “CL (Standalone)”;
+2.4.5.5.3. “CL (Amending)”;
+2.4.5.5.4. “Bill (Standalone);
+2.4.5.5.5. “Bill (Amending)”;
+2.4.5.5.6. “Resolution”;
+2.4.5.5.7. “Motion”.
+2.4.6. “#floor-debate”
+2.4.6.1. This shall be a forum channel.
+2.4.6.2. Only the Speaker of the Senate, and Vice President shall have the ability to make posts.
+2.4.6.3. No one shall have the ability to send messages except for the Speaker of the Senate, Vice President, and Senators.
+2.4.6.4. Only the Speaker of the Senate, and Vice President shall be able to set forum posts tags.
+2.4.6.5. The Forum shall only have the tags listed below:
+2.4.6.5.1. “Active Debate”;
+2.4.6.5.2. “Ended Debate”.
+2.4.7. “#senate-floor”
+2.4.7.1. This shall be a text channel.
+2.4.7.2. No one shall have the ability to send messages except for the Speaker of the Senate, and Senators.
+2.4.8. “#law-discussion”
+2.4.8.1. This shall be a text channel.
+2.4.8.2. No one shall have the ability to send messages except for the Speaker of the Senate, Senators, and Advisors of the Senate.
+________________
+
+
+2.4.9. “#Senate Stage”
+2.4.9.1. This shall be a stage channel.
+2.4.9.2. Every Citizen shall have the ability to send messages and join the Stage.
+2.4.9.3. Every Senator shall be a stage moderator, any abuse of this permission shall be held in the same regard as Contempt of Congress for disrupting its duties to serve the People.
+
+
+ARTICLE 3. CATEGORY OF THE COMMITTEES OF THE SENATE
+3.1. The Creation of the Category of “Legislative Committees” shall be completed by the Server Administration.
+3.2. The following roles shall have the permissions listed below in the Category of “Legislative Committees”.
+3.2.1. The Role of the Speaker of the Senate shall have the category permissions listed below:
+3.2.1.1. Send Messages;
+3.2.1.2. Mention @everyone, @here, and All Roles;
+3.2.1.3. Manage Messages;
+3.2.1.4. Manage Threads;
+3.2.1.5. Speak;
+3.2.1.6. Priority Speaker;
+3.2.1.7. Mute Members;
+3.2.1.8. Set Voice Channel Status;
+3.2.1.9. Create Events;
+3.2.1.10. Manage Events.
+3.2.2. The Role of the Vice President shall have the category permissions listed below:
+3.2.2.1. Send Messages;
+3.2.2.2. Mention @everyone, @here, and All Roles;
+3.2.2.3. Manage Messages;
+3.2.2.4. Manage Threads;
+3.2.2.5. Speak;
+3.2.2.6. Priority Speaker;
+3.2.2.7. Mute Members;
+3.2.2.8. Set Voice Channel Status;
+3.2.2.9. Create Events;
+3.2.2.10. Manage Events.
+3.3. The following channels shall be created under the Category of “Legislative Committees” in this order:
+3.3.1. “#committee-voting”;
+3.3.2. “#cabinet-committees”;
+3.3.3. “#standing-committees”.
+3.4. Channel Permissions and Modifications
+3.4.1. “#committee-voting”
+3.4.1.1. This channel shall be a text channel.
+3.4.1.2. No one shall have the ability to send messages except for the Speaker of the Senate, Vice President, and Committee Chairpersons.
+3.4.1.3. No one shall be able to see this channel except for the Speaker of the Senate, Vice President, Committee Chairpersons, and Senators.
+3.4.2. “#cabinet-committees”
+3.4.2.1. This shall be a forum channel.
+3.4.2.2. No one shall have the ability to send messages except for the Speaker of the Senate, Vice President, Committee Chairpersons, and Senators.
+3.4.2.3. Only the Committee Chairperson shall have the ability to create posts.
+3.4.2.4. The Forum shall only have the tags of the Committee Name, the Speaker shall communicate the name for the tag to the Admin Team.
+3.4.3. “#standing-committees”
+3.4.3.1. This shall be a forum channel.
+3.4.3.2. No one shall have the ability to send messages except for the Speaker of the Senate, Vice President, Committee Chairpersons, and Senators.
+3.4.3.3. Only the Committee Chairperson shall have the ability to create posts.
+3.4.3.4. The Forum shall only have the tags of the Committee Name, the Speaker shall communicate the name for the tag to the Admin Team.
+ARTICLE 4. ROLES
+4.1. The following roles shall be created and held by their respective members:
+4.1.1. “Speaker of the Senate”, this role shall only be held by the Speaker of the Senate.
+4.1.2. “Committee Chairperson”, shall be held by the Chairpersons of each Senatorial and Cabinet Committee.
+4.1.3. “Senator”, shall be held by all current Senators.
+4.1.4. “Committee Invite”, shall be held by anyone invited to a specific Committee.
+ARTICLE 5. REPEALMENT
+5.1. Full and Complete repeal of the Senate Voting Fines Act.
+5.2. Full and Complete repeal of the Senate Procedures and Guidelines.
+5.3. Full and Complete repeal of the Senate Bylaws Act.
+5.4. Full and Complete repeal of the Advisor Act.
+5.5. Full and Complete repeal of the Library of the Senate Act.
+5.6. Full and Complete repeal of the Clerk of the Senate & Library Reform Act.
+5.7. All Legislation repealed by any of the repealed Acts listed by §§ 5.1 through 5.6 shall stay repealed.
+
+
+ARTICLE 6. ARCHIVALS
+6.1. All channels in “Legislative Branch” and “Legislative Committees” shall be archived for historical reasons. Following this action the Server Administration shall create the channels and categories listed earlier in this Act.
+
+
+ARTICLE 7. IMPLEMENTATION
+7.1. Upon passage by the Senate, all Articles take effect immediately.

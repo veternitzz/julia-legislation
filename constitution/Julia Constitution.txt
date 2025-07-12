@@ -1,0 +1,599 @@
+﻿Constitution of Julia 
+  
+
+
+
+To all who shall see and understand the present, be it known: that the CAB has written, and the people of Julia have ratified, the following Constitution. 
+
+
+Title 1. Preamble
+Title 2. As of the Legislative Power
+Title 3. As of the Executive Power
+Title 4. As of the Judicial Power
+Title 5. The Supreme Court Room
+Title 6. As of the Lower Court
+Title 7. Elections of the Senate and Executive Power
+Title 8. About Forms of Impeachment
+Title 9. About Laws, Regulations and Norms
+Title 10. About the Admins and Server Owner
+Title 11. About Declarations of War
+Title 12. Bill of Rights (Freedom of Speech)
+Title 13. Bill of Rights (Petitions, Parties, Appeal, Vote)
+Title 14. Bill of Rights (Right to Privacy)
+Title 15. Bill of Rights (Right to Content)
+Title 16. Bill of Rights (Rights to a Fair Trial)
+Title 17. Bill of Rights (Equitable Rights)
+Title 18. Bill of Rights (Rights to Needs)
+Title 19. Bill of Rights (Rights to Self)
+Title 20. Bill of Rights (Rights to Citizenship)
+Title 21. Bill of Rights (The Social Contract)
+Title 22. Bill of Rights (Rights to Rebellion)
+Title 1. Preamble 
+
+
+Article 1.1. We, the people of The Democratic Republic of the State of Julia, in order to establish a fair, just, and democratic state, hereby declare this Constitution and the power it holds to be the supreme law of the land. 
+Article 1.2. It shall, over all else, be the highest arbiter of the law and how it shall be created, enacted, and interpreted. 
+Article 1.3. The state of Julia shall welcome in all immigrants with open arms regardless of things such as race, sex, gender, sexuality, religion, or identity. [a]
+Article 1.4. All persons are equal before the law, without any discrimination based on birth, race, sex, gender, sexuality, religion, opinion or any other personal or social condition, or circumstance.[b]
+
+
+Title 2. As of the Legislative Power 
+
+
+Article 2.1. The Legislative Power shall be composed of two bodies known as the Senate and the People.
+
+
+Article 2.2. The Senate shall be a body of representatives elected by the people.
+2.2.1. The size of the Senate shall be determined by a constitutional law. If it is not determined by a constitutional law, the size will be defined as 12. The number defined by the constitutional law may be no less than 10 and no greater than 20.
+2.2.2. All citizens shall have the right to vote for Senators and participate in the electoral process. 
+2.2.3. Oath of Office: before a member of the Senate takes power, they must be in front of a judge. They must then say “I, (name), solemnly swear to faithfully perform my duty, to uphold the Constitution, the state of Julia, and the will of its people.”
+
+
+Article 2.3. The Senate holds the ability to make laws for Julia by creating a proposed law known as a bill. 
+2.3.1. All Senators may introduce bills to the Senate. 
+2.3.2. The voting period must last for 24 hours. A bill must get at least 51% of non-abstaining affirmative votes to pass into law, unless another majority is specified in this constitution. 
+2.3.3. Once a bill is passed into law, the results of the vote showing how each Senator has voted must be made public.
+
+
+Article 2.4. The People hold the ability to make laws for Julia by the creation of a petition that needs at least 6 Citizens (known as signatories) endorsing the petition. 
+2.4.1. Once the petition gets 6 people supporting it, it will go to a vote within 7 days with the options to vote to pass or to not pass. 
+2.4.2. The vote will need to last a minimum of 24 hours and be done in a way where it is easily publicly accessible and has clear options to pass or not pass the law. 
+2.4.3. If the vote of the petition gets over half the total number of votes, it will go into law.
+2.4.5. The People of Julia may hold a public referendum to Veto any bill passed by the Senate, so long as a Petition or Referendum is introduced no-more than 48 hours of the results of the Senate vote being made public.
+2.4.5.1. The Petition shall be conducted in accordance with existing law and in accordance with Articles 2.4.1, 2.4.2, and 2.4.3 of the Constitution.
+2.4.5.2. Should a Petition not introduced by the President themself have the official endorsement of the President, expressed by Executive Order, the Petition or Referendum shall require a simple majority to successfully Veto and overturn a Senate’s bill. Otherwise, the Petition or Referendum shall require a ⅔ majority to pass to successfully Veto and overturn a Senate’s bill.
+2.4.5.3. The Senate may override the results of a successful Petition to Veto with a unanimous Senate vote, but only if the Petition had never gotten an official endorsement by the President through Executive Order.
+2.4.6. The President or Acting-President may issue an official Executive Order officially endorsing a Petition to Veto Senatorial Legislation. This Executive Order may not be overturned by the Senate, except with a 100% majority.
+
+
+
+
+Article 2.5. Laws from the Senate and the People are to be held in the same regard except where laws contradict, the resolution of which is subject to the hierarchy of laws in Article C9.1.
+
+
+Article 2.6. All laws apply to all servers that are associated with Julia.
+
+
+Article 2.7.The Senate and The People together hold the ability to propose changes to this document, known as Amendments by;
+2.7.1. The introduction of a proposed Amendment to the Senate.
+2.7.2. All Senators may introduce Amendments to the Senate.
+2.7.3. An Amendment must wait 72 hours from being proposed to be voted on which cannot be skipped. Changes made to the Amendment due to it being discussed will not reset the 72 hours period, however if at least 3 senators agree, an extra 6 hours can be added to the discussion period. Following the discussion period, there must be at least 24 hours of voting period.
+2.7.4. An Amendment must get at least two-thirds of the Senators vote in favor.
+2.7.5. Once an Amendment is passed by the Senate, the results of the vote showing how each Senator has voted must be made public.
+2.7.6. Once an Amendment is passed by the Senate, it must be ratified by the People. A public referendum will be held in the manner of C2.4 but needing at least 66.6% of non-abstaining votes to be affirmative for the Amendment to be ratified and added to the Constitution.
+
+
+Article 2.8. The Speaker of the Senate
+2.8.1. At or before the beginning of each Senate term, a Speaker shall be elected from among the members of the Senate via ranked-choice voting, where only the elected members of the incoming Senate are allowed to vote.
+2.8.1.1. The first order of business of any new Senate shall be the election of the Speaker of the Senate.
+2.8.2. The Speaker shall preside over the Senate’s procedures, the specifics of which shall be governed by a law outlining the Speaker’s functions and duties. [c]
+
+
+Title 3. As of the Executive Power         
+
+
+Article 3.1. The President shall be the Head of State and Government and shall carry out the day-to-day executive tasks of the Government of Julia. The Vice-President shall be the second-in-command and shall assume all responsibilities of the President if they are incapacitated or impeached.
+3.1.1. All citizens shall have the right to vote for the President and the Vice-President and participate in the electoral process.
+3.1.2. There will be one election to elect the President and the Vice-President and they shall run on one joint ticket.
+3.1.3. Oath of Office: before the President or the Vice-President takes power, they must be in front of a judge. They must then say “I, (name), solemnly swear to faithfully perform my duty, to uphold the Constitution, the state of Julia, and the will of its people.”
+3.1.4. The President is the first representative of the nation outside of Julia. Treaties are to be signed by the President after the Senate has given a majority vote to approve it.
+3.1.5. The President and the Vice-President may not simultaneously hold any other office within Julia.
+3.1.6. If the Vice-President no longer holds the post due to being incapacitated or impeached or otherwise unable to perform their duties, the President holds the authority to appoint any Citizen to the position of the Vice-President, pending Senatorial approval by a simple majority.
+3.1.7. If the President and the Vice-President are both incapacitated or impeached or otherwise unable to perform their duties, the Senate must immediately start a nomination period lasting 24 hours where any Senator can nominate a Citizen of Julia to be the President. A ranked choice-vote will be conducted lasting 24 hours and the winner and the runner-up will be elected President and Vice-President until the end of the term.
+
+
+Article 3.2. The Cabinet
+Article 3.2.1. The Government will be composed of Cabinet Ministries and Non-Cabinet Ministries. Any Ministry may have Deputy Ministers under it.
+3.2.1.1. Cabinet Ministries shall be headed by Cabinet Ministers appointed by the President. Cabinet Ministers must compulsorily be Senators.
+3.2.1.1.1. A list of Cabinet Ministries must be defined by Constitutional Law. If no such Constitutional Law exists, the list shall be limited to the following positions: 
+1. The Ministry of External Affairs,
+2. The Ministry of Internal Affairs,
+3. The Ministry of Finance & Business, 
+4. The Ministry of Justice, and
+5. The Ministry of the Registrar.
+3.2.1.1.2. Oath of Office: before any Cabinet Minister takes power, they must be in front of a judge. They must then say “I, (name), solemnly swear to faithfully perform my duty, to uphold the Constitution, the state of Julia, and the will of its people.”
+3.2.2.2. Non-Cabinet Ministries are headed by Ministers who are appointed directly by the President. They need not be Members of the Senate. These Ministries are not to be given the powers of the Ministries defined in C3.2.1.1.
+3.2.2.3. Deputy Ministers are to be appointed by Cabinet or Non-Cabinet Ministries and are employed under their own Ministries. They are not directly responsible to the Senate but their Ministers are responsible to the Senate for their actions.
+3.2.2.4. The President retains the authority to dismiss any Cabinet or Non-Cabinet Minister.
+3.2.4. The Cabinet shall collectively be responsible to the Senate.
+3.2.6. A motion of no-confidence may be introduced against any specific Cabinet member at any time and if it gains a 51% support in the Senate, it forces the resignation of that Cabinet member only from the Executive, but not from the Senate.
+3.2.6.1. The President then must appoint a new Cabinet Minister in accordance with 3.2.1.1.[d]
+Title 4. As of the Judicial Power         
+
+
+Article 4.1. The Judicial Power.
+4.1.1. is composed of one main body, the Supreme Court. This Court will have Lower Court Rooms and one Supreme Court Room. The Supreme Court is formed by three judges, including a Chief Justice elected by the Court to oversee procedural and administrative duties.
+4.1.2. will also consider all old judges as part of the judicial system; these have no power, only the last three to six judges have voting rights,  being able to vote in the internal election as per Article 4.7.
+4.1.3. will consider Judges, Prosecutors, Lawyers and Notaries as part of the legal profession but not necessarily as part of the judicial power unless stated by this Constitution. 
+4.1.4. The Chief Justice shall facilitate court operations but hold no superior authority over judicial rulings. Any exercise of power is subject to majority approval of the court.
+4.1.5. The Chief Justice shall be elected by the Supreme Court from the current sitting Justices.
+Article 4.2. Individuals who wish to participate in the legal profession must have been appointed to the position of Attorney General, or must have passed a simple bar exam;
+4.2.1. that includes: multiple choice questions, short answer questions, an interview.
+4.2.2. that cannot include political affiliation.
+4.2.3. If failed, the exam cannot be retaken for 7 days. 
+4.2.4. that will only be written, administered, and will be further regulated by a norm published by the Judicial Power. 
+4.2.5. The bar exam can only be passed by living persons, to pass the bar exam the candidate must be a full citizen. 
+4.2.6. This article may not be regulated by any rule unless specifically stated in this Constitution. 
+4.2.7. The practice of the legal profession without the correct authorization is prohibited and is considered a crime, whose punishment shall be determined by the Senate. 
+4.2.7.1. An exception shall be made, and it shall not be prohibited, for an individual to legally represent themself in a legal defence, so long as they only represent themself in a legal defence. An individual who represents themself without the qualifications outlined in the rest of Article 4.2 shall be recognised as a legal professional only in the context of the proceedings when and where they are their own legal representative.
+Article 4.3. Judges, 
+4.3.1. cannot file cases in their own court, unless stated otherwise in this Constitution. In case a judge wants to file a case in the lower court, another judge will provide the needed service. 
+4.3.2. need to properly inform all parties, in writing, regarding any decision that is not a sentence. 
+4.3.3. cannot participate in any capacity as a senator or a member of the executive branch. 
+4.3.4. shall take an oath to faithfully uphold the Constitution and the rest of the legal system, to administer upright and impartial justice and to fulfill their duties. 
+Article 4.4. All sentences, 
+4.4.1. must include the username of every person directly involved.
+4.4.2. must include a summary of the facts. 
+4.4.3. must include the legal background of the judgement.
+4.4.4. must include the judgment. 
+4.4.5. can only be passed on a filed and accepted case. 
+4.4.6. must be made public in a channel called #sentencing. 
+4.4.7. have the force of res judicata following their publication, unless it is a Lower Court sentence appealed through the Supreme Court; or, if done by the Supreme Court, through the process defined in 4.4.9.[e]
+4.4.8. must be passed and carried out by the court, once a case is accepted. 
+4.4.9. from the Supreme Court may be appealed in the Supreme Court for having at least one of the following. 1) A legal violation in the trial proceedings committed by the court, 2) the verdict reached is illegal, or 3) the sentence punishes an innocent individual. A unanimous vote from all three Justices in the Supreme Court in favor of repealing the sentence is required to confirm the appeal and repeal the sentence.[f]
+4.4.9.1. This does not apply to Lower Court Rooms. Sentences can be appealed until seven days from publication. 
+4.4.9.2. The voting period for the appeal of a Supreme Court decision must last 24 hours.
+4.4.9.3. An attempt to appeal any one decision by the Supreme Court may only be made once. The ruling for an appeal cannot in of itself be appealed.
+4.4.9.4. Supreme Court sentences carried out prior to the addition of Amendment 19 will not be subject to appeal.[g]
+Article 4.5. Voice channel hearings are allowed and are up to each judge to decide if they use voice channel or not, 
+4.5.1. In case of a hearing or trial taking place in a voice channel, the audio can be recorded. This recording will only be shared under valid request to the courts. 
+Article 4.6. Every person has the right to file a lawsuit. 
+Article 4.7. The process to elect Supreme Court Judges begins on the 14th of each month at 00:00 CET and ends on the 15th at 00:00 CET and is to be voted on by the members of the groups in 4.1.2 and 4.1.3. Anyone who can vote in this election may run for the office of judge.        
+4.7.1. Each candidate is listed with ranks from 1st to the total number of people 
+        running for judge. 
+4.7.2. The voters will be told to rank their choices for Judges with the 1st rank being their 1st choice for Judges and each lower rank will be a lower choice. 
+4.7.3. Once the ballot is over, each of the 1st choice ranks are to be counted by the Ministry of the Registrar.
+4.7.4. Additionally, the following must also happen; 
+4.7.4.1. Each ranking for a candidate is to be counted with the ranking they were given. This number is then to be divided by the total number of people who ranked them on their ballot. 
+4.7.4.2. The total number of ballots are to be counted and divided by 7.
+4.7.5. Once 4.7.3 and 4.7.4 are done, See if any candidate(s) have more then the number specified in 4.7.4.2, if any candidate(s) have more then the number specified in 4.7.4.2 the following will happen for each candidate; 
+4.7.5.1. The candidate will be given a seat on the court. 
+4.7.5.2. Count all the next highest choices from each ballot that the candidate had. 
+4.7.5.3. Take the total number of votes the candidate has and subtract the number from 4.7.5.2. 
+4.7.5.4. The number of votes over the number in 4.7.4.2 will be spread out proportionally by keeping the ratio of next-choice votes as close as possible. This is to be done by giving the candidate with the highest number of votes from 4.7.5.2 that does not have a higher proportion of votes to that in 4.7.5.2. 
+4.7.5.5. The process in 4.7.5.4 is to continue until the total number of votes in 4.7.5.3 are given out. 
+4.7.6. The candidate with the lowest number of votes is to be eliminated from the race. 
+        4.7.6.1. If two or more candidates have the same amount of votes the candidate 
+        with the higher number from the process in 4.7.4 is to be eliminated. 
+4.7.7. Once a candidate is eliminated via the method in 4.7.5 each vote that is currently given to the eliminated candidate is to have the next highest applicable candidate receive their vote. 
+4.7.8. Once 4.7.7 is done, the process outlined in 4.7.5, 4.7.6, 4.7.6.1 and 4.7.7 is to be repeated until only 3 candidates are not eliminated.
+4.7.9. The 7 candidates will take office 24 hours later on the 16th of each month at 00:00 CET.
+4.7.10 In the event a seat is vacant the Supreme Court has the authority to hold a special election to fill the vacancy.
+Article 4.8. Judges may issue judicial orders in relation to cases and matters relevant to them, which authorize or order compliance with certain measures and must be carried out by the person or entity to whom they are issued. 
+Article 4.9. All sentences from judges are to be carried out in all servers that are associated with Julia. 
+Title 5. The Supreme Court Room 
+
+
+Article 5.1. The Supreme Court Room is the highest courtroom in all jurisdictions.
+5.1.1. It may dictate the spirit and intent of the law. 
+5.1.2. It is responsible for resolving disputes about constitutionality and it may block laws or bills deemed unconstitutional by sentence. 
+5.1.3. It also handles appeals to sentences. It also handles all cases that are not specific to any court and not regulated by any norm. 
+Article 5.2. The Supreme Court Judges will be chosen by an internal vote of the judicial power, in line with limits set by Articles 4.2 and 4.3. 
+Article 5.3. The Supreme Court Room sentences will be considered case law that should inform the Lower Court’s decision. This courtroom does not have to follow case law. 
+Article 5.4. The Supreme Court can pass sentences without cases in the following situations,
+5.4.1. in case of assessing the constitutionality of a law, regulation, or any subordinate normative act. Or when an appeal of unconstitutionality is filed. In this case the Supreme Court can dictate a sentence but will inform the Senate of the ongoing process. 
+        Article 5.5. Justices are required to renounce party affiliation to serve as a member of the 
+        Supreme Court.
+Title 6. As of the Lower Court 
+Article 6.1. The Lower Court of Julia shall adjudicate all criminal and non-criminal disputes, including but not limited to contractual disagreements, property disputes, family law matters, employment conflicts, and tort claims.
+Article 6.2. The Lower Court has the obligation to respect case law and must pass sentence to any accepted case. 
+Article 6.3. Decisions of the Lower Court of Julia may be appealed to the Supreme Court within 14 days of the decision being published.
+Article 6.4. Decisions of the Lower Court of Julia may be appealed to the Supreme Court within 14 days of the decision being published.
+                6.4.1. The Judge must take the same oath required for a member of the Supreme 
+                Court.
+                6.4.2. A Lower Court Judge will be stripped of their position if they do not adjudicate a 
+                case once every calendar month.
+                6.4.3. A Lower Court Judge may be stripped of their position by a ⅔ vote of the 
+                Supreme Court Justices.
+                        6.4.3.1. The Supreme Court of Julia is obligated to vote on removing a judge if 
+                        requested by the President or the Chancellor of the Senate.
+                6.4.4. If a Judge is stripped of their position through the processes outlined in 6.4.2 and 
+                6.4.3, they are barred from serving in the legal profession in any capacity for six 
+                months.
+Article 6.5. Cases in the Lower Court are to be assigned according to the norms of the Judiciary.
+Article 6.6. The Supreme Court may at their discretion reassign a case or elevate it from the Lower Court to the Supreme Court.
+Title 7. Elections of the Senate and Executive Power 
+Article 7.1. The acting president is not allowed to take part of the election process in any way outside of the rights given to any citizen. This includes in the capacity of 3.1.4.
+
+
+Article 7.2. An election is to be held starting 7 days before the start of each month, known as the executive elections. Another election is to be held the 6th day of each month, known as the Senate elections.
+        7.2.1. Both elections must last 24 hours starting at 00:00 CET on their respective 
+        dates. 
+Article 7.3. Anyone wishing to be on the ballot must inform the ministry or organization handling elections with: 
+        7.3.1. Both the name they wish to have on the ballot along with their Discord user ID.
+7.3.2.If they wish to run as a Presidential candidate they must have a Vice Presidential candidate run with them.
+7.3.2.1. The Vice Presidential candidate must also file with the ministry or organization handling elections.
+
+
+Article 7.4. The time limit to register for the elections in 7.2 shall be established by a Constitutional Law handling the election system. In case no Constitutional Law handles this, the limit shall be 5 days (120 hours) before the election.
+
+
+Article 7.5. The ministry or organization handling elections must put anyone on the ballot that requests to be as long as:
+        7.5.1. They are eligible to run.
+        7.5.2. They are not a current Judge or Justice.
+
+
+Article 7.6. The process to elect the President in an executive election shall be established by a Constitutional Law handling the election system. This process shall adhere to the Ranked Choice Voting (RCV) system.
+
+
+Article 7.7. The process to elect the Senate in a legislative election shall be established by a Constitutional Law handling the election system. This process shall adhere to the Single Transferable Vote (STV) system.
+
+
+Article 7.8. The process to fill Senate vacancies during a term shall be established by a Constitutional Law handling the election system.
+
+
+Article 7.9. The date for the swearing-in of the candidates elected as President and Vice-President on the election in Article 7.2 shall be established by a Constitutional Law handling the election system. In case no Constitutional Law handles this, they will take their role the first day of the next month at 00:00 CET.
+
+
+Article 7.10.  The date for the swearing-in of the candidates elected to the Senate on the election in Article 7.2 shall be established by a Constitutional Law handling the election system. In case no Constitutional Law handles this, they will take their role 5 days (120 hours) after the election ends at 00:00 CET.
+
+
+Article 7.11. All elections shall be free, fair, and transparent. Coercion, intimidation, vote buying, or any form of undue influence is strictly prohibited.[h]
+Title 8. About Forms of Impeachment 
+
+
+Article 8.1. Members of Government for the purpose of Title 8 will extend to the President, the Vice President, Members of the Senate, Members of the Judicial Power, and Ministers in the Presidential Cabinet.
+Article 8.2. Members of Government are to serve the people of Julia above all else. Anything that would fail to uphold this are grounds for impeachment. This includes; 
+8.2.1. A period of inactivity 5 days or more unless preemptively granted by the court.
+8.2.1.1. The time of extension is not to exceed 14 days.
+8.2.2. Any criminal conviction must have an impeachment trial. 
+8.2.3. Anything that could compromise the integrity of the State of Julia. This includes crimes such as treason and bribery. 
+Article 8.3. To impeach the President or Vice President for any of the crimes in 8.2, the Senate must make a motion to impeach. 
+8.3.1. This motion needs a two-thirds vote to pass on the grounds that the actions violate 8.2. 
+8.3.2. If the Senate votes to impeach, the motion goes to the Supreme Court which must vote majority in favor on the grounds that they are guilty of the crime in the motion, and the crime violates 8.2. 
+Article 8.4. To impeach a member of the Senate for any of the crimes in 8.2, the President or the Attorney General[i] must bring the case to the Supreme Court with an indictment. 
+        8.4.1. The Minister of Justice and Attorney General[j] is required to prosecute the case. 
+8.4.2. The Supreme Court must reach a two-thirds vote on the grounds of;
+8.4.2.1. The alleged indictment violates 8.2 
+8.4.2.2. The statements of the indictment are factual 
+8.4.2.3. The violation of 8.2 is egregious enough that the Senator can not remain in the Senate. 
+Article 8.5. To impeach a member of the Court for any of the crimes in 8.2, the President or the Attorney General[k] must bring the case to the Senate with an indictment. 
+8.5.1. The Minister of Justice and Attorney General[l] is required to prosecute the case. 
+8.5.2. The Senate must reach a two-thirds vote on the grounds of; 
+8.5.2.1. The alleged indictment violates 8.2 
+8.5.2.2. The statements of the indictment are factual 
+8.5.2.3. The violation of 8.2 is egregious enough that the Senator can not remain as a member of the Court.[m]
+Article 8.6. In any impeachment due to inactivity as in 8.2.1 a trial may be bypassed by providing proof to the appropriate body to vote on if the proof is adequate. 
+Article 8.7. An individual who is impeached for treason may not run for or hold any elected office for 90 days.[n]
+Article 8.8. An individual who is impeached but for a reason besides treason may not run for or hold any elected office for 30 days.[o]
+Title 9. About Laws, Regulations and Norms 
+
+
+Article 9.1. As for different types of rules, there are seven types: The Constitution, Constitutional Law, Law, Referendum Law, Executive Order, Ministerial Order, and Norm. In this order of hierarchy. In case of confusion, contradiction, or overlapping, the higher norm prevails over the lower one, the newer supersedes the older one and the specific prevails over the general one, in that order.
+Article 9.2. The Constitution is the supreme law of the land and may only be changed through an amendment by the process outlined in Article 2.6.
+Article 9.3. Constitutional Law: These laws can only address issues related to the Constitution unless expressly stated otherwise in the Constitution itself. A two-thirds majority vote in the Senate will be required to pass these laws. 
+Article 9.4. Law: These laws will encompass all matters not reserved for Constitutional Law and are created by the process outlined in Article 2.3. 
+Article 9.5. Referendum Law: These laws are to be created by the people themselves through the process outlined in Article 2.4.
+Article 9.6. Executive Orders: These regulations issued by the President may be created to carry out the operations of the Executive office. Including diplomatic and military actions as described in Title 3, as well as to implement the law and regulate day to day functions of the citizens.
+Article 9.7. Ministerial orders: These regulations are more specific, issued by the Ministries to implement the law and regulate day to day functions of the citizens. They may only cover topics within their margin of competence. It depends on a law and may only address issues covered by it. 
+Article 9.8. Norms: These may be approved by the public institutions themselves, within their margin of competence, signed by the person in charge of the institution. These norms allow regulation to ensure the proper functioning of the day to day of the institutions. [p]
+Title 10. About the Admins and Server Owner 
+
+
+Article 10.1. The Server Owner is not awarded any particular status or power due to being such, and they may participate in the democracy sim and government in any way a regular citizen would be allowed to. 
+10.1.1. Before the Server Owner is allowed to do such, they must take an oath to not use their powers unless it is to uphold the Constitution. Article 10.2. The Admin team is; 
+10.2.1. A group of members that have been established before the Constitution by the server owner. 
+10.2.2. A group that shall take an oath to faithfully perform their duties, to keep and uphold the Constitution and the laws, and to respect the rights of citizens. 
+10.2.2.1. This oath will be taken publicly in the first possible session of the Senate as the first point of order in the agenda. The oath is to be officiated by the Judicial Power in presence of the Senate. 
+10.2.3. An Admin must be reasonably active and responsive. 
+10.2.3.1. An Admin can leave for more than 5 days as long as they inform the Supreme Court, the public, and the President. 
+10.2.4. The acts of the Admins shall be endorsed by the Senate and, as the case may be, by the President or the pertinent bodies as passed by a Constitutional Law. The proposal and appointment of the President of the Government shall be countersigned by the President of the Senate. 
+10.2.4.1. The persons endorsing the acts of the admins shall be responsible for them. 
+10.2.5. Courts may endorse the Admins to execute published sentences in the case of the President refusing to enforce them. 
+10.2.6. Admins may issue at their discretion a 24 hour mute for a violation of the law. 
+        10.2.6.1. They then must inform the President, the Minister of Justice[q], and 
+        all other Admins. 
+10.2.6.2. Admins may bypass this process and issue a permanent ban if the content posted is anything that is of an illegal nature in real life, or that implies abuse of minors. They must then inform the President and the Judiciary. 
+Article 10.3. In the event an Admin does not act within 10.2, the President must inform the Senate and prosecute them as such in front of the Supreme Court. They must vote within the bounds of the Constitution, and may not vote in personal interest. 
+10.3.1. For the duration of impeachment, the Admin will be stripped of their role by the server owner.
+10.3.2. If the Admin is found guilty, the case in its entirety will be given to the Senate to vote on. The Senate must then vote and reach a two-thirds majority to pass and impeach the Admin. 
+10.3.3. In the event an Admin is removed via 10.3, they will be stripped of their role. 
+Article 10.4. Admins may bring on new Admins to the team via a vote with over half the Admin team agreeing.
+10.4.1. An abstaining vote will count as a no.
+10.4.2. Admins may not be removed by the other Admins. Only an impeachment trial, or one voluntarily stepping down, will remove the Admin. 
+10.4.3. If an Admin is impeached, they are not allowed to rejoin the team. 
+Title 11. About Declarations of War
+
+
+Article 11.1. A declaration of war is required for the Julian Armed Forces to make any offensive action within the jurisdiction of any other Discord server.
+Article 11.2. For a declaration of war to be made by the Democratic Republic of Julia:
+        11.2.1 A motion must go through the senate which lasts at least 24 hours. To 
+        pass, this motion must receive ⅔ approval of all sitting Senators.
+        11.2.2. If this motion is passed, the President must then approve of it. Once approved, 
+        the declaration of war takes effect immediately.[r]
+Title 12. Bill of Rights (Freedom of Speech)
+
+
+From hereon, the word “People” will refer to Citizens of The Democratic Republic of Julia, and “Person” will refer to any particular citizen- a member of the “People”. The word “State” will refer to the Federal Government of the Democratic Republic of Julia.
+
+
+This Bill of Rights protects the sovereign Rights of Julian Citizens along with the order to administer these rights when interacting with anyone, citizen or non-citizen.
+
+Article 12.1. Speech
+12.1.1. The People are given the freedom and liberty to speak their mind and say anything they wish. Specifics for this are to be listed within Article 12.
+12.1.2. Restrictions are permitted, as laid out and specified in other articles in this Bill of Rights only.
+12.1.3. No law, order or motion may restrict these rights as laid out in this Article.
+Article 12.2. Assembly
+12.2.1 The People, of any size, will be afforded any and all opportunity to gather together in any space afforded to them.
+12.2.2. These gatherings will be hereby referred to as “Assemblies”
+12.2.3. Assemblies cannot be legally or officially disbanded for any reason other than inappropriate use of a specific channel. 
+12.2.4. Locking channels that are designed for citizen communication is forbidden.
+Article 12.3. Press
+12.3.1. The People have an inalienable right to share opinion, news, and conclusions.
+12.3.2. Any space provided to the People to share these rights must be orderly and accessible.
+12.3.3. Any restriction of a space to share the rights laid out in 12.3.1. is strictly forbidden.
+Article 12.4. Religion
+12.4.1. The People have an inalienable right to form and engage in movements of religious practices.
+12.4.2. The State may not remove the opportunity to form or engage in these practices.
+12.4.3. The State is barred from endorsing, encouraging, or otherwise benefitting a specific religious practice, or religious practices as a whole.
+Title 13. Bill of Rights (Petitions, Parties, Appeal, Vote)
+
+
+Article 13.1. Petition
+13.1.1. The People have an inalienable right to create and engage in petitions, referendums, and polls that impact policies, bills, laws, motions, amendments, and the constitution itself.
+13.1.2. The People are entitled to petition when large decisions impacting the entire server are suggested.
+Article 13.2. Campaign
+13.2.1. Any Person must be allowed the opportunity to form a Political Party.
+13.2.2. Any Person must be allowed the opportunity to run in any election.
+Article 13.3. Appeal
+13.3.1. The People have an inalienable right to appeal any decision through legal means.
+13.3.2. These legal means must be primarily settled through court proceedings, or through an arranged deal between relevant parties.
+Article 13.4. Vote
+13.4.1. The People have an inalienable right to participate in all elections in which they have jurisdiction over.
+13.4.2. The only barrier of entry into voting is the requirement of a valid citizenship, and any identification that is directly given by this citizenship.
+Title 14. Bill of Rights (Right to Privacy)
+         Article 14.1. Private Information
+14.1.1. Private Information is defined by any information regarding the real life person behind an account.
+14.1.2. Any Private Information about another user that has been obtained cannot be shared without direct, obvious consent of the affected party, unless the information is subpoenaed for relevance in court.
+Title 15. Bill of Rights (Right to Content)
+Article 15.1. NSFW Ban
+15.1.1. Any content shared via image, video, gif, or message must not be “Not Safe For Work”.
+15.1.2. “Not Safe For Work” material is content that contains:
+15.1.2.1. Nudity
+15.1.2.2. Severe Violence
+15.1.2.3. Sexual Actions
+15.1.2.4. Obvious Implications of Sexual Actions
+Article 15.2. Organization
+15.2.1. Content can be removed, moved or altered by an individual acting with the proper authority to do so, given that they are following a law that has been passed.
+Article 15.3. Artistic Property
+15.3.1. A Person must be given direct, clear and accessible access to legally recognize their work as their own.
+15.3.2. Artistic Property must be protected by the State against plagiarism.[s]
+15.3.3. A person's intellectual property cannot be used by anyone else for training Artificial Intelligence models[t]
+Title 16. Bill of Rights (Rights to a Fair Trial)
+Article 16.1. To a Trial
+16.1.1. The People have the right to a legal trial given the circumstance that they have been detained by the State.
+16.1.2. Any action that removes a person from their ability to act within the server shall be considered as a detainment.
+16.1.3. This trial must hold a jury and a judge.
+Article 16.2. Double Jeopardy
+16.2.1. A Person cannot be tried under court for a singular event more than once; except for the  purpose of appealing a previous court decision as defined in 4.4.9. with the consent of the Person it pertains to.
+Article 16.3. Speedy Trial
+16.3.1. A Person is afforded the right to have their case be heard to an official Judge as quickly as possible.
+Article 16.4. Free Lawyer
+16.4.1. A Person must be made aware and given the opportunity to have a free public defender represent them in their criminal case in a court of law.
+Article 16.5. Right to Suit
+16.5.1. A Person has the right to sue any company, corporation, non-profit, or for-profit organization given they provide a substantial reason to a court of law.
+16.5.2. A Person has the right to sue the government for violations of their rights, or breachment of Title 22, “The Social Contract”.
+Article 16.6. Miranda Rights
+16.6.1. A Person, when detained, prosecuted or sued, must be read their Rights to a Fair Trial (Article 16.) in Direct Messages.
+Article 16.7. Assumption of Innocence
+16.7.1. A Person must be allowed the presumption of innocence.
+16.7.2. The State, with the exception of the Ministry of Justice while the context of court proceedings, may not claim, imply, defame, or otherwise affect the legal proceedings in a way that would depict the accused as being guilty for the crime they are accused of.[u]
+16.7.3. A Person cannot receive punishment, abuse, or taunting by any Person in the State, or Person a part of the case.
+16.7.4. Anyone, including members of the State, may include their opinion on the matter of a case.
+16.7.5. A Person cannot receive a punishment based on a suit that did not directly prosecute them.
+Title 17. Bill of Rights (Equitable Rights)
+Article 17.1. Protection Against Hate
+17.1.1. Hate speech, including hate symbols, imagery, and claims that deny the history of mass human atrocities are forbidden.
+17.1.2. Any form of expression that either attacks people or promotes hatred, violence or erasure against them based on their protected characteristics are forbidden.
+17.1.3. Protected Characteristics are as follows:
+17.1.3.1. Physical and Mental Ability
+17.1.3.2. Gender
+17.1.3.3. Race/Ethnicity
+17.1.3.4. Religion
+17.1.3.5. Sexuality/Romantic Orientation
+Article 17.2. Protection Against Coercion
+17.2.1. The People, unless personally stated multiple times, shall be legally regarded as a minor (below 18 years of age) when confronted with unsafe materials.
+17.2.2. Anyone, self-identified as an adult (18 years of age or above), cannot ever be legally classified as a minor under any circumstance.
+17.2.3. Anyone cannot share unsafe materials when in the presence of a minor.
+17.2.4. Anyone, cannot encourage, or otherwise incentivize a minor into an identity, role, or engagement with topics that intersect unsafe materials.
+17.2.5. Anyone, who has specifically identified as a minor, and who has been discovered to be an adult at the time of statement, shall be accordingly dealt with by the Moderation team.
+17.2.6. Unsafe Materials are as follows:
+17.2.6.1. Sexuality
+17.2.6.2. Violence
+17.2.6.3. Gore
+17.2.6.4. Harm
+Title 18. Bill of Rights (Rights to Needs)
+Article 18.1. Physical
+18.1.1. Food
+18.1.1.1. The People have an inalienable right to the opportunity to feed themselves.
+18.1.1.2. A Person must be allowed to grow and create their own food, or given a consensual agreement, purchase between them and a distributor.
+18.1.2. Shelter
+18.1.2.1. The People must be given the opportunity to house themselves in a comfortable and consensual manner.
+18.1.2.2. A person must be allowed to either build their own shelter on land owned by themselves, purchase a property with a fair and consensual deal, or rent with a legal contract agreed upon by all parties involved.
+18.1.2.3. Any property that is inhabited or in use- as determined by a court of law- can only be seized given the State provides just compensation, as agreed upon by all parties involved.
+18.1.2.4. Any property that is not inhabited or in use- as determined by a court of law- can be seized by the State, with compensation upon request by the former owner of the property.
+18.1.2.5. The owner of any property has the legal authority to decide what can occur within their property, with the exception of any legally recognized jurisdiction which presides over the property.
+18.1.2.5.1. This includes, but is not limited to, who is permitted use of the property at any given time, temporary or indefinite agreements of property use, however easements must be given if the use is deemed necessary (access to property, or other public lands).
+Article 18.2. Security
+18.2.1. Health
+18.2.1.1. The People have an inalienable right to protect their well-being, physically and mentally.
+18.2.1.2. Priority for every individual should rest within their body, in real life.
+18.2.1.2.1. In the event someone is sacrificing or risking their personal health in favor of activity in Julia, protective measures can be taken.
+18.2.1.3. Mental Health breaks- or any equivalent, cannot be discriminated against, and any suit that involves Mental Health must consider it properly.
+18.2.2. Safety
+18.2.2.1. The People have the inalienable right to protect themselves, whether physically or verbally.
+18.2.2.2. The People have a right to protect others, so long as permission is gained consensually, and potentially, legally recognized.juris
+18.2.2.3. Any protective measures of a Person, whether by another Person, or by the State, must not undermine any Rights afforded to the protected.
+18.2.3. Employment
+18.2.3.1. The People must be allowed the opportunity to apply at or create a legally recognized business.
+18.2.3.2. Business cannot discriminate against employees, clients, or potential clients.
+18.2.3.3. A Business has the authority to self-determine its actions.
+18.2.3.4. A Business cannot be afforded all of the same privileges as a Citizen.
+18.2.3.5. A Business cannot:
+18.2.3.5.1. Obtain a Voter ID.
+18.2.3.5.2. Vote in referendums.
+18.2.3.5.3. Receive government benefits, while not a part of a larger group receiving benefits.
+18.2.3.5.4. “Speak”, as if it were a Citizen.
+Article 18.3. Advancement
+18.3.1. Education
+18.3.1.1. Opportunities to advance knowledge, and obtaining degrees- or any equivalent, must be available to the People.
+18.3.1.2. Educational Organizations cannot discriminate against their employees, potential employees, students, or prospective students.
+18.3.1.3. Degrees, or any equivalent, must be provided after the student obtains all criteria.
+18.3.2. Movement
+18.3.2.1. The People have the right to freely move.
+18.3.2.2. Restrictions may be applied, and warnings may be given, but the State does not have the right to restrict Citizens from leaving freely.        
+18.3.2.3. The State does have the authority to temporarily restrict movement into a jurisdiction, given proper reasoning.
+18.3.2.4. The People are afforded the Right to Roam, allowing entrance into any area given they do not commit a crime while entering or while within the area.
+Title 19. Bill of Rights (Rights to Self)
+Article 19.1. Self-Actualisation
+19.1.1. The People are entitled to the self-actualisation of themselves.
+19.1.2. Individuals cannot be bought or sold.
+19.1.3. The People have the right as to what happens to their own person.
+19.1.4. The People have the right to appropriately control their own words, including messages, server nickname, and profile photo.
+19.1.5. Any account, body, character, or any representation of an individual, directly controlled by the individual, are all considered extensions of the individual, and are privy to the individual’s rights.
+Article 19.2. Ownership
+19.2.1. The People are entitled to the right to own property.
+19.2.2. Barring exceptions, a Person can conceivably own anything, so long as the ownership of the item is tangible and realistic.
+19.2.3. Any “ownership” which demeans or otherwise challenges a person’s rights- is invalid, and illegal.
+Title 20. Bill of Rights (Rights to Citizenship)
+Article 20.1. Citizenship Laws
+20.1.1. Anyone deemed compliant with citizenship proceedings, as determined by the State, must be granted appropriate Citizenship of Julia, as defined by the State’s citizenship path.
+20.1.2. “Citizenship Paths” cannot discriminate against any form of identity.
+20.1.3. The only factor that may inhibit ability to gain or lose citizenship are guilty verdicts.
+20.1.4. If necessary, a court may hear the State’s prosecution against a non-citizen. If found guilty, the State may use that verdict to deny citizenship.
+Article 20.2. Government Transparency
+20.2.1. The State must allow official government channels and official conversations to be viewable to the public.
+20.2.2. The State must allow the People to view voting patterns of the Legislative Body, both Senate and Referendum Votes.
+Article 20.3. Participation
+20.3.1. Participation in any metric is optional.
+20.3.2. A Person cannot be forced, under any pressure, to engage in any activity.
+20.3.3. Company employees, unless otherwise stated in a legal contract, cannot be required to work. 
+20.3.4. State officials, when appointed to their position, have willingly opted into mandatory work, and must be afforded the opportunity to leave the position, indefinitely or temporarily.
+Title 21. Bill of Rights (The Social Contract)[v]
+Article 21.1. For The People
+21.1.1. The legalization of this here Bill of Rights, by the Senate, will act as a legal signature to these terms:
+21.1.2. The State vows to uphold the rights of anyone who enters.
+21.1.3. The State vows to protect the sovereignty and independence of the People above the State.
+21.1.4. In the event the State breaches the contract, the People are encouraged and legally protected to follow Title 22.
+Article 21.2. For The State
+21.2.1. The legalization of this here Bill of Rights, by a legal referendum, will act as a legal signature to these terms:
+21.2.2. The People vow to accept the stipulations to these rights, as laid out in Title 12.
+21.2.3. The People recognize that they are trading the ability to do certain actions, prohibited by this Bill of Rights, in exchange for retaining the protection, as laid out in Article 21.1.
+21.2.4. In the event a Person is found to have breached the contract, they forfeit the protections vested within them in the Bill of Rights Titles 12, 16, 18, and 20- given from the State.
+Title 22. Bill of Rights (Rights to Rebellion)
+Article 22.1. When tyranny becomes law, rebellion becomes duty. In the event the People believes the State no longer upholds their end of the Social Contract, the People must, through legal means, do the following:
+22.1.1. Create a petition, laid out as a vote of no-confidence, or similarly stated, in the State. The petition must contain a claim of no-confidence, with proof that the State has failed to prevent tyranny and violation of basic laws.
+22.1.2. The State may issue a response to the claims brought forth, only in direct response to the petition.
+22.1.3. It becomes the responsibility of the People to become the jury in this case.
+22.1.4. Following Petition/Referendum procedures, if the referendum receives at least 75% of the vote, follow Article 22.2.
+Article 22.2. In the event of legal rebellion,
+22.2.1. All government workers are removed from their positions.
+22.2.2. The constitution, and all law is considered invalid until a revote, with the exception of this here Bill of Rights. The Bill of Rights will not be considered invalid.
+22.2.3. It becomes the duty of the People[w], to edit, and delete troubling clauses in the law, while writing better restrictions, in order to prevent tyranny in the law again.
+22.2.4. The first vote the People are required to vote on is the reappointment of the Constitution, with appropriate edits.
+22.2.5. The Constitution will only be valid if it contains, at minimum, free elections, and approval of this Bill of Rights.
+22.2.6. Once the Constitution is approved by the People, the state will become the “#[th] Democratic Republic of Julia” 
+22.2.6.1. # - representing the order of the Constitution the People have decided upon - for example, the 5th Constitution will uphold the 5th Democratic Republic of Julia.
+22.2.7. As laid out in the approved Constitution, all bills must be reapproved- with the numbering system: #.#.#.
+22.2.7.1. The first number represents which Constitution the State is abiding by, the same number in 22.2.4.
+22.2.7.2. The second number represents which Senate, or Legislative equivalent, the Bill is being processed under
+22.2.7.3. The third number represents the order of proposal the Bill holds within the current senate.
+22.2.7. Charges may be brought against the previous government officials, only under the law in which the events occurred.  
+Article 22.3. In the event of inaction,
+22.3.1. If at any moment, the People are not allowed or able to proceed with Title 22, they must move operations to the next backup server.
+[a]Changed by Amendment 018. Original wording:
+
+
+"The state of Julia shall welcome in all immigrants with open arms regardless of things such as race, sex, or identity."
+[b]Changed by Amendment 018. Original wording:
+
+
+"All persons are equal before the law, without any discrimination based on birth, race, sex, religion, opinion or any other personal or social condition or circumstance."
+[c]Changed by Amendment 026.
+[d]Changed by Amendment 026.
+[e]Changed by Amendment 19. Used to say "4.4.7. have the force of res judicata following their publication."
+[f]Changed by Amendment 19. Used to say "from the Supreme Court Room are final and no appeal may be lodged against
+them."
+[g]Added by Amendment 19.
+[h]Added by Amendment 026.
+[i]Changed by Amendment 018. Used to say Minister of Prosecution.
+[j]Changed by Amendment 018. Used to say Minister of Prosecution.
+[k]Changed by Amendment 018. Used to say Minister of Prosecution.
+[l]Changed by Amendment 018. Used to say Minister of Prosecution.
+[m]Changed by Amendment 018.
+[n]Added by Amendment 13.
+[o]Added by Amendment 13.
+[p]Changed by Amendment 20. Used to say: "Article 9.1. As for different types of rules, there are six types: Constitutional Law, Law,
+Constitutional Regulation, Regulation, Norm and Referendum Law. In this order of hierarchy. In
+case of confusion or overlapping, the higher norm prevails over the lower one, the newer
+supersedes the older one and the specific prevails over the general one.
+Article 9.2. Constitutional Law: This law can only address issues related to the Constitution
+unless expressly stated otherwise in the Constitution itself. A qualified majority (two-thirds) will
+be required in the Senate to pass this law.
+Article 9.3. Law: This law will encompass all matters not reserved for Constitutional Law and
+is created by the process outlined in Article 2.3.
+Article 9.4. Ministerial orders: These regulations are more specific, issued by the Ministries to
+implement the law and regulate day to day functions of the citizens. They may only cover
+topics within their margin of competence. It depends on a law and may only address issues
+covered by it.
+Article 9.5. Norms: These may be approved by the public institutions themselves, within their
+margin of competence, signed by the person in charge of the institution. These norms allow
+regulation to ensure the proper functioning of the day to day of the institutions.
+Article 9.6. Referendum Law: These laws are to be created by the people themself as stated
+in and in the manner of article 2.4."
+[q]Changed by Amendment 018. Used to say Minister of Prosecution.
+[r]Added by Amendment 008.
+[s]Changed by Amendment 21. Used to be "Article 15.3. Intellectual Property
+15.3.1. A Person must be given direct, clear and accessible access to legally recognize
+their work as their own.
+15.3.2. Intellectual Property must be protected by the State."
+[t]Added by Amendment 23.
+[u]Changed by Amendment 018.
+Original wording:
+
+
+"The State, outside of the Office of Prosecution, may not claim, imply, or otherwise affect the legal proceedings in a way that depicts the accused as being guilty for the crime they are accused of."
+[v]Numbering changed throughout 21 and 22 by Amendment 20, to account for the removal of the former Title 21. Bill of Rights (Political Hierarchy). It used to say "Article 21.1. Priority Structure
+21.1.1. In the event two decisions within Julia were to contradict, the prioritization and
+legality are to be decided by the “Political Hierarchy”, which follows numerically below.
+Article 21.2. Federalism
+21.2.1. An organization, government, or otherwise group of people that make decisions
+will be hereby known as a “Lesser Body”
+21.2.2. The Federal Government structure of Julia’s decisions will show priority over
+any decision by a Lesser Body, in the event these decisions contradict each other.
+Article 21.3. Internal Priority
+21.3.1. In the event multiple Federal decisions contradict each other, the hierarchy of
+internal government rulings are as follows:
+21.3.1.1. Constitution + Amendments
+21.3.1.2. Legislative Law
+21.3.1.3. Petition Law
+21.3.1.4. Executive Order
+21.3.1.5. Ministerial Order
+21.3.1.6. Norm / Precedent
+Article 21.4. Recency Bias
+21.4.1. In the event multiple decisions in the same internal governance hierarchy were
+to contradict each other, the most recent decision is to take precedence.
+Article 21.5. Judicial Review
+21.5.1. The Judiciary holds the ultimate power and authority of the execution of laws.
+The Supreme Court rules on deliberation between potentially conflicting rulings."
+[w]P capitalized by Amendment 018

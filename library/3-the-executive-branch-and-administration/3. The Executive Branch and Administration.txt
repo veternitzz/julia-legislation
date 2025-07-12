@@ -1,0 +1,235 @@
+﻿THE EXECUTIVE BRANCH AND ADMINISTRATION
+Bill 4.04 – Act to Separate the MIA and SoS        1
+Bill 4.20 - Environmentalism & Volunteerism Act        3
+Bill L5.15 — Government Readiness And Preparation Level Act        6
+Bill L6.03 — Secretary of the Executive Act        7
+Bill L6.05 — Department of Advertising Creation Act        8
+Bill L6.11 — Ministry Server Consolidation Act        9
+
+
+Bill 3.2 – Vice Presidential Responsibilities Act (VPRA)
+
+Bill 4.04 – Act to Separate the MIA and SoS
+Amended by Bill 5.09 – First Amendment to the Act to Separate the MIA and SoS
+Added to this document on 5/29/2025
+Whereas the roles are now appointed separately, their powers shall now be appointed separately.
+
+
+The following shall be enacted by the Senate:
+
+
+1. Short Title
+   1. This act may be cited as the Act to Separate the MIA and SoS
+
+
+2. The Ministry and Minister of Internal Affairs shall be separated from the Ministry and Secretary of State as outlined in bill 1.10
+
+
+   2. The Minister of Internal Affairs shall create a three digit combination containing two numbers and one letter for each registered voter called a Voter ID
+
+
+      1. Voter IDs must be retired and never reused if the combination’s owner leaves the server, even if temporarily
+
+
+      2. Each registered voter may only have one Voter ID
+
+
+      3. Business accounts are not permitted to have a Voter ID
+
+
+      4. A Voter ID must be retired if leaked to anyone beside its owner or the Minister of Internal Affairs
+
+
+   3. The Minister of Internal Affairs must inform the Commissioner of Elections of the combinations they distributed without the names of who the combinations belong to so they can properly verify votes
+
+
+   4. The Secretary of State shall not continue to use the powers given to the Minister of Internal Affairs in articles 2.1. through 2.2. 
+
+
+3. Powers of the Ministry and Secretary of State
+
+
+   5. The Secretary of State shall be included in all foreign relations talks, including but not limited to treaties, alliances, and general improving of relations
+
+
+   6. The Secretary of State shall issue travel advisories to other DemSims that interact with Julia
+
+
+   7. The Minister of Internal Affairs shall not continue to use the powers given to the Secretary of State in articles 3.1. and 3.2.
+
+
+4. Implementation
+
+
+   8. This act shall be implemented immediately upon passage
+Bill 4.20 - Environmentalism & Volunteerism Act
+Added to this document on 5/15/2025
+
+
+Whereas, to encourage sound environmentalist practices and volunteer activities that positively impact society, this Act will enable the President to give out rewards from the government budget.
+
+
+The following will be enacted into law by the senate:
+
+
+1. SHORT TITLE
+   1. This Act may be cited as the Environmentalism & Volunteerism Act (EVA)
+2. AN ACT
+   1. The President of Julia is authorized to grant payments from the treasury of up to 20,000 JUD at a time to citizens other than themselves who provide evidence of themselves contributing to their real life community in the following ways:
+      1. Picking up trash, enough to fill at least one trash bag of reasonable size at the discretion of the President. A “J” for Julia should be written clearly on the bag in marker as evidence that it was done by that citizen of Julia. A piece of paper with a “J” on it that’s also in the picture with the bag is also acceptable.
+      2. Contributing at least two volunteer hours in programs such as food banks, homeless shelters, park maintenance, animal shelters, centers of independent living, and other non-profit programs which rely primarily on volunteer labor may apply. These contributions may be proven through either a picture of the work done with a piece of paper with “J” for Julia written on it in the photo (if applicable) and/or a photo of the records of the volunteer hours, with any identifiable information removed/censored. 
+      3. Being a poll worker for real-life elections will be included even if the individual is paid in real life to do it. Exception being if working the elections is their job, and not something they sign up for by individual election.
+   2. The monetary rewards described in 2.1. will henceforth be known as EVA rewards.
+   3. The standard method to request an EVA reward is to post the evidence, explain what you did, and notify the president. By default this may be done anywhere that the President could see it, but the President reserves the right to establish that EVA reward requests are to be sent to a specific location or in a specific way. 
+   4. Photo evidence that contains people who did not consent to being photographed is illegal.
+   5. The President may deny giving an EVA reward if, including but not limited to, they suspect falsified evidence, they suspect an attempt to exploit or ‘game’ the system, evidence is lacking, or for any other reasons described in this Act. If a reward is denied, the President must explain their reasoning as to why.
+   6. No more than one EVA reward that is funded by the treasury can be given per act of contribution to a citizen’s community, although the amount in that award may vary as described in 2.1. Rewards higher than 20,000 JUD are allowed, but only up to 20,000 JUD may come from the treasury per instance of a citizen contributing to their community as described in this Act.
+   7. Volunteering for religious and partisan political organizations which utilize volunteer labor does not qualify for EVA rewards.
+   8. The Vice President may grant or deny EVA rewards as the President would if the President gives permission ahead of time. The Vice President shall not grant rewards to themselves or the President. They are subject to all the same regulations as the President would be in giving out EVA rewards.
+   9. Any attempt -successful or not- to deliberately fraud the president into giving an undue reward is punishable if proven in a court of law by removal of the reward, permanent disqualification from any government rewards in the future, and a fine of 50,000 JUD.
+   10. If the President does not have role permissions to create money in order to fulfill an EVA reward, someone who does have the permissions must do it for them whenever they are next available.
+   11. The Minister of Finance is to be notified if money is created to fulfill an EVA reward that one was granted and how much was given in the reward from the treasury. It is the responsibility of the President to ensure this happens.
+3. IMPLEMENTATION
+   1. Upon passage, this bill is to go immediately into effect.
+Bill L5.15 — Government Readiness And Preparation Level Act
+Added to this document on 6/10/2025
+Summary 
+This bill aims to create a concise way to describe threats to Julia.
+
+
+Whereas, there is no concise method of classifying threats made to Julia.
+
+
+The following will be enacted by the Senate:
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘Government Readiness And Preparation Level Act’ or as the ‘GRAPL Act’.
+2. AN ACT
+   1. The ‘GRAPL’ method is to be Julia’s legal method of classifying threats against Julia.
+   2. GRAPL is an abbreviation for ‘Government Readiness And Preparation Level’ which is a 5-level scale with 5 being peacetime, while 1 indicates an imminent raid or that a raid is already underway.
+   3. Each level of GRAPL, and what they mean are as follows:
+      1. GRAPL 1 - A raid or other form of attack against Julia is imminent or is already underway. 
+      2. GRAPL 2 - A raid or other form of attack against Julia is likely. The government should be ready to respond accordingly. 
+      3. GRAPL 3 - Credible threats to Julia exist. The government should be taking steps to defend Julia. 
+      4. GRAPL 4 - Threats have been made to Julia, although they are not very credible. The government should watch the situation closely. 
+      5. GRAPL 5 - No threats have been made to Julia. Peacetime.
+   4. GRAPL may be raised or lowered via the methods outlined in 2.4.
+      1. The President may raise or lower GRAPL, but must provide proper reasoning for raising or lowering the level. The President may only raise Julia to GRAPL 1 if they receive verbal approval at the time from at least 2 Senators.
+         1. The Senate may motion with a 50%+1 majority to repeal the President’s adjustment of GRAPL. In the event they do, the President must get Senate approval for any changes to GRAPL for 24 hours following the passed motion in the Senate.
+      2. The Senate may motion to raise or lower GRAPL to any level with a 50% + 1 majority of those who vote in the poll.
+   5. A channel titled “#grapl” is to be created in the ‘Executive Branch’ category which should contain a list of all GRAPLs as well as their description. It should also contain what GRAPL Julia is currently on.
+   6. Upon the immediate passage of this bill, GRAPL 5 is to take effect.
+3. IMPLEMENTATION
+   1. This bill, upon passage, is to take immediately into effect.
+Bill L6.03 — Secretary of the Executive Act
+Added to this document on 6/18/2025
+Summary 
+This bill aims to create a position called the ‘Secretary of the Executive’ which will serve as an assistant to the President and the Vice-President and the executive as a whole.
+
+
+Whereas, the executive could use an assistant.
+
+
+1. SHORT TITLE
+   1. This bill may be cited as the ‘SEA’.
+2. AN ACT
+   1. A position under the ‘Office of the President’ shall be created titled the ‘Secretary of the Executive’.
+      1. This position is to be appointed by the President and confirmed by a 50% + 1 majority of voting Senators in the Senate.
+      2. This position may be dismissed:
+         1. immediately upon order by the President
+         2. or with a 50% + 1 majority of voting Senators in the Senate.
+      3. The president or vice-president may delegate any of their powers or responsibilities to the Secretary of the Executive.
+      4. The Secretary of the Executive is not a cabinet position and is to be considered under the ‘Office of the President’.
+      5. This position is to be created within the Executive branch.
+      6. This position is to receive Paygrade 4.
+      7. This position is to have its own role placed below the ‘Lower Court Judge’ role.
+         1. This role should be allowed to see #the-cabinet.
+3. IMPLEMENTATION
+   1. This bill, upon passage, is to take immediately into effect.
+
+
+Bill L6.05 — Department of Advertising Creation Act
+Added to this document on 7/06/2025
+Summary
+This bill will establish a new department under the Secretary of State called the Department of Advertising. Their goal will be to manage all social media platforms that Julia will be on. 
+
+
+
+
+1. SHORT TITLE
+   1. This bill may be called the “Department of Advertising Creation Act” or  “DACA” for short.
+2. MINISTRY OF ADVERTISING
+   1. The Department of Advertising shall be chosen by the Secretary of State
+   2. The Department shall be under the Secretary of State.
+   3. The Department will open and manage YouTube and TikTok accounts sponsored by the Julian government.
+      1. The Department shall also moderate the Julia subreddit.
+3. POSTING
+   1. The Department shall never post anything that endorses a party or a specific campaign or ideology.
+4. IMPLEMENTATION
+   1. Upon passage, this bill is to go into effect immediately.
+
+
+Bill L6.11 — Ministry Server Consolidation Act
+Added to this document on 7/06/2025
+   2. SHORT TITLE
+      1. This Act may be cited as the Ministry Server Consolidation Act (MSCA)
+   3. AN ACT
+      1. A server for all ministries discounting the Ministry of Justice to operate from shall be created by blatant_nepotism and any available volunteers at their earliest convenience to the following specifications:
+
+
+         1. A public lobby channel, viewable and may be chatted in by all.
+
+
+         2. A Ministerial Orders channel, which may only be chatted in by Ministers and the Server Owner.
+
+
+         3. Roles for each Ministry. Including the Minister role and Staff role for each one. The Department of Advertising shall receive the Department Head role, and the Commission of Elections shall receive the Commissioner role. These roles will be designed to allow top level positions to edit and create channels in their respective ministerial sections of the server, and mid level positions to view and chat in channels in these sections.
+
+
+         4. A section for each Ministry with one public channel and one private channel that may only be viewed and chatted in by that Ministry’s staff and the Server Owner. Ministries may add to or edit the channels in their own ministerial section.
+
+
+         5. The Commission of Elections and the Department of Advertising shall receive their own sections which they control.
+
+
+         6. Ministers, Department Heads, Commissioners, Secretaries of State, and their staff shall be invited to the server and given the appropriate roles.
+
+
+         7. The server will be tested for each role to ensure each one has the correct perms.
+
+
+         8. The server’s name shall be decided by RCV of nominations, but the default name until then shall the Forever Rose Ministry HQ.
+
+
+      2. The server shall be considered complete when: 
+1) A permanent name is confirmed for the server.
+2) blatant_nepotism confirms they have finished working on it; and the server is ready for confirmation by the Ministries.
+3) The Minister of the Registrar, Minister of Internal Affairs, Minister of Wiki Maintenance, Secretary of State, and Minister of Finance and Business confirm that they are ready to operate from this server. 
+4) The server is turned over to junk_trash.
+Once the server is complete, it will be posted in #important-information and publicly announced as operational for the public.
+
+
+         9. The previous servers of those respective ministries shall remain in operation for 5 days afterwards as a transitional period. After that, the Forever Rose HQ shall become the only official ministry server for the ministries listed above.
+
+
+         10. The previous servers may then either be deleted by the Minister of that ministry or preserved as a backup or for historical purposes, at the discretion of that Minister.
+
+
+         11. If any Minister title or Ministry is renamed, then approval from them is still needed. If any do not exist at the time the server is ready for Ministerial confirmation, approval from them is no longer needed.
+
+
+         12. When Ministries are created, they are to receive their own section unless they request otherwise or the creation process specifies that they don’t get one.
+
+
+         13. When Ministries or Departments are destroyed, their section is to also be removed by the Server Owner or a designated representative with the Server Owner’s permission.
+
+
+      3. If a ministry receives a channel in the main Julia server, they may still retain their section in the Forever Rose Ministry HQ. 
+
+
+      4. The Server Owner may decide what the server’s profile picture will be through any process they deem appropriate.
+
+
+   4. IMPLEMENTATION
+      1. Upon passage, this bill is to go immediately into effect.
